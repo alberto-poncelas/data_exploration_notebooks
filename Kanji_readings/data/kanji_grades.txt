@@ -1,0 +1,2136 @@
+一	1	one	イチ、イツ、ひと、ひと-つ	ichi, itsu, hito, hito-tsu
+右	1	right 	ウ、ユウ、みぎ	u, yū, migi
+雨	1	rain	ウ、あめ、（あま）	u, ame, 
+円	1	round, yen	エン、まる-い	en, maru-i
+王	1	king	オウ	ō
+音	1	sound	オン、イン、おと、ね	on, in, oto, ne
+下	1	below	カ、ゲ、した、しも、もと、さ-げる、さ-がる、くだ-る、くだ-す、くだ-さる、お-ろす、お-りる	ka, ge, shita, shimo, moto, sa-geru, sa-garu, kuda-ru, kuda-su, kuda-saru, o-rosu, o-riru
+火	1	fire	カ、ひ、（ほ）	ka, hi, 
+花	1	flower	カ、はな	ka, hana
+貝	1	shellfish	かい	kai
+学	1	study	ガク、まな-ぶ	gaku, mana-bu
+気	1	feeling	キ、ケ	ki, ke
+九	1	nine	キュウ、ク、ここの、ここの-つ	kyū, ku, kokono, kokono-tsu
+休	1	rest	キュウ、やす-む、やす-まる、やす-める	kyū, yasu-mu, yasu-maru, yasu-meru
+玉	1	ball	ギョク、たま	gyoku, tama
+金	1	gold	キン、コン、かね、（かな）	kin, kon, kane, 
+空	1	sky	クウ、そら、あ-く、あ-ける、から	kū, sora, a-ku, a-keru, kara
+月	1	month, moon	ゲツ、ガツ、つき	getsu, gatsu, tsuki
+犬	1	dog	ケン、いぬ	ken, inu
+見	1	see	ケン、み-る、み-える、み-せる	ken, mi-ru, mi-eru, mi-seru
+五	1	five	ゴ、いつ、いつ-つ	go, itsu, itsu-tsu
+口	1	mouth	コウ、ク、くち	kō, ku, kuchi
+校	1	school	コウ	kō
+左	1	left 	サ、ひだり	sa, hidari
+三	1	three	サン、み、み-つ、みっ-つ	san, mi, mi-tsu, mi'-tsu
+山	1	mountain	サン、やま	san, yama
+子	1	child	シ、ス、こ	shi, su, ko
+四	1	four	シ、よ、よ-つ、よっ-つ、よん	shi, yo, yo-tsu, yo'-tsu, yon
+糸	1	thread	シ、いと	shi, ito
+字	1	letter	ジ、あざ	ji, aza
+耳	1	ear	ジ、みみ	ji, mimi
+七	1	seven	シチ、なな、なな-つ、（なの）	shichi, nana, nana-tsu, 
+車	1	car	シャ、くるま	sha, kuruma
+手	1	hand	シュ、て、（た）	shu, te, 
+十	1	ten	ジュウ、ジッ、とお、と	jū, ji', too, to
+出	1	exit	シュツ、（スイ）、で-る、だ-す	shutsu, , de-ru, da-su
+女	1	woman	ジョ、ニョ、（ニョウ）、おんな、め	jo, nyo, (nyō), onna, me
+小	1	small	ショウ、ちい-さい、こ、お	shō, chii-sai, ko, o
+上	1	up	ジョウ、（ショウ）、うえ、（うわ）、かみ、あ-げる、あ-がる、のぼ-る、のぼ-せる、のぼ-す	jō, (shō), ue, , kami, a-geru, a-garu, nobo-ru, nobo-seru, nobo-su
+森	1	forest	シン、もり	shin, mori
+人	1	person	ジン、ニン、ひと	jin, nin, hito
+水	1	water	スイ、みず	sui, mizu
+正	1	correct	セイ、ショウ、ただ-しい、ただ-す、まさ	sei, shō, tada-shii, tada-su, masa
+生	1	life	セイ、ショウ、い-きる、い-かす、い-ける、う-まれる、う-む、お-う、は-える、は-やす、き、なま	sei, shō, i-kiru, i-kasu, i-keru, u-mareru, u-mu, o-u, ha-eru, ha-yasu, ki, nama
+青	1	blue	セイ、（ショウ）、あお、あお-い	sei, (shō), ao, ao-i
+夕	1	evening	セキ、ゆう	seki, yū
+石	1	stone	セキ、（シャク）、（コク）、いし	seki, , , ishi
+赤	1	red	セキ、（シャク）、あか、あか-い、あか-らむ、あか-らめる	seki, , aka, aka-i, aka-ramu, aka-rameru
+千	1	thousand	セン、ち	sen, chi
+川	1	river	セン、かわ	sen, kawa
+先	1	previous	セン、さき	sen, saki
+早	1	early	ソウ、（サッ）、はや-い、はや-まる、はや-める	sō, (sa'), haya-i, haya-maru, haya-meru
+草	1	grass	ソウ、くさ	sō, kusa
+足	1	foot	ソク、あし、た-りる、た-る、た-す	soku, ashi, ta-riru, ta-ru, ta-su
+村	1	village	ソン、むら	son, mura
+大	1	large	ダイ、タイ、おお、おお-きい、おお-いに	dai, tai, oo, oo-kii, oo-ini
+男	1	male	ダン、ナン、おとこ	dan, nan, otoko
+竹	1	bamboo	チク、たけ	chiku, take
+中	1	middle	チュウ、（ジュウ）、なか	chū, (jū), naka
+虫	1	insect	チュウ、むし	chū, mushi
+町	1	town	チョウ、まち	chō, machi
+天	1	heaven	テン、あめ、（あま）	ten, ame, 
+田	1	rice paddy	デン、た	den, ta
+土	1	soil	ド、ト、つち	do, to, tsuchi
+二	1	two	ニ、ふた、ふた-つ	ni, futa, futa-tsu
+日	1	day	ニチ、ジツ、ひ、か	nichi, jitsu, hi, ka
+入	1	enter	ニュウ、い-る、い-れる、はい-る	nyū, i-ru, i-reru, hai-ru
+年	1	year	ネン、とし	nen, toshi
+白	1	white	ハク、ビャク、しろ、（しら）、しろ-い	haku, byaku, shiro, , shiro-i
+八	1	eight	ハチ、や、や-つ、やっ-つ、（よう）	hachi, ya, ya-tsu, ya'-tsu, (yō)
+百	1	hundred	ヒャク	hyaku
+文	1	writing	ブン、モン、ふみ	bun, mon, fumi
+木	1	tree	ボク、モク、き、（こ）	boku, moku, ki, 
+本	1	book	ホン、もと	hon, moto
+名	1	name	メイ、ミョウ、な	mei, myō, na
+目	1	eye	モク、（ボク）、め、（ま）	moku, , me, 
+立	1	stand up	リツ、（リュウ）、た-つ、た-てる	ritsu, (ryū), ta-tsu, ta-teru
+力	1	power	リョク、リキ、ちから	ryoku, riki, chikara
+林	1	woods	リン、はやし	rin, hayashi
+六	1	six	ロク、む、む-つ、むっ-つ、（むい）	roku, mu, mu-tsu, mu'-tsu, 
+引	2	pull	イン、ひ-く、ひ-ける	in, hi-ku, hi-keru
+羽	2	feather	ウ、は、はね	u, ha, hane
+雲	2	cloud	ウン、くも	un, kumo
+園	2	garden	エン、その	en, sono
+遠	2	far	エン、（オン）、とお-い	en, , too-i
+何	2	what	カ、なに、（なん）	ka, nani, 
+科	2	section	カ	ka
+夏	2	summer	カ、（ゲ）、なつ	ka, , natsu
+家	2	house	カ、ケ、いえ、や	ka, ke, ie, ya
+歌	2	song	カ、うた、うた-う	ka, uta, uta-u
+画	2	tableau	ガ、カク	ga, kaku
+回	2	times	カイ、（エ）、まわ-る、まわ-す	kai, , mawa-ru, mawa-su
+会	2	association	カイ、エ、あ-う	kai, e, a-u
+海	2	sea	カイ、うみ	kai, umi
+絵	2	picture	カイ、エ	kai, e
+外	2	outside	ガイ、ゲ、そと、ほか、はず-す、はず-れる	gai, ge, soto, hoka, hazu-su, hazu-reru
+角	2	angle	カク、かど、つの	kaku, kado, tsuno
+楽	2	pleasure	ガク、ラク、たの-しい、たの-しむ	gaku, raku, tano-shii, tano-shimu
+活	2	active	カツ	katsu
+間	2	interval	カン、ケン、あいだ、ま	kan, ken, aida, ma
+丸	2	circle	ガン、まる、まる-い、まる-める	gan, maru, maru-i, maru-meru
+岩	2	boulder	ガン、いわ	gan, iwa
+顔	2	face	ガン、かお	gan, kao
+汽	2	steam	キ	ki
+記	2	write down	キ、しる-す	ki, shiru-su
+帰	2	return	キ、かえ-る、かえ-す	ki, kae-ru, kae-su
+弓	2	bow (archery, violin)	キュウ、ゆみ	kyū, yumi
+牛	2	cow	ギュウ、うし	gyū, ushi
+魚	2	fish	ギョ、うお、さかな	gyo, uo, sakana
+京	2	capital	キョウ、ケイ	kyō, kei
+強	2	strong	キョウ、ゴウ、つよ-い、つよ-まる、つよ-める、し-いる	kyō, gō, tsuyo-i, tsuyo-maru, tsuyo-meru, shi-iru
+教	2	teach	キョウ、おし-える、おそ-わる	kyō, oshi-eru, oso-waru
+近	2	near	キン、ちか-い	kin, chika-i
+兄	2	older brother	ケイ、（キョウ）、あに	kei, (kyō), ani
+形	2	shape	ケイ、ギョウ、かた、かたち	kei, gyō, kata, katachi
+計	2	measure	ケイ、はか-る、はか-らう	kei, haka-ru, haka-rau
+元	2	origin	ゲン、ガン、もと	gen, gan, moto
+言	2	say	ゲン、ゴン、い-う、こと	gen, gon, i-u, koto
+原	2	field	ゲン、はら	gen, hara
+戸	2	door	コ、と	ko, to
+古	2	old	コ、ふる-い、ふる-す	ko, furu-i, furu-su
+午	2	noon	ゴ	go
+後	2	behind	ゴ、コウ、のち、うし-ろ、あと、おく-れる	go, kō, nochi, ushi-ro, ato, oku-reru
+語	2	language	ゴ、かた-る、かた-らう	go, kata-ru, kata-rau
+工	2	craft	コウ、ク	kō, ku
+公	2	public	コウ、おおやけ	kō, ooyake
+広	2	wide	コウ、ひろ-い、ひろ-まる、ひろ-める、ひろ-がる、ひろ-げる	kō, hiro-i, hiro-maru, hiro-meru, hiro-garu, hiro-geru
+交	2	mix	コウ、まじ-わる、まじ-える、ま-じる、ま-ざる、ま-ぜる、か-う、か-わす	kō, maji-waru, maji-eru, ma-jiru, ma-zaru, ma-zeru, ka-u, ka-wasu
+光	2	ray	コウ、ひか-る、ひかり	kō, hika-ru, hikari
+考	2	think	コウ、かんが-える	kō, kanga-eru
+行	2	go	コウ、ギョウ、（アン）、い-く、ゆ-く、おこな-う	kō, gyō, , i-ku, yu-ku, okona-u
+高	2	tall, expensive	コウ、たか-い、たか、たか-まる、たか-める	kō, taka-i, taka, taka-maru, taka-meru
+黄	2	yellow	コウ、オウ、き、（こ）	kō, ō, ki, 
+合	2	fit	ゴウ、ガッ、（カッ）、あ-う、あ-わす、あ-わせる	gō, ga', (ka'), a-u, a-wasu, a-waseru
+谷	2	valley	コク、たに	koku, tani
+国	2	country	コク、くに	koku, kuni
+黒	2	black	コク、くろ、くろ-い	koku, kuro, kuro-i
+今	2	now	コン、キン、いま	kon, kin, ima
+才	2	genius	サイ	sai
+細	2	thin	サイ、ほそ-い、ほそ-る、こま-か、こま-かい	sai, hoso-i, hoso-ru, koma-ka, koma-kai
+作	2	make	サク、サ、つく-る	saku, sa, tsuku-ru
+算	2	calculate	サン	san
+止	2	stop	シ、と-まる、と-める	shi, to-maru, to-meru
+市	2	market	シ、いち	shi, ichi
+矢	2	arrow	シ、や	shi, ya
+姉	2	older sister	シ、あね	shi, ane
+思	2	think	シ、おも-う	shi, omo-u
+紙	2	paper	シ、かみ	shi, kami
+寺	2	Buddhist temple	ジ、てら	ji, tera
+自	2	oneself	ジ、シ、みずか-ら	ji, shi, mizuka-ra
+時	2	time	ジ、とき	ji, toki
+室	2	room	シツ、むろ	shitsu, muro
+社	2	company	シャ、やしろ	sha, yashiro
+弱	2	weak	ジャク、よわ-い、よわ-る、よわ-まる、よわ-める	jaku, yowa-i, yowa-ru, yowa-maru, yowa-meru
+首	2	neck	シュ、くび	shu, kubi
+秋	2	autumn	シュウ、あき	shū, aki
+週	2	week	シュウ	shū
+春	2	springtime	シュン、はる	shun, haru
+書	2	write	ショ、か-く	sho, ka-ku
+少	2	few	ショウ、すく-ない、すこ-し	shō, suku-nai, suko-shi
+場	2	place	ジョウ、ば	jō, ba
+色	2	color	ショク、シキ、いろ	shoku, shiki, iro
+食	2	eat, meal	ショク、（ジキ）、く-う、く-らう、た-べる	shoku, , ku-u, ku-rau, ta-beru
+心	2	heart	シン、こころ	shin, kokoro
+新	2	new	シン、あたら-しい、あら-た、にい	shin, atara-shii, ara-ta, nii
+親	2	parent	シン、おや、した-しい、した-しむ	shin, oya, shita-shii, shita-shimu
+図	2	diagram	ズ、ト、はか-る	zu, to, haka-ru
+数	2	number	スウ、（ス）、かず、かぞ-える	sū, , kazu, kazo-eru
+西	2	west	セイ、サイ、にし	sei, sai, nishi
+声	2	voice	セイ、（ショウ）、こえ、（こわ）	sei, (shō), koe, 
+星	2	star	セイ、（ショウ）、ほし	sei, (shō), hoshi
+晴	2	clear up	セイ、は-れる、は-らす	sei, ha-reru, ha-rasu
+切	2	cut	セツ、（サイ）、き-る、き-れる	setsu, , ki-ru, ki-reru
+雪	2	snow	セツ、ゆき	setsu, yuki
+船	2	boat	セン、ふね、（ふな）	sen, fune, 
+線	2	line	セン	sen
+前	2	in front	ゼン、まえ	zen, mae
+組	2	association	ソ、く-む、くみ	so, ku-mu, kumi
+走	2	run	ソウ、はし-る	sō, hashi-ru
+多	2	many	タ、おお-い	ta, oo-i
+太	2	thick	タイ、タ、ふと-い、ふと-る	tai, ta, futo-i, futo-ru
+体	2	body	タイ、テイ、からだ	tai, tei, karada
+台	2	pedestal	ダイ、タイ	dai, tai
+地	2	ground	チ、ジ	chi, ji
+池	2	pond	チ、いけ	chi, ike
+知	2	know	チ、し-る	chi, shi-ru
+茶	2	tea	チャ、サ	cha, sa
+昼	2	daytime	チュウ、ひる	chū, hiru
+長	2	long	チョウ、なが-い	chō, naga-i
+鳥	2	bird	チョウ、とり	chō, tori
+朝	2	morning	チョウ、あさ	chō, asa
+直	2	straight	チョク、ジキ、ただ-ちに、なお-す、なお-る	choku, jiki, tada-chini, nao-su, nao-ru
+通	2	pass through	ツウ、（ツ）、とお-る、とお-す、かよ-う	tsū, , too-ru, too-su, kayo-u
+弟	2	younger brother	テイ、（ダイ）、（デ）、おとうと	tei, , , otōto
+店	2	shop	テン、みせ	ten, mise
+点	2	point	テン	ten
+電	2	electricity	デン	den
+刀	2	sword	トウ、かたな	tō, katana
+冬	2	winter	トウ、ふゆ	tō, fuyu
+当	2	hit	トウ、あ-たる、あ-てる	tō, a-taru, a-teru
+東	2	east	トウ、ひがし	tō, higashi
+答	2	answer	トウ、こた-える、こた-え	tō, kota-eru, kota-e
+頭	2	head	トウ、ズ、（ト）、あたま、かしら	tō, zu, , atama, kashira
+同	2	same	ドウ、おな-じ	dō, ona-ji
+道	2	road	ドウ、（トウ）、みち	dō, (tō), michi
+読	2	read	ドク、トク、（トウ）、よ-む	doku, toku, (tō), yo-mu
+内	2	inside	ナイ、（ダイ）、うち	nai, , uchi
+南	2	south	ナン、（ナ）、みなみ	nan, , minami
+肉	2	meat	ニク	niku
+馬	2	horse	バ、うま、（ま）	ba, uma, 
+売	2	sell	バイ、う-る、う-れる	bai, u-ru, u-reru
+買	2	buy	バイ、か-う	bai, ka-u
+麦	2	wheat	バク、むぎ	baku, mugi
+半	2	half	ハン、なか-ば	han, naka-ba
+番	2	one's turn	バン	ban
+父	2	father	フ、ちち	fu, chichi
+風	2	wind	フウ、（フ）、かぜ、（かざ）	fū, , kaze, 
+分	2	part, minute of time	ブン、フン、ブ、わ-ける、わ-かれる、わ-かる、わ-かつ	bun, fun, bu, wa-keru, wa-kareru, wa-karu, wa-katsu
+聞	2	hear	ブン、モン、き-く、き-こえる	bun, mon, ki-ku, ki-koeru
+米	2	rice	ベイ、マイ、こめ	bei, mai, kome
+歩	2	walk	ホ、ブ、（フ）、ある-く、あゆ-む	ho, bu, , aru-ku, ayu-mu
+母	2	mother	ボ、はは	bo, haha
+方	2	direction	ホウ、かた	hō, kata
+北	2	north	ホク、きた	hoku, kita
+毎	2	every	マイ	mai
+妹	2	younger sister	マイ、いもうと	mai, imōto
+万	2	ten thousand	マン、バン	man, ban
+明	2	bright	メイ、ミョウ、あ-かり、あか-るい、あか-るむ、あか-らむ、あき-らか、あ-ける、あ-く、あ-くる、あ-かす	mei, myō, a-kari, aka-rui, aka-rumu, aka-ramu, aki-raka, a-keru, a-ku, a-kuru, a-kasu
+鳴	2	chirp	メイ、な-く、な-る、な-らす	mei, na-ku, na-ru, na-rasu
+毛	2	hair	モウ、け	mō, ke
+門	2	gates	モン、かど	mon, kado
+夜	2	night	ヤ、よ、よる	ya, yo, yoru
+野	2	field	ヤ、の	ya, no
+友	2	friend	ユウ、とも	yū, tomo
+用	2	use	ヨウ、もち-いる	yō, mochi-iru
+曜	2	day of the week	ヨウ	yō
+来	2	come	ライ、く-る、きた-る、きた-す	rai, ku-ru, kita-ru, kita-su
+里	2	village	リ、さと	ri, sato
+理	2	reason	リ	ri
+話	2	talk	ワ、はな-す、はなし	wa, hana-su, hanashi
+悪	3	bad	アク、オ、わる-い	aku, o, waru-i
+安	3	cheap	アン、やす-い	an, yasu-i
+暗	3	dark	アン、くら-い	an, kura-i
+医	3	medicine	イ	i
+委	3	committee	イ、ゆだ-ねる	i, yuda-neru
+意	3	idea	イ	i
+育	3	nurture	イク、そだ-つ、そだ-てる、はぐく-む	iku, soda-tsu, soda-teru, haguku-mu
+員	3	member	イン	in
+院	3	institution	イン	in
+飲	3	drink	イン、の-む	in, no-mu
+運	3	carry	ウン、はこ-ぶ	un, hako-bu
+泳	3	swim	エイ、およ-ぐ	ei, oyo-gu
+駅	3	station	エキ	eki
+央	3	center	オウ	ō
+横	3	side	オウ、よこ	ō, yoko
+屋	3	roof	オク、や	oku, ya
+温	3	warm	オン、あたた-か、あたた-かい、あたた-まる、あたた-める	on, atata-ka, atata-kai, atata-maru, atata-meru
+化	3	change	カ、ケ、ば-ける、ば-かす	ka, ke, ba-keru, ba-kasu
+荷	3	luggage	カ、に	ka, ni
+界	3	world	カイ	kai
+開	3	open	カイ、ひら-く、ひら-ける、あ-く、あ-ける	kai, hira-ku, hira-keru, a-ku, a-keru
+階	3	floor of a building	カイ	kai
+寒	3	cold	カン、さむ-い	kan, samu-i
+感	3	feeling	カン	kan
+漢	3	China	カン	kan
+館	3	public building	カン、やかた	kan, yakata
+岸	3	beach	ガン、きし	gan, kishi
+起	3	wake up	キ、お-きる、お-こる、お-こす	ki, o-kiru, o-koru, o-kosu
+期	3	period of time	キ、（ゴ）	ki, 
+客	3	guest	キャク、カク	kyaku, kaku
+究	3	research	キュウ、きわ-める	kyū, kiwa-meru
+急	3	hurry	キュウ、いそ-ぐ	kyū, iso-gu
+級	3	rank	キュウ	kyū
+宮	3	Shinto shrine	キュウ、グウ、（ク）、みや	kyū, gū, , miya
+球	3	sphere	キュウ、たま	kyū, tama
+去	3	leave	キョ、コ、さ-る	kyo, ko, sa-ru
+橋	3	bridge	キョウ、はし	kyō, hashi
+業	3	business	ギョウ、ゴウ、わざ	gyō, gō, waza
+曲	3	musical composition	キョク、ま-がる、ま-げる	kyoku, ma-garu, ma-geru
+局	3	office	キョク	kyoku
+銀	3	silver	ギン	gin
+区	3	ward	ク	ku
+苦	3	suffer	ク、くる-しい、くる-しむ、くる-しめる、にが-い、にが-る	ku, kuru-shii, kuru-shimu, kuru-shimeru, niga-i, niga-ru
+具	3	tool	グ	gu
+君	3	you	クン、きみ	kun, kimi
+係	3	person in charge	ケイ、かか-る、かかり	kei, kaka-ru, kakari
+軽	3	light	ケイ、かる-い、かろ-やか	kei, karu-i, karo-yaka
+血	3	blood	ケツ、ち	ketsu, chi
+決	3	decide	ケツ、き-める、き-まる	ketsu, ki-meru, ki-maru
+研	3	sharpen	ケン、と-ぐ	ken, to-gu
+県	3	prefecture	ケン	ken
+庫	3	warehouse	コ、（ク）	ko, 
+湖	3	lake	コ、みずうみ	ko, mizūmi
+向	3	over there	コウ、む-く、む-ける、む-かう、む-こう	kō, mu-ku, mu-keru, mu-kau, mu-kō
+幸	3	happiness	コウ、さいわ-い、さち、しあわ-せ	kō, saiwa-i, sachi, shiawa-se
+港	3	harbor	コウ、みなと	kō, minato
+号	3	number	ゴウ	gō
+根	3	root	コン、ね	kon, ne
+祭	3	festival	サイ、まつ-る、まつ-り	sai, matsu-ru, matsu-ri
+皿	3	dish	さら	sara
+仕	3	do	シ、（ジ）、つか-える	shi, , tsuka-eru
+死	3	death	シ、し-ぬ	shi, shi-nu
+使	3	use	シ、つか-う	shi, tsuka-u
+始	3	begin	シ、はじ-める、はじ-まる	shi, haji-meru, haji-maru
+指	3	finger	シ、ゆび、さ-す	shi, yubi, sa-su
+歯	3	tooth	シ、は	shi, ha
+詩	3	poem	シ	shi
+次	3	next	ジ、シ、つ-ぐ、つぎ	ji, shi, tsu-gu, tsugi
+事	3	abstract thing	ジ、（ズ）、こと	ji, , koto
+持	3	hold	ジ、も-つ	ji, mo-tsu
+式	3	style	シキ	shiki
+実	3	truth	ジツ、み、みの-る	jitsu, mi, mino-ru
+写	3	copy	シャ、うつ-す、うつ-る	sha, utsu-su, utsu-ru
+者	3	someone	シャ、もの	sha, mono
+主	3	master	シュ、（ス）、ぬし、おも	shu, , nushi, omo
+守	3	protect	シュ、（ス）、まも-る、も-り	shu, , mamo-ru, mo-ri
+取	3	take	シュ、と-る	shu, to-ru
+酒	3	alcoholic drink	シュ、さけ、（さか）	shu, sake, 
+受	3	accept	ジュ、う-ける、う-かる	ju, u-keru, u-karu
+州	3	state	シュウ、す	shū, su
+拾	3	pick up	シュウ、ジュウ、ひろ-う	shū, jū, hiro-u
+終	3	end	シュウ、お-わる、お-える	shū, o-waru, o-eru
+習	3	learn	シュウ、なら-う	shū, nara-u
+集	3	collect	シュウ、あつ-まる、あつ-める、つど-う	shū, atsu-maru, atsu-meru, tsudo-u
+住	3	dwelling	ジュウ、す-む、す-まう	jū, su-mu, su-mau
+重	3	heavy	ジュウ、チョウ、え、おも-い、かさ-ねる、かさ-なる	jū, chō, e, omo-i, kasa-neru, kasa-naru
+宿	3	inn	シュク、やど、やど-る、やど-す	shuku, yado, yado-ru, yado-su
+所	3	place	ショ、ところ	sho, tokoro
+暑	3	hot	ショ、あつ-い	sho, atsu-i
+助	3	help	ジョ、たす-ける、たす-かる、すけ	jo, tasu-keru, tasu-karu, suke
+昭	3	shining	ショウ	shō
+消	3	extinguish	ショウ、き-える、け-す	shō, ki-eru, ke-su
+商	3	sell	ショウ、あきな-う	shō, akina-u
+章	3	chapter	ショウ	shō
+勝	3	win	ショウ、か-つ、まさ-る	shō, ka-tsu, masa-ru
+乗	3	ride	ジョウ、の-る、の-せる	jō, no-ru, no-seru
+植	3	plant	ショク、う-える、う-わる	shoku, u-eru, u-waru
+申	3	say	シン、もう-す	shin, mō-su
+身	3	body	シン、み	shin, mi
+神	3	god	シン、ジン、かみ、（かん）、（こう）	shin, jin, kami, , (kō)
+真	3	TRUE	シン、ま	shin, ma
+深	3	deep	シン、ふか-い、ふか-まる、ふか-める	shin, fuka-i, fuka-maru, fuka-meru
+進	3	advance	シン、すす-む、すす-める	shin, susu-mu, susu-meru
+世	3	world	セイ、セ、よ	sei, se, yo
+整	3	put in order	セイ、ととの-える、ととの-う	sei, totono-eru, totono-u
+昔	3	long ago	セキ、（シャク）、むかし	seki, , mukashi
+全	3	whole	ゼン、まった-く、すべ-て	zen, matta-ku, sube-te
+相	3	mutual	ソウ、ショウ、あい	sō, shō, ai
+送	3	send	ソウ、おく-る	sō, oku-ru
+想	3	concept	ソウ、（ソ）	sō, 
+息	3	breath	ソク、いき	soku, iki
+速	3	fast	ソク、はや-い、はや-める、はや-まる、すみ-やか	soku, haya-i, haya-meru, haya-maru, sumi-yaka
+族	3	tribe	ゾク	zoku
+他	3	other	タ、ほか	ta, hoka
+打	3	hit	ダ、う-つ	da, u-tsu
+対	3	opposite	タイ、ツイ	tai, tsui
+待	3	wait	タイ、ま-つ	tai, ma-tsu
+代	3	substitute	ダイ、タイ、か-わる、か-える、よ、しろ	dai, tai, ka-waru, ka-eru, yo, shiro
+第	3	ordinal number prefix	ダイ	dai
+題	3	topic	ダイ	dai
+炭	3	charcoal	タン、すみ	tan, sumi
+短	3	short	タン、みじか-い	tan, mijika-i
+談	3	discuss	ダン	dan
+着	3	wear	チャク、（ジャク）、き-る、き-せる、つ-く、つ-ける	chaku, , ki-ru, ki-seru, tsu-ku, tsu-keru
+注	3	pour	チュウ、そそ-ぐ	chū, soso-gu
+柱	3	pillar	チュウ、はしら	chū, hashira
+丁	3	ward	チョウ、テイ	chō, tei
+帳	3	account book	チョウ	chō
+調	3	investigate	チョウ、しら-べる、ととの-う、ととの-える	chō, shira-beru, totono-u, totono-eru
+追	3	follow	ツイ、お-う	tsui, o-u
+定	3	decide	テイ、ジョウ、さだ-める、さだ-まる、さだ-か	tei, jō, sada-meru, sada-maru, sada-ka
+庭	3	garden	テイ、にわ	tei, niwa
+笛	3	flute	テキ、ふえ	teki, fue
+鉄	3	iron	テツ	tetsu
+転	3	revolve	テン、ころ-がる、ころ-げる、ころ-がす、ころ-ぶ	ten, koro-garu, koro-geru, koro-gasu, koro-bu
+都	3	metropolis	ト、ツ、みやこ	to, tsu, miyako
+度	3	degrees	ド、（ト）、（タク）、たび	do, , , tabi
+投	3	throw	トウ、な-げる	tō, na-geru
+豆	3	beans	トウ、（ズ）、まめ	tō, , mame
+島	3	island	トウ、しま	tō, shima
+湯	3	hot water	トウ、ゆ	tō, yu
+登	3	climb	トウ、ト、のぼ-る	tō, to, nobo-ru
+等	3	class	トウ、ひと-しい	tō, hito-shii
+動	3	move	ドウ、うご-く、うご-かす	dō, ugo-ku, ugo-kasu
+童	3	juvenile	ドウ、わらべ	dō, warabe
+農	3	farming	ノウ	nō
+波	3	wave	ハ、なみ	ha, nami
+配	3	distribute	ハイ、くば-る	hai, kuba-ru
+倍	3	double	バイ	bai
+箱	3	box	はこ	hako
+畑	3	farm	はた、はたけ	hata, hatake
+発	3	departure	ハツ、ホツ	hatsu, hotsu
+反	3	anti-	ハン、（ホン）、（タン）、そ-る、そ-らす	han, , , so-ru, so-rasu
+坂	3	slope	ハン、さか	han, saka
+板	3	board	ハン、バン、いた	han, ban, ita
+皮	3	skin	ヒ、かわ	hi, kawa
+悲	3	sad	ヒ、かな-しい、かな-しむ	hi, kana-shii, kana-shimu
+美	3	beauty	ビ、うつく-しい	bi, utsuku-shii
+鼻	3	nose	ビ、はな	bi, hana
+筆	3	writing brush	ヒツ、ふで	hitsu, fude
+氷	3	ice	ヒョウ、こおり、ひ	hyō, koori, hi
+表	3	express	ヒョウ、おもて、あらわ-す、あらわ-れる	hyō, omote, arawa-su, arawa-reru
+秒	3	second (part of time)	ビョウ	byō
+病	3	sick	ビョウ、（ヘイ）、や-む、やまい	byō, , ya-mu, yamai
+品	3	article	ヒン、しな	hin, shina
+負	3	lose	フ、ま-ける、ま-かす、お-う	fu, ma-keru, ma-kasu, o-u
+部	3	part	ブ	bu
+服	3	clothes	フク	fuku
+福	3	luck	フク	fuku
+物	3	thing	ブツ、モツ、もの	butsu, motsu, mono
+平	3	flat	ヘイ、ビョウ、たい-ら、ひら	hei, byō, tai-ra, hira
+返	3	return	ヘン、かえ-す、かえ-る	hen, kae-su, kae-ru
+勉	3	exertion	ベン	ben
+放	3	release	ホウ、はな-す、はな-つ、はな-れる、ほう-る	hō, hana-su, hana-tsu, hana-reru, hō-ru
+味	3	flavor	ミ、あじ、あじ-わう	mi, aji, aji-wau
+命	3	fate	メイ、ミョウ、いのち	mei, myō, inochi
+面	3	face	メン、おも、おもて、つら	men, omo, omote, tsura
+問	3	question	モン、と-う、と-い、（とん）	mon, to-u, to-i, 
+役	3	service	ヤク、エキ	yaku, eki
+薬	3	medicine	ヤク、くすり	yaku, kusuri
+由	3	reason	ユ、ユウ、（ユイ）、よし	yu, yū, , yoshi
+油	3	oil	ユ、あぶら	yu, abura
+有	3	have	ユウ、ウ、あ-る	yū, u, a-ru
+遊	3	play	ユウ、（ユ）、あそ-ぶ	yū, , aso-bu
+予	3	in advance	ヨ	yo
+羊	3	sheep	ヨウ、ひつじ	yō, hitsuji
+洋	3	ocean	ヨウ	yō
+葉	3	leaf	ヨウ、は	yō, ha
+陽	3	sunshine	ヨウ	yō
+様	3	formal title	ヨウ、さま	yō, sama
+落	3	fall	ラク、お-ちる、お-とす	raku, o-chiru, o-tosu
+流	3	stream	リュウ、（ル）、なが-れる、なが-す	ryū, , naga-reru, naga-su
+旅	3	trip	リョ、たび	ryo, tabi
+両	3	both	リョウ	ryō
+緑	3	green	リョク、（ロク）、みどり	ryoku, , midori
+礼	3	thanks	レイ、ライ	rei, rai
+列	3	row	レツ	retsu
+練	3	practice	レン、ね-る	ren, ne-ru
+路	3	road	ロ、じ	ro, ji
+和	3	peace	ワ、（オ）、やわ-らぐ、やわ-らげる、なご-む、なご-やか	wa, , yawa-ragu, yawa-rageru, nago-mu, nago-yaka
+愛	4	love	アイ	ai
+案	4	plan	アン	an
+以	4	by means of	イ	i
+衣	4	clothes	イ、ころも	i, koromo
+位	4	rank	イ、くらい	i, kurai
+囲	4	surround	イ、かこ-む、かこ-う	i, kako-mu, kako-u
+胃	4	stomach	イ	i
+印	4	mark	イン、しるし	in, shirushi
+英	4	England	エイ	ei
+栄	4	prosperity	エイ、さか-える、は-え、は-える	ei, saka-eru, ha-e, ha-eru
+塩	4	salt	エン、しお	en, shio
+億	4	hundred million	オク	oku
+加	4	add	カ、くわ-える、くわ-わる	ka, kuwa-eru, kuwa-waru
+果	4	fruit	カ、は-たす、は-てる、は-て	ka, ha-tasu, ha-teru, ha-te
+貨	4	freight	カ	ka
+課	4	section	カ	ka
+芽	4	bud	ガ、め	ga, me
+改	4	reformation	カイ、あらた-める、あらた-まる	kai, arata-meru, arata-maru
+械	4	contraption	カイ	kai
+害	4	harm	ガイ	gai
+街	4	street	ガイ、（カイ）、まち	gai, , machi
+各	4	each	カク、おのおの	kaku, onoono
+覚	4	memorize	カク、おぼ-える、さ-ます、さ-める	kaku, obo-eru, sa-masu, sa-meru
+完	4	perfect	カン	kan
+官	4	government official	カン	kan
+管	4	pipe	カン、くだ	kan, kuda
+関	4	related	カン、せき、かか-わる	kan, seki, kaka-waru
+観	4	observe	カン	kan
+願	4	request	ガン、ねが-う	gan, nega-u
+希	4	hope	キ	ki
+季	4	seasons	キ	ki
+紀	4	chronicle	キ	ki
+喜	4	rejoice	キ、よろこ-ぶ	ki, yoroko-bu
+旗	4	national flag	キ、はた	ki, hata
+器	4	container	キ、うつわ	ki, utsuwa
+機	4	machine	キ、はた	ki, hata
+議	4	deliberation	ギ	gi
+求	4	request	キュウ、もと-める	kyū, moto-meru
+泣	4	cry	キュウ、な-く	kyū, na-ku
+救	4	salvation	キュウ、すく-う	kyū, suku-u
+給	4	salary	キュウ	kyū
+挙	4	raise	キョ、あ-げる、あ-がる	kyo, a-geru, a-garu
+漁	4	fishing	ギョ、リョウ	gyo, ryō
+共	4	together	キョウ、とも	kyō, tomo
+協	4	cooperation	キョウ	kyō
+鏡	4	mirror	キョウ、かがみ	kyō, kagami
+競	4	compete	キョウ、ケイ、きそ-う、せ-る	kyō, kei, kiso-u, se-ru
+極	4	poles	キョク、ゴク、きわ-める、きわ-まる、きわ-み	kyoku, goku, kiwa-meru, kiwa-maru, kiwa-mi
+訓	4	instruction	クン	kun
+軍	4	army	グン	gun
+郡	4	county	グン	gun
+径	4	diameter	ケイ	kei
+型	4	model	ケイ、かた	kei, kata
+景	4	scenery	ケイ	kei
+芸	4	art	ゲイ	gei
+欠	4	lack	ケツ、か-ける、か-く	ketsu, ka-keru, ka-ku
+結	4	tie	ケツ、むす-ぶ、ゆ-う、ゆ-わえる	ketsu, musu-bu, yu-u, yu-waeru
+建	4	build	ケン、（コン）、た-てる、た-つ	ken, , ta-teru, ta-tsu
+健	4	healthy	ケン、すこ-やか	ken, suko-yaka
+験	4	test	ケン、（ゲン）	ken, 
+固	4	hard	コ、かた-める、かた-まる、かた-い	ko, kata-meru, kata-maru, kata-i
+功	4	achievement	コウ、（ク）	kō, 
+好	4	like	コウ、この-む、す-く	kō, kono-mu, su-ku
+候	4	climate	コウ、そうろう	kō, sōrō
+航	4	cruise	コウ	kō
+康	4	health	コウ	kō
+告	4	tell	コク、つ-げる	koku, tsu-geru
+差	4	distinction	サ、さ-す	sa, sa-su
+菜	4	vegetable	サイ、な	sai, na
+最	4	most	サイ、もっと-も	sai, motto-mo
+材	4	lumber	ザイ	zai
+昨	4	previous	サク	saku
+札	4	tag	サツ、ふだ	satsu, fuda
+刷	4	printing	サツ、す-る	satsu, su-ru
+殺	4	kill	サツ、（サイ）、（セツ）、ころ-す	satsu, , , koro-su
+察	4	guess	サツ	satsu
+参	4	participate	サン、まい-る	san, mai-ru
+産	4	give birth	サン、う-む、う-まれる、うぶ	san, u-mu, u-mareru, ubu
+散	4	scatter	サン、ち-る、ち-らす、ち-らかす、ち-らかる	san, chi-ru, chi-rasu, chi-rakasu, chi-rakaru
+残	4	remainder	ザン、のこ-る、のこ-す	zan, noko-ru, noko-su
+士	4	gentleman	シ	shi
+氏	4	family name	シ、うじ	shi, uji
+史	4	history	シ	shi
+司	4	director	シ	shi
+試	4	test	シ、こころ-みる、ため-す	shi, kokoro-miru, tame-su
+児	4	child	ジ、（ニ）	ji, 
+治	4	govern	ジ、チ、おさ-める、おさ-まる、なお-る、なお-す	ji, chi, osa-meru, osa-maru, nao-ru, nao-su
+辞	4	resign	ジ、や-める	ji, ya-meru
+失	4	lose	シツ、うしな-う	shitsu, ushina-u
+借	4	borrow	シャク、か-りる	shaku, ka-riru
+種	4	kind	シュ、たね	shu, tane
+周	4	circumference	シュウ、まわ-り	shū, mawa-ri
+祝	4	celebrate	シュク、（シュウ）、いわ-う	shuku, (shū), iwa-u
+順	4	obey	ジュン	jun
+初	4	first	ショ、はじ-め、はじ-めて、はつ、うい、そ-める	sho, haji-me, haji-mete, hatsu, ui, so-meru
+松	4	pine	ショウ、まつ	shō, matsu
+笑	4	laugh	ショウ、わら-う、え-む	shō, wara-u, e-mu
+唱	4	chant	ショウ、とな-える	shō, tona-eru
+焼	4	bake	ショウ、や-く、や-ける	shō, ya-ku, ya-keru
+象	4	elephant	ショウ、ゾウ	shō, zō
+照	4	illuminate	ショウ、て-る、て-らす、て-れる	shō, te-ru, te-rasu, te-reru
+賞	4	prize	ショウ	shō
+臣	4	retainer	シン、ジン	shin, jin
+信	4	trust	シン	shin
+成	4	become	セイ、（ジョウ）、な-る、な-す	sei, (jō), na-ru, na-su
+省	4	government ministry	セイ、ショウ、かえり-みる、はぶ-く	sei, shō, kaeri-miru, habu-ku
+清	4	pure	セイ、（ショウ）、きよ-い、きよ-まる、きよ-める	sei, (shō), kiyo-i, kiyo-maru, kiyo-meru
+静	4	quiet	セイ、（ジョウ）、しず、しず-か、しず-まる、しず-める	sei, (jō), shizu, shizu-ka, shizu-maru, shizu-meru
+席	4	seat	セキ	seki
+積	4	accumulate	セキ、つ-む、つ-もる	seki, tsu-mu, tsu-moru
+折	4	fold	セツ、お-る、おり、お-れる	setsu, o-ru, ori, o-reru
+節	4	node	セツ、（セチ）、ふし	setsu, , fushi
+説	4	theory	セツ、（ゼイ）、と-く	setsu, , to-ku
+浅	4	shallow	セン、あさ-い	sen, asa-i
+戦	4	war	セン、いくさ、たたか-う	sen, ikusa, tataka-u
+選	4	choose	セン、えら-ぶ	sen, era-bu
+然	4	so	ゼン、ネン	zen, nen
+争	4	conflict	ソウ、あらそ-う	sō, araso-u
+倉	4	warehouse	ソウ、くら	sō, kura
+巣	4	nest	ソウ、す	sō, su
+束	4	bundle	ソク、たば	soku, taba
+側	4	side	ソク、がわ	soku, gawa
+続	4	continue	ゾク、つづ-く、つづ-ける	zoku, tsuzu-ku, tsuzu-keru
+卒	4	graduate	ソツ	sotsu
+孫	4	grandchild	ソン、まご	son, mago
+帯	4	sash	タイ、お-びる、おび	tai, o-biru, obi
+隊	4	group	タイ	tai
+達	4	attain	タツ	tatsu
+単	4	simple	タン	tan
+置	4	put	チ、お-く	chi, o-ku
+仲	4	relationship	チュウ、なか	chū, naka
+貯	4	savings	チョ	cho
+兆	4	portent, trillion	チョウ、きざ-す、きざ-し	chō, kiza-su, kiza-shi
+腸	4	intestines	チョウ	chō
+低	4	low	テイ、ひく-い、ひく-める、ひく-まる	tei, hiku-i, hiku-meru, hiku-maru
+底	4	bottom	テイ、そこ	tei, soko
+停	4	halt	テイ	tei
+的	4	target	テキ、まと	teki, mato
+典	4	code	テン	ten
+伝	4	transmit	デン、つた-わる、つた-える、つた-う	den, tsuta-waru, tsuta-eru, tsuta-u
+徒	4	junior	ト	to
+努	4	toil	ド、つと-める	do, tsuto-meru
+灯	4	lamp	トウ、ひ	tō, hi
+堂	4	public chamber	ドウ	dō
+働	4	work	ドウ、はたら-く	dō, hatara-ku
+特	4	special	トク	toku
+得	4	acquire	トク、え-る、う-る	toku, e-ru, u-ru
+毒	4	poison	ドク	doku
+熱	4	heat	ネツ、あつ-い	netsu, atsu-i
+念	4	thought	ネン	nen
+敗	4	failure	ハイ、やぶ-れる	hai, yabu-reru
+梅	4	ume (Japanese apricot)	バイ、うめ	bai, ume
+博	4	Dr.	ハク、（バク）	haku, 
+飯	4	meal	ハン、めし	han, meshi
+飛	4	fly	ヒ、と-ぶ、と-ばす	hi, to-bu, to-basu
+費	4	expense	ヒ、つい-やす、つい-える	hi, tsui-yasu, tsui-eru
+必	4	without fail	ヒツ、かなら-ず	hitsu, kanara-zu
+票	4	ballot	ヒョウ	hyō
+標	4	signpost	ヒョウ	hyō
+不	4	non-	フ、ブ	fu, bu
+夫	4	husband	フ、（フウ）、おっと	fu, (fū), otto
+付	4	attach	フ、つ-ける、つ-く	fu, tsu-keru, tsu-ku
+府	4	urban prefecture	フ	fu
+副	4	vice	フク	fuku
+粉	4	flour	フン、こ、こな	fun, ko, kona
+兵	4	soldier	ヘイ、ヒョウ	hei, hyō
+別	4	separate	ベツ、わか-れる	betsu, waka-reru
+辺	4	environs	ヘン、あた-り、べ	hen, ata-ri, be
+変	4	change	ヘン、か-わる、か-える	hen, ka-waru, ka-eru
+便	4	convenience	ベン、ビン、たよ-り	ben, bin, tayo-ri
+包	4	wrap	ホウ、つつ-む	hō, tsutsu-mu
+法	4	method	ホウ、（ハッ）、（ホッ）	hō, (ha'), (ho')
+望	4	hope	ボウ、モウ、のぞ-む	bō, mō, nozo-mu
+牧	4	breed	ボク、まき	boku, maki
+末	4	end	マツ、バツ、すえ	matsu, batsu, sue
+満	4	full	マン、み-ちる、み-たす	man, mi-chiru, mi-tasu
+未	4	not yet	ミ	mi
+脈	4	vein	ミャク	myaku
+民	4	people	ミン、たみ	min, tami
+無	4	nothing	ム、ブ、な-い	mu, bu, na-i
+約	4	promise	ヤク	yaku
+勇	4	courage	ユウ、いさ-む	yū, isa-mu
+要	4	need	ヨウ、かなめ、い-る	yō, kaname, i-ru
+養	4	foster	ヨウ、やしな-う	yō, yashina-u
+浴	4	bathe	ヨク、あ-びる、あ-びせる	yoku, a-biru, a-biseru
+利	4	profit	リ、き-く	ri, ki-ku
+陸	4	land	リク	riku
+良	4	good	リョウ、よ-い	ryō, yo-i
+料	4	fee	リョウ	ryō
+量	4	quantity	リョウ、はか-る	ryō, haka-ru
+輪	4	wheel	リン、わ	rin, wa
+類	4	sort	ルイ、たぐ-い	rui, tagu-i
+令	4	orders	レイ	rei
+冷	4	cool	レイ、つめ-たい、ひ-える、ひ-や、ひ-やす、ひ-やかす、さ-める、さ-ます	rei, tsume-tai, hi-eru, hi-ya, hi-yasu, hi-yakasu, sa-meru, sa-masu
+例	4	example	レイ、たと-える	rei, tato-eru
+歴	4	curriculum	レキ	reki
+連	4	take along	レン、つら-なる、つら-ねる、つ-れる	ren, tsura-naru, tsura-neru, tsu-reru
+老	4	old man	ロウ、お-いる、ふ-ける	rō, o-iru, fu-keru
+労	4	labour	ロウ	rō
+録	4	record	ロク	roku
+圧	5	pressure	アツ	atsu
+移	5	shift	イ、うつ-る、うつ-す	i, utsu-ru, utsu-su
+因	5	cause	イン、よ-る	in, yo-ru
+永	5	eternity	エイ、なが-い	ei, naga-i
+営	5	manage	エイ、いとな-む	ei, itona-mu
+衛	5	defense	エイ	ei
+易	5	easy	エキ、イ、やさ-しい	eki, i, yasa-shii
+益	5	benefit	エキ、（ヤク）	eki, 
+液	5	fluid	エキ	eki
+演	5	perform	エン	en
+応	5	respond	オウ、こた-える	ō, kota-eru
+往	5	outward journey	オウ	ō
+桜	5	cherry tree	オウ、さくら	ō, sakura
+恩	5	grace	オン	on
+可	5	possible	カ	ka
+仮	5	temporary	カ、（ケ）、かり	ka, , kari
+価	5	value	カ、あたい	ka, atai
+河	5	river	カ、かわ	ka, kawa
+過	5	go beyond	カ、す-ぎる、す-ごす、あやま-つ、あやま-ち	ka, su-giru, su-gosu, ayama-tsu, ayama-chi
+賀	5	congratulations	ガ	ga
+快	5	cheerful	カイ、こころよ-い	kai, kokoroyo-i
+解	5	untie	カイ、ゲ、と-く、と-かす、と-ける	kai, ge, to-ku, to-kasu, to-keru
+格	5	status	カク、（コウ）	kaku, (kō)
+確	5	certain	カク、たし-か、たし-かめる	kaku, tashi-ka, tashi-kameru
+額	5	amount	ガク、ひたい	gaku, hitai
+刊	5	publish	カン	kan
+幹	5	tree-trunk	カン、みき	kan, miki
+慣	5	accustomed	カン、な-れる、な-らす	kan, na-reru, na-rasu
+眼	5	eyeball	ガン、（ゲン）、まなこ	gan, , manako
+基	5	foundation	キ、もと、もとい	ki, moto, motoi
+寄	5	approach	キ、よ-る、よ-せる	ki, yo-ru, yo-seru
+規	5	rule	キ	ki
+技	5	skill	ギ、わざ	gi, waza
+義	5	righteousness	ギ	gi
+逆	5	inverted	ギャク、さか、さか-らう	gyaku, saka, saka-rau
+久	5	long time	キュウ、（ク）、ひさ-しい	kyū, , hisa-shii
+旧	5	old times	キュウ	kyū
+居	5	reside	キョ、い-る	kyo, i-ru
+許	5	permit	キョ、ゆる-す	kyo, yuru-su
+境	5	boundary	キョウ、（ケイ）、さかい	kyō, , sakai
+均	5	level	キン	kin
+禁	5	prohibition	キン	kin
+句	5	phrase	ク	ku
+群	5	flock	グン、む-れる、む-れ、（むら）	gun, mu-reru, mu-re, 
+経	5	manage	ケイ、キョウ、へ-る	kei, kyō, he-ru
+潔	5	undefiled	ケツ、いさぎよ-い	ketsu, isagiyo-i
+件	5	affair	ケン	ken
+券	5	ticket	ケン	ken
+険	5	precipitous	ケン、けわ-しい	ken, kewa-shii
+検	5	examine	ケン	ken
+限	5	limit	ゲン、かぎ-る	gen, kagi-ru
+現	5	appear	ゲン、あらわ-れる、あらわ-す	gen, arawa-reru, arawa-su
+減	5	decrease	ゲン、へ-る、へ-らす	gen, he-ru, he-rasu
+故	5	circumstances	コ、ゆえ	ko, yue
+個	5	individual	コ	ko
+護	5	safeguard	ゴ	go
+効	5	effect	コウ、き-く	kō, ki-ku
+厚	5	thick	コウ、あつ-い	kō, atsu-i
+耕	5	till	コウ、たがや-す	kō, tagaya-su
+鉱	5	mineral	コウ	kō
+構	5	construct	コウ、かま-える、かま-う	kō, kama-eru, kama-u
+興	5	entertain	コウ、キョウ、おこ-る、おこ-す	kō, kyō, oko-ru, oko-su
+講	5	lecture	コウ	kō
+混	5	mix	コン、ま-じる、ま-ざる、ま-ぜる、こ-む	kon, ma-jiru, ma-zaru, ma-zeru, ko-mu
+査	5	investigate	サ	sa
+再	5	again	サイ、（サ）、ふたた-び	sai, , futata-bi
+災	5	disaster	サイ、わざわ-い	sai, wazawa-i
+妻	5	wife	サイ、つま	sai, tsuma
+採	5	pick	サイ、と-る	sai, to-ru
+際	5	occasion	サイ、きわ	sai, kiwa
+在	5	exist	ザイ、あ-る	zai, a-ru
+財	5	wealth	ザイ、（サイ）	zai, 
+罪	5	guilt	ザイ、つみ	zai, tsumi
+雑	5	miscellaneous	ザツ、ゾウ	zatsu, zō
+酸	5	acid	サン、す-い	san, su-i
+賛	5	approve	サン	san
+支	5	branch	シ、ささ-える	shi, sasa-eru
+志	5	intention	シ、こころざ-す、こころざし	shi, kokoroza-su, kokorozashi
+枝	5	branch	シ、えだ	shi, eda
+師	5	expert	シ	shi
+資	5	resources	シ	shi
+飼	5	domesticate	シ、か-う	shi, ka-u
+示	5	indicate	ジ、シ、しめ-す	ji, shi, shime-su
+似	5	becoming	ジ、に-る	ji, ni-ru
+識	5	discriminating	シキ	shiki
+質	5	quality	シツ、シチ、（チ）	shitsu, shichi, 
+舎	5	cottage	シャ	sha
+謝	5	apologize	シャ、あやま-る	sha, ayama-ru
+授	5	instruct	ジュ、さず-ける、さず-かる	ju, sazu-keru, sazu-karu
+修	5	discipline	シュウ、（シュ）、おさ-める、おさ-まる	shū, , osa-meru, osa-maru
+述	5	mention	ジュツ、の-べる	jutsu, no-beru
+術	5	art	ジュツ	jutsu
+準	5	standard	ジュン	jun
+序	5	preface	ジョ	jo
+招	5	beckon	ショウ、まね-く	shō, mane-ku
+承	5	acquiesce	ショウ、うけたまわ-る	shō, uketamawa-ru
+証	5	evidence	ショウ	shō
+条	5	clause	ジョウ	jō
+状	5	form	ジョウ	jō
+常	5	normal	ジョウ、つね、とこ	jō, tsune, toko
+情	5	feelings	ジョウ、（セイ）、なさ-け	jō, , nasa-ke
+織	5	weave	ショク、シキ、お-る	shoku, shiki, o-ru
+職	5	employment	ショク	shoku
+制	5	control	セイ	sei
+性	5	gender	セイ、ショウ	sei, shō
+政	5	politics	セイ、（ショウ）、まつりごと	sei, (shō), matsurigoto
+勢	5	power	セイ、いきお-い	sei, ikio-i
+精	5	refined	セイ、（ショウ）	sei, (shō)
+製	5	manufacture	セイ	sei
+税	5	tax	ゼイ	zei
+責	5	blame	セキ、せ-める	seki, se-meru
+績	5	exploits	セキ	seki
+接	5	contact	セツ、つ-ぐ	setsu, tsu-gu
+設	5	establish	セツ、もう-ける	setsu, mō-keru
+舌	5	tongue	ゼツ、した	zetsu, shita
+絶	5	discontinue	ゼツ、た-える、た-やす、た-つ	zetsu, ta-eru, ta-yasu, ta-tsu
+銭	5	coin	セン、ぜに	sen, zeni
+祖	5	ancestor	ソ	so
+素	5	elementary	ソ、ス	so, su
+総	5	whole	ソウ	sō
+造	5	create	ゾウ、つく-る	zō, tsuku-ru
+像	5	statue	ゾウ	zō
+増	5	increase	ゾウ、ま-す、ふ-える、ふ-やす	zō, ma-su, fu-eru, fu-yasu
+則	5	rule	ソク	soku
+測	5	fathom	ソク、はか-る	soku, haka-ru
+属	5	belong	ゾク	zoku
+率	5	rate	ソツ、リツ、ひき-いる	sotsu, ritsu, hiki-iru
+損	5	loss	ソン、そこ-なう、そこ-ねる	son, soko-nau, soko-neru
+退	5	retreat	タイ、しりぞ-く、しりぞ-ける	tai, shirizo-ku, shirizo-keru
+貸	5	lend	タイ、か-す	tai, ka-su
+態	5	condition	タイ	tai
+団	5	group	ダン、（トン）	dan, 
+断	5	cut off	ダン、た-つ、ことわ-る	dan, ta-tsu, kotowa-ru
+築	5	fabricate	チク、きず-く	chiku, kizu-ku
+張	5	stretch	チョウ、は-る	chō, ha-ru
+提	5	present	テイ、さ-げる	tei, sa-geru
+程	5	extent	テイ、ほど	tei, hodo
+適	5	suitable	テキ	teki
+敵	5	enemy	テキ、かたき	teki, kataki
+統	5	unite	トウ、す-べる	tō, su-beru
+銅	5	copper	ドウ	dō
+導	5	guide	ドウ、みちび-く	dō, michibi-ku
+徳	5	benevolence	トク	toku
+独	5	alone	ドク、ひと-り	doku, hito-ri
+任	5	responsibility	ニン、まか-せる、まか-す	nin, maka-seru, maka-su
+燃	5	burn	ネン、も-える、も-やす、も-す	nen, mo-eru, mo-yasu, mo-su
+能	5	ability	ノウ	nō
+破	5	rend	ハ、やぶ-る、やぶ-れる	ha, yabu-ru, yabu-reru
+犯	5	crime	ハン、おか-す	han, oka-su
+判	5	judge	ハン、バン	han, ban
+版	5	printing block	ハン	han
+比	5	compare	ヒ、くら-べる	hi, kura-beru
+肥	5	fertilizer	ヒ、こ-える、こえ、こ-やす、こ-やし	hi, ko-eru, koe, ko-yasu, ko-yashi
+非	5	negative	ヒ	hi
+備	5	provide	ビ、そな-える、そな-わる	bi, sona-eru, sona-waru
+俵	5	bag	ヒョウ、たわら	hyō, tawara
+評	5	evaluate	ヒョウ	hyō
+貧	5	poor	ヒン、ビン、まず-しい	hin, bin, mazu-shii
+布	5	linen	フ、ぬの	fu, nuno
+婦	5	lady	フ	fu
+富	5	rich	フ、（フウ）、と-む、とみ	fu, (fū), to-mu, tomi
+武	5	military	ブ、ム	bu, mu
+復	5	again	フク	fuku
+複	5	duplicate	フク	fuku
+仏	5	Buddha	ブツ、ほとけ	butsu, hotoke
+編	5	compile	ヘン、あ-む	hen, a-mu
+弁	5	valve	ベン	ben
+保	5	preserve	ホ、たも-つ	ho, tamo-tsu
+墓	5	grave	ボ、はか	bo, haka
+報	5	report	ホウ、むく-いる	hō, muku-iru
+豊	5	bountiful	ホウ、ゆた-か	hō, yuta-ka
+防	5	prevent	ボウ、ふせ-ぐ	bō, fuse-gu
+貿	5	trade	ボウ	bō
+暴	5	outburst	ボウ、（バク）、あば-く、あば-れる	bō, , aba-ku, aba-reru
+務	5	duty	ム、つと-める、つと-まる	mu, tsuto-meru, tsuto-maru
+夢	5	dream	ム、ゆめ	mu, yume
+迷	5	astray	メイ、まよ-う	mei, mayo-u
+綿	5	cotton	メン、わた	men, wata
+輸	5	transport	ユ	yu
+余	5	leave over	ヨ、あま-る、あま-す	yo, ama-ru, ama-su
+預	5	deposit	ヨ、あず-ける、あず-かる	yo, azu-keru, azu-karu
+容	5	contain	ヨウ	yō
+略	5	abbreviation	リャク	ryaku
+留	5	detain	リュウ、（ル）、と-める、と-まる	ryū, , to-meru, to-maru
+領	5	territory	リョウ	ryō
+異	6	uncommon	イ、こと	i, koto
+遺	6	bequeath	イ、（ユイ）	i, 
+域	6	range	イキ	iki
+宇	6	eaves	ウ	u
+映	6	reflect	エイ、うつ-る、うつ-す、は-える	ei, utsu-ru, utsu-su, ha-eru
+延	6	prolong	エン、の-びる、の-べる、の-ばす	en, no-biru, no-beru, no-basu
+沿	6	run alongside	エン、そ-う	en, so-u
+我	6	ego	ガ、われ、わ	ga, ware, wa
+灰	6	ashes	カイ、はい	kai, hai
+拡	6	broaden	カク	kaku
+革	6	leather	カク、かわ	kaku, kawa
+閣	6	tall	カク	kaku
+割	6	divide	カツ、わ-る、わり、わ-れる、さ-く	katsu, wa-ru, wari, wa-reru, sa-ku
+株	6	stocks	かぶ	kabu
+干	6	dry	カン、ほ-す、ひ-る	kan, ho-su, hi-ru
+巻	6	scroll	カン、ま-く、まき	kan, ma-ku, maki
+看	6	watch over	カン	kan
+簡	6	simplicity	カン	kan
+危	6	dangerous	キ、あぶ-ない、あや-うい、あや-ぶむ	ki, abu-nai, aya-ui, aya-bumu
+机	6	desk	キ、つくえ	ki, tsukue
+揮	6	brandish	キ	ki
+貴	6	precious	キ、たっと-い、とうと-い、たっと-ぶ、とうと-ぶ	ki, tatto-i, tōto-i, tatto-bu, tōto-bu
+疑	6	doubt	ギ、うたが-う	gi, utaga-u
+吸	6	suck	キュウ、す-う	kyū, su-u
+供	6	offer	キョウ、（ク）、そな-える、とも	kyō, , sona-eru, tomo
+胸	6	bosom	キョウ、むね、（むな）	kyō, mune, 
+郷	6	home town	キョウ、ゴウ	kyō, gō
+勤	6	diligence	キン、（ゴン）、つと-める、つと-まる	kin, , tsuto-meru, tsuto-maru
+筋	6	muscle	キン、すじ	kin, suji
+系	6	lineage	ケイ	kei
+敬	6	respect	ケイ、うやま-う	kei, uyama-u
+警	6	guard against	ケイ	kei
+劇	6	drama	ゲキ	geki
+激	6	violent	ゲキ、はげ-しい	geki, hage-shii
+穴	6	hole	ケツ、あな	ketsu, ana
+絹	6	silk	ケン、きぬ	ken, kinu
+権	6	rights	ケン、（ゴン）	ken, 
+憲	6	constitution	ケン	ken
+源	6	origin	ゲン、みなもと	gen, minamoto
+厳	6	strict	ゲン、（ゴン）、おごそ-か、きび-しい	gen, , ogoso-ka, kibi-shii
+己	6	self	コ、キ、おのれ	ko, ki, onore
+呼	6	call	コ、よ-ぶ	ko, yo-bu
+誤	6	mistake	ゴ、あやま-る	go, ayama-ru
+后	6	empress	コウ	kō
+孝	6	filial piety	コウ	kō
+皇	6	emperor	コウ、オウ	kō, ō
+紅	6	deep red	コウ、（ク）、べに、くれない	kō, , beni, kurenai
+降	6	descend	コウ、お-りる、お-ろす、ふ-る	kō, o-riru, o-rosu, fu-ru
+鋼	6	steel	コウ、はがね	kō, hagane
+刻	6	engrave	コク、きざ-む	koku, kiza-mu
+穀	6	cereals	コク	koku
+骨	6	bone	コツ、ほね	kotsu, hone
+困	6	become distressed	コン、こま-る	kon, koma-ru
+砂	6	sand	サ、シャ、すな	sa, sha, suna
+座	6	sit	ザ、すわ-る	za, suwa-ru
+済	6	settle	サイ、す-む、す-ます	sai, su-mu, su-masu
+裁	6	judge	サイ、た-つ、さば-く	sai, ta-tsu, saba-ku
+策	6	scheme	サク	saku
+冊	6	counter for books	サツ、サク	satsu, saku
+蚕	6	silkworm	サン、かいこ	san, kaiko
+至	6	climax	シ、いた-る	shi, ita-ru
+私	6	me	シ、わたくし、わたし	shi, watakushi, watashi
+姿	6	figure	シ、すがた	shi, sugata
+視	6	look at	シ	shi
+詞	6	poetry	シ	shi
+誌	6	document	シ	shi
+磁	6	magnet	ジ	ji
+射	6	shoot	シャ、い-る	sha, i-ru
+捨	6	throw away	シャ、す-てる	sha, su-teru
+尺	6	shaku	シャク	shaku
+若	6	young	ジャク、（ニャク）、わか-い、も-しくは	jaku, , waka-i, mo-shikuha
+樹	6	trees	ジュ	ju
+収	6	take in	シュウ、おさ-める、おさ-まる	shū, osa-meru, osa-maru
+宗	6	religion	シュウ、ソウ	shū, sō
+就	6	concerning	シュウ、（ジュ）、つ-く、つ-ける	shū, , tsu-ku, tsu-keru
+衆	6	masses	シュウ、（シュ）	shū, 
+従	6	obey	ジュウ、（ショウ）、（ジュ）、したが-う、したが-える	jū, (shō), , shitaga-u, shitaga-eru
+縦	6	vertical	ジュウ、たて	jū, tate
+縮	6	shrink	シュク、ちぢ-む、ちぢ-まる、ちぢ-める、ちぢ-れる、ちぢ-らす	shuku, chiji-mu, chiji-maru, chiji-meru, chiji-reru, chiji-rasu
+熟	6	ripen	ジュク、う-れる	juku, u-reru
+純	6	genuine	ジュン	jun
+処	6	dispose	ショ	sho
+署	6	government office	ショ	sho
+諸	6	various	ショ	sho
+除	6	exclude	ジョ、（ジ）、のぞ-く	jo, , nozo-ku
+将	6	leader	ショウ	shō
+傷	6	wound	ショウ、きず、いた-む、いた-める	shō, kizu, ita-mu, ita-meru
+障	6	hurt	ショウ、さわ-る	shō, sawa-ru
+城	6	castle	ジョウ、しろ	jō, shiro
+蒸	6	steam	ジョウ、む-す、む-れる、む-らす	jō, mu-su, mu-reru, mu-rasu
+針	6	needle	シン、はり	shin, hari
+仁	6	humanity	ジン、（ニ）	jin, 
+垂	6	droop	スイ、た-れる、た-らす	sui, ta-reru, ta-rasu
+推	6	infer	スイ、お-す	sui, o-su
+寸	6	measurement	スン	sun
+盛	6	prosper	セイ、（ジョウ）、も-る、さか-る、さか-ん	sei, (jō), mo-ru, saka-ru, saka-n
+聖	6	holy	セイ	sei
+誠	6	sincerity	セイ、まこと	sei, makoto
+宣	6	proclaim	セン	sen
+専	6	specialty	セン、もっぱ-ら	sen, moppa-ra
+泉	6	spring	セン、いずみ	sen, izumi
+洗	6	wash	セン、あら-う	sen, ara-u
+染	6	dye	セン、そ-める、そ-まる、し-みる、し-み	sen, so-meru, so-maru, shi-miru, shi-mi
+善	6	good	ゼン、よ-い	zen, yo-i
+奏	6	play music	ソウ、かな-でる	sō, kana-deru
+窓	6	window	ソウ、まど	sō, mado
+創	6	create	ソウ、つく-る	sō, tsuku-ru
+装	6	attire	ソウ、ショウ、よそお-う	sō, shō, yosoo-u
+層	6	stratum	ソウ	sō
+操	6	maneuver	ソウ、みさお、あやつ-る	sō, misao, ayatsu-ru
+蔵	6	warehouse	ゾウ、くら	zō, kura
+臓	6	entrails	ゾウ	zō
+存	6	suppose	ソン、ゾン	son, zon
+尊	6	revered	ソン、たっと-い、とうと-い、たっと-ぶ、とうと-ぶ	son, tatto-i, tōto-i, tatto-bu, tōto-bu
+宅	6	home	タク	taku
+担	6	shouldering	タン、かつ-ぐ、にな-う	tan, katsu-gu, nina-u
+探	6	grope	タン、さぐ-る、さが-す	tan, sagu-ru, saga-su
+誕	6	nativity	タン	tan
+段	6	steps	ダン	dan
+暖	6	warmth	ダン、あたた-か、あたた-かい、あたた-まる、あたた-める	dan, atata-ka, atata-kai, atata-maru, atata-meru
+値	6	value	チ、ね、あたい	chi, ne, atai
+宙	6	mid-air	チュウ	chū
+忠	6	loyalty	チュウ	chū
+著	6	renowned	チョ、あらわ-す、いちじる-しい	cho, arawa-su, ichijiru-shii
+庁	6	government office	チョウ	chō
+頂	6	place on the head	チョウ、いただ-く、いただき	chō, itada-ku, itadaki
+潮	6	tide	チョウ、しお	chō, shio
+賃	6	fare	チン	chin
+痛	6	pain	ツウ、いた-い、いた-む、いた-める	tsū, ita-i, ita-mu, ita-meru
+展	6	expand	テン	ten
+討	6	chastise	トウ、う-つ	tō, u-tsu
+党	6	group	トウ	tō
+糖	6	sugar	トウ	tō
+届	6	deliver	とど-ける、とど-く	todo-keru, todo-ku
+難	6	difficult	ナン、かた-い、むずか-しい	nan, kata-i, muzuka-shii
+乳	6	milk	ニュウ、ちち、ち	nyū, chichi, chi
+認	6	recognize	ニン、みと-める	nin, mito-meru
+納	6	settlement	ノウ、（ナッ）、（ナ）、（ナン）、（トウ）、おさ-める、おさ-まる	nō, (na'), , , (tō), osa-meru, osa-maru
+脳	6	brain	ノウ	nō
+派	6	sect	ハ	ha
+拝	6	worship	ハイ、おが-む	hai, oga-mu
+背	6	back	ハイ、せ、せい、そむ-く、そむ-ける	hai, se, sei, somu-ku, somu-keru
+肺	6	lungs	ハイ	hai
+俳	6	haiku	ハイ	hai
+班	6	squad	ハン	han
+晩	6	nightfall	バン	ban
+否	6	negate	ヒ、いな	hi, ina
+批	6	criticism	ヒ	hi
+秘	6	secret	ヒ、ひ-める	hi, hi-meru
+腹	6	abdomen	フク、はら	fuku, hara
+奮	6	stirred up	フン、ふる-う	fun, furu-u
+並	6	line-up	ヘイ、なみ、なら-べる、なら-ぶ、なら-びに	hei, nami, nara-beru, nara-bu, nara-bini
+陛	6	highness	ヘイ	hei
+閉	6	closed	ヘイ、と-じる、と-ざす、し-める、し-まる	hei, to-jiru, to-zasu, shi-meru, shi-maru
+片	6	one-sided	ヘン、かた	hen, kata
+補	6	supplement	ホ、おぎな-う	ho, ogina-u
+暮	6	livelihood	ボ、く-れる、く-らす	bo, ku-reru, ku-rasu
+宝	6	treasure	ホウ、たから	hō, takara
+訪	6	visit	ホウ、おとず-れる、たず-ねる	hō, otozu-reru, tazu-neru
+亡	6	deceased	ボウ、（モウ）、な-い	bō, (mō), na-i
+忘	6	forget	ボウ、わす-れる	bō, wasu-reru
+棒	6	rod	ボウ	bō
+枚	6	sheet of...	マイ	mai
+幕	6	curtain	マク、バク	maku, baku
+密	6	secrecy	ミツ	mitsu
+盟	6	alliance	メイ	mei
+模	6	imitation	モ、ボ	mo, bo
+訳	6	translate	ヤク、わけ	yaku, wake
+郵	6	mail	ユウ	yū
+優	6	superior	ユウ、やさ-しい、すぐ-れる	yū, yasa-shii, sugu-reru
+幼	6	infancy	ヨウ、おさな-い	yō, osana-i
+欲	6	longing	ヨク、ほっ-する、ほ-しい	yoku, ho'-suru, ho-shii
+翌	6	the following	ヨク	yoku
+乱	6	riot	ラン、みだ-れる、みだ-す	ran, mida-reru, mida-su
+卵	6	egg	ラン、たまご	ran, tamago
+覧	6	perusal	ラン	ran
+裏	6	back	リ、うら	ri, ura
+律	6	law	リツ、（リチ）	ritsu, 
+臨	6	look to	リン、のぞ-む	rin, nozo-mu
+朗	6	melodious	ロウ、ほが-らか	rō, hoga-raka
+論	6	theory	ロン	ron
+亜	S	sub-	ア	a
+哀	S	pathetic	アイ、あわ-れ、あわ-れむ	ai, awa-re, awa-remu
+挨	S	push open	アイ	ai
+曖	S	not clear	アイ	ai
+握	S	grip	アク、にぎ-る	aku, nigi-ru
+扱	S	handle	あつか-う	atsuka-u
+宛	S	allocate	あ-てる	a-teru
+嵐	S	storm	あらし	arashi
+依	S	reliant	イ、（エ）	i, 
+威	S	intimidate	イ	i
+為	S	do	イ	i
+畏	S	fear	イ、おそ-れる	i, oso-reru
+尉	S	military officer	イ	i
+萎	S	wither	イ、な-える	i, na-eru
+偉	S	admirable	イ、えら-い	i, era-i
+椅	S	chair	イ	i
+彙	S	same kind	イ	i
+違	S	differ	イ、ちが-う、ちが-える	i, chiga-u, chiga-eru
+維	S	fiber	イ	i
+慰	S	consolation	イ、なぐさ-める、なぐさ-む	i, nagusa-meru, nagusa-mu
+緯	S	horizontal	イ	i
+壱	S	one (falsification prevention)	イチ	ichi
+逸	S	deviate	イツ	itsu
+茨	S	thorn	（いばら	
+芋	S	potato	いも	imo
+咽	S	throat	イン	in
+姻	S	matrimony	イン	in
+淫	S	lewdness	イン、みだ-ら	in, mida-ra
+陰	S	shade	イン、かげ、かげ-る	in, kage, kage-ru
+隠	S	conceal	イン、かく-す、かく-れる	in, kaku-su, kaku-reru
+韻	S	rhyme	イン	in
+唄	S	song	（うた）	
+鬱	S	gloom	ウツ	utsu
+畝	S	furrow	うね	une
+浦	S	bay	うら	ura
+詠	S	recitation	エイ、よ-む	ei, yo-mu
+影	S	shadow	エイ、かげ	ei, kage
+鋭	S	pointed	エイ、するど-い	ei, surudo-i
+疫	S	epidemic	エキ、（ヤク）	eki, 
+悦	S	ecstasy	エツ	etsu
+越	S	cross over	エツ、こ-す、こ-える	etsu, ko-su, ko-eru
+謁	S	audience	エツ	etsu
+閲	S	review	エツ	etsu
+炎	S	inflammation	エン、ほのお	en, honoo
+怨	S	grudge	エン、オン	en, on
+宴	S	banquet	エン	en
+媛	S	princess	エン	en
+援	S	aid	エン	en
+煙	S	smoke	エン、けむ-る、けむり、けむ-い	en, kemu-ru, kemuri, kemu-i
+猿	S	monkey	エン、さる	en, saru
+鉛	S	lead	エン、なまり	en, namari
+縁	S	affinity	エン、ふち	en, fuchi
+艶	S	glossy	エン、つや	en, tsuya
+汚	S	dirty	オ、けが-す、けが-れる、けが-らわしい、よご-す、よご-れる、きたな-い	o, kega-su, kega-reru, kega-rawashii, yogo-su, yogo-reru, kitana-i
+凹	S	concave	オウ	ō
+押	S	push	オウ、お-す、お-さえる	ō, o-su, o-saeru
+旺	S	flourishing	オウ	ō
+欧	S	Europe	オウ	ō
+殴	S	assault	オウ、なぐ-る	ō, nagu-ru
+翁	S	venerable old man	オウ	ō
+奥	S	heart	オウ、おく	ō, oku
+岡	S	hill	（おか）	
+憶	S	recollection	オク	oku
+臆	S	timidity	オク	oku
+虞	S	uneasiness	おそれ	osore
+乙	S	the latter	オツ	otsu
+俺	S	I, we	おれ	ore
+卸	S	wholesale	おろ-す、おろし	oro-su, oroshi
+穏	S	calm	オン、おだ-やか	on, oda-yaka
+佳	S	excellent	カ	ka
+苛	S	torment	カ	ka
+架	S	rack	カ、か-ける、か-かる	ka, ka-keru, ka-karu
+華	S	splendor	カ、（ケ）、はな	ka, , hana
+菓	S	confectionery	カ	ka
+渦	S	whirlpool	カ、うず	ka, uzu
+嫁	S	marry into	カ、よめ、とつ-ぐ	ka, yome, totsu-gu
+暇	S	spare time	カ、ひま	ka, hima
+禍	S	calamity	カ	ka
+靴	S	shoes	カ、くつ	ka, kutsu
+寡	S	widow	カ	ka
+箇	S	counters for things	カ	ka
+稼	S	earnings	カ、かせ-ぐ	ka, kase-gu
+蚊	S	mosquito	か	ka
+牙	S	tusk	ガ、（ゲ）、きば	ga, , kiba
+瓦	S	tile	ガ、かわら	ga, kawara
+雅	S	gracious	ガ	ga
+餓	S	starve	ガ	ga
+介	S	jammed in	カイ	kai
+戒	S	commandment	カイ、いまし-める	kai, imashi-meru
+怪	S	suspicious	カイ、あや-しい、あや-しむ	kai, aya-shii, aya-shimu
+拐	S	kidnap	カイ	kai
+悔	S	repent	カイ、く-いる、く-やむ、くや-しい	kai, ku-iru, ku-yamu, kuya-shii
+皆	S	all	カイ、みな	kai, mina
+塊	S	clod	カイ、かたまり	kai, katamari
+楷	S	square character style	カイ	kai
+潰	S	crush	カイ、つぶ-す、つぶ-れる	kai, tsubu-su, tsubu-reru
+壊	S	demolition	カイ、こわ-す、こわ-れる	kai, kowa-su, kowa-reru
+懐	S	pocket	カイ、ふところ、なつ-かしい、なつ-かしむ、なつ-く、なつ-ける	kai, futokoro, natsu-kashii, natsu-kashimu, natsu-ku, natsu-keru
+諧	S	harmony	カイ	kai
+劾	S	censure	ガイ	gai
+崖	S	cliff	ガイ、がけ	gai, gake
+涯	S	horizon	ガイ	gai
+慨	S	rue	ガイ	gai
+蓋	S	cover	ガイ、ふた	gai, futa
+該	S	above-stated	ガイ	gai
+概	S	outline	ガイ	gai
+骸	S	dead remains	ガイ	gai
+垣	S	hedge	かき	kaki
+柿	S	persimmon	かき	kaki
+核	S	nucleus	カク	kaku
+殻	S	husk	カク、から	kaku, kara
+郭	S	enclosure	カク	kaku
+較	S	contrast	カク	kaku
+隔	S	isolate	カク、へだ-てる、へだ-たる	kaku, heda-teru, heda-taru
+獲	S	seize	カク、え-る	kaku, e-ru
+嚇	S	menacing	カク	kaku
+穫	S	harvest	カク	kaku
+岳	S	point	ガク、たけ	gaku, take
+顎	S	jaw	ガク、あご	gaku, ago
+掛	S	hang	か-ける、か-かる、かかり	ka-keru, ka-karu, kakari
+潟	S	lagoon	かた	kata
+括	S	fasten	カツ	katsu
+喝	S	hoarse	カツ	katsu
+渇	S	thirst	カツ、かわ-く	katsu, kawa-ku
+葛	S	arrowroot	カツ、くず	katsu, kuzu
+滑	S	slippery	カツ、コツ、すべ-る、なめ-らか	katsu, kotsu, sube-ru, name-raka
+褐	S	brown	カツ	katsu
+轄	S	control	カツ	katsu
+且	S	moreover	か-つ	ka-tsu
+釜	S	kettle	かま	kama
+鎌	S	sickle	かま	kama
+刈	S	reap	か-る	ka-ru
+甘	S	sweet	カン、あま-い、あま-える、あま-やかす	kan, ama-i, ama-eru, ama-yakasu
+汗	S	sweat	カン、あせ	kan, ase
+缶	S	tin can	カン	kan
+肝	S	liver	カン、きも	kan, kimo
+冠	S	crown	カン、かんむり	kan, kanmuri
+陥	S	collapse	カン、おちい-る、おとしい-れる	kan, ochii-ru, otoshii-reru
+乾	S	dry	カン、かわ-く、かわ-かす	kan, kawa-ku, kawa-kasu
+勘	S	intuition	カン	kan
+患	S	afflicted	カン、わずら-う	kan, wazura-u
+貫	S	pierce	カン、つらぬ-く	kan, tsuranu-ku
+喚	S	yell	カン	kan
+堪	S	withstand	カン、た-える	kan, ta-eru
+換	S	interchange	カン、か-える、か-わる	kan, ka-eru, ka-waru
+敢	S	daring	カン	kan
+棺	S	coffin	カン	kan
+款	S	goodwill	カン	kan
+閑	S	leisure	カン	kan
+勧	S	persuade	カン、すす-める	kan, susu-meru
+寛	S	tolerant	カン	kan
+歓	S	delight	カン	kan
+監	S	oversee	カン	kan
+緩	S	slacken	カン、ゆる-い、ゆる-やか、ゆる-む、ゆる-める	kan, yuru-i, yuru-yaka, yuru-mu, yuru-meru
+憾	S	remorse	カン	kan
+還	S	send back	カン	kan
+環	S	ring	カン	kan
+韓	S	Korea	カン	kan
+艦	S	warship	カン	kan
+鑑	S	specimen	カン、かんが-みる	kan, kanga-miru
+含	S	include	ガン、ふく-む、ふく-める	gan, fuku-mu, fuku-meru
+玩	S	trifle with	ガン	gan
+頑	S	stubborn	ガン	gan
+企	S	plan	キ、くわだ-てる	ki, kuwada-teru
+伎	S	deed	キ	ki
+岐	S	branch off	キ	ki
+忌	S	mourning	キ、い-む、い-まわしい	ki, i-mu, i-mawashii
+奇	S	strange	キ	ki
+祈	S	pray	キ、いの-る	ki, ino-ru
+軌	S	rut	キ	ki
+既	S	previously	キ、すで-に	ki, sude-ni
+飢	S	hungry	キ、う-える	ki, u-eru
+鬼	S	ghost	キ、おに	ki, oni
+亀	S	turtle	キ、かめ	ki, kame
+幾	S	how many	キ、いく	ki, iku
+棋	S	chess piece	キ	ki
+棄	S	abandon	キ	ki
+毀	S	destroy	キ	ki
+畿	S	capital	キ	ki
+輝	S	radiance	キ、かがや-く	ki, kagaya-ku
+騎	S	equestrian	キ	ki
+宜	S	best regards	ギ	gi
+偽	S	falsehood	ギ、いつわ-る、にせ	gi, itsuwa-ru, nise
+欺	S	deceit	ギ、あざむ-く	gi, azamu-ku
+儀	S	ceremony	ギ	gi
+戯	S	frolic	ギ、たわむ-れる	gi, tawamu-reru
+擬	S	mimic	ギ	gi
+犠	S	sacrifice	ギ	gi
+菊	S	chrysanthemum	キク	kiku
+吉	S	good luck	キチ、キツ	kichi, kitsu
+喫	S	consume	キツ	kitsu
+詰	S	packed	キツ、つ-める、つ-まる、つ-む	kitsu, tsu-meru, tsu-maru, tsu-mu
+却	S	instead	キャク	kyaku
+脚	S	leg	キャク、（キャ）、あし	kyaku, , ashi
+虐	S	tyrannize	ギャク、しいた-げる	gyaku, shiita-geru
+及	S	reach out	キュウ、およ-ぶ、およ-び、およ-ぼす	kyū, oyo-bu, oyo-bi, oyo-bosu
+丘	S	hill	キュウ、おか	kyū, oka
+朽	S	decay	キュウ、く-ちる	kyū, ku-chiru
+臼	S	mortar	キュウ、うす	kyū, usu
+糾	S	twist	キュウ	kyū
+嗅	S	smell	キュウ、か-ぐ	kyū, ka-gu
+窮	S	hard up	キュウ、きわ-める、きわ-まる	kyū, kiwa-meru, kiwa-maru
+巨	S	gigantic	キョ	kyo
+拒	S	repel	キョ、こば-む	kyo, koba-mu
+拠	S	foothold	キョ、コ	kyo, ko
+虚	S	void	キョ、（コ）	kyo, 
+距	S	long-distance	キョ	kyo
+御	S	honorable	ギョ、ゴ、おん	gyo, go, on
+凶	S	villain	キョウ	kyō
+叫	S	shout	キョウ、さけ-ぶ	kyō, sake-bu
+狂	S	lunatic	キョウ、くる-う、くる-おしい	kyō, kuru-u, kuru-oshii
+享	S	receive	キョウ	kyō
+況	S	condition	キョウ	kyō
+峡	S	gorge	キョウ	kyō
+挟	S	pinch	キョウ、はさ-む、はさ-まる	kyō, hasa-mu, hasa-maru
+狭	S	cramped	キョウ、せま-い、せば-める、せば-まる	kyō, sema-i, seba-meru, seba-maru
+恐	S	fear	キョウ、おそ-れる、おそ-ろしい	kyō, oso-reru, oso-roshii
+恭	S	respect	キョウ、うやうや-しい	kyō, uyauya-shii
+脅	S	threaten	キョウ、おびや-かす、おど-す、おど-かす	kyō, obiya-kasu, odo-su, odo-kasu
+矯	S	rectify	キョウ、た-める	kyō, ta-meru
+響	S	echo	キョウ、ひび-く	kyō, hibi-ku
+驚	S	wonder	キョウ、おどろ-く、おどろ-かす	kyō, odoro-ku, odoro-kasu
+仰	S	face-up	ギョウ、（コウ）、あお-ぐ、おお-せ	gyō, (kō), ao-gu, oo-se
+暁	S	daybreak	ギョウ、あかつき	gyō, akatsuki
+凝	S	congeal	ギョウ、こ-る、こ-らす	gyō, ko-ru, ko-rasu
+巾	S	towel	キン	kin
+斤	S	axe	キン	kin
+菌	S	germ	キン	kin
+琴	S	harp	キン、こと	kin, koto
+僅	S	a wee bit	キン、わず-か	kin, wazu-ka
+緊	S	tense	キン	kin
+錦	S	brocade	キン、にしき	kin, nishiki
+謹	S	discreet	キン、つつし-む	kin, tsutsushi-mu
+襟	S	collar	キン、えり	kin, eri
+吟	S	versify	ギン	gin
+駆	S	drive	ク、か-ける、か-る	ku, ka-keru, ka-ru
+惧	S	dread	グ	gu
+愚	S	foolish	グ、おろ-か	gu, oro-ka
+偶	S	accidentally	グウ	gū
+遇	S	interview	グウ	gū
+隅	S	corner	グウ、すみ	gū, sumi
+串	S	skewer	くし	kushi
+屈	S	yield	クツ	kutsu
+掘	S	dig	クツ、ほ-る	kutsu, ho-ru
+窟	S	cavern	クツ	kutsu
+熊	S	bear	くま	kuma
+繰	S	winding	く-る	ku-ru
+勲	S	meritorious deed	クン	kun
+薫	S	fragrant	クン、かお-る	kun, kao-ru
+刑	S	punish	ケイ	kei
+茎	S	stalk	ケイ、くき	kei, kuki
+契	S	pledge	ケイ、ちぎ-る	kei, chigi-ru
+恵	S	favor	ケイ、エ、めぐ-む	kei, e, megu-mu
+啓	S	disclose	ケイ	kei
+掲	S	put up (a notice)	ケイ、かか-げる	kei, kaka-geru
+渓	S	mountain stream	ケイ	kei
+蛍	S	lightning-bug	ケイ、ほたる	kei, hotaru
+傾	S	lean	ケイ、かたむ-く、かたむ-ける	kei, katamu-ku, katamu-keru
+携	S	portable	ケイ、たずさ-える、たずさ-わる	kei, tazusa-eru, tazusa-waru
+継	S	inherit	ケイ、つ-ぐ	kei, tsu-gu
+詣	S	visit a temple	ケイ、もう-でる	kei, mō-deru
+慶	S	jubilation	ケイ	kei
+憬	S	long for	ケイ	kei
+稽	S	consider	ケイ	kei
+憩	S	recess	ケイ、いこ-い、いこ-う	kei, iko-i, iko-u
+鶏	S	chicken	ケイ、にわとり	kei, niwatori
+迎	S	welcome	ゲイ、むか-える	gei, muka-eru
+鯨	S	whale	ゲイ、くじら	gei, kujira
+隙	S	fissure	ゲキ、すき	geki, suki
+撃	S	beat	ゲキ、う-つ	geki, u-tsu
+桁	S	beam	けた	keta
+傑	S	greatness	ケツ	ketsu
+肩	S	shoulder	ケン、かた	ken, kata
+倹	S	frugal	ケン	ken
+兼	S	concurrently	ケン、か-ねる	ken, ka-neru
+剣	S	sabre	ケン、つるぎ	ken, tsurugi
+拳	S	fist	ケン、こぶし	ken, kobushi
+軒	S	flats	ケン、のき	ken, noki
+圏	S	sphere	ケン	ken
+堅	S	strict	ケン、かた-い	ken, kata-i
+嫌	S	dislike	ケン、（ゲン）、きら-う、いや	ken, , kira-u, iya
+献	S	offering	ケン、（コン）	ken, 
+遣	S	dispatch	ケン、つか-う、つか-わす	ken, tsuka-u, tsuka-wasu
+賢	S	intelligent	ケン、かしこ-い	ken, kashiko-i
+謙	S	self-effacing	ケン	ken
+鍵	S	key	ケン、かぎ	ken, kagi
+繭	S	cocoon	ケン、まゆ	ken, mayu
+顕	S	appear	ケン	ken
+懸	S	suspend	ケン、（ケ）、か-ける、か-かる	ken, , ka-keru, ka-karu
+幻	S	phantasm	ゲン、まぼろし	gen, maboroshi
+玄	S	mysterious	ゲン	gen
+弦	S	bowstring	ゲン、つる	gen, tsuru
+舷	S	gunwale	ゲン	gen
+股	S	crotch	コ、また	ko, mata
+虎	S	tiger	コ、とら	ko, tora
+孤	S	orphan	コ	ko
+弧	S	arc	コ	ko
+枯	S	wither	コ、か-れる、か-らす	ko, ka-reru, ka-rasu
+雇	S	employ	コ、やと-う	ko, yato-u
+誇	S	boast	コ、ほこ-る	ko, hoko-ru
+鼓	S	drum	コ、つづみ	ko, tsuzumi
+錮	S	tie up	コ	ko
+顧	S	look back	コ、かえり-みる	ko, kaeri-miru
+互	S	mutually	ゴ、たが-い	go, taga-i
+呉	S	give	ゴ	go
+娯	S	recreation	ゴ	go
+悟	S	enlightenment	ゴ、さと-る	go, sato-ru
+碁	S	Go	ゴ	go
+勾	S	capture	コウ	kō
+孔	S	cavity	コウ	kō
+巧	S	adroit	コウ、たく-み	kō, taku-mi
+甲	S	armor	コウ、カン	kō, kan
+江	S	inlet	コウ、え	kō, e
+坑	S	pit	コウ	kō
+抗	S	confront	コウ	kō
+攻	S	aggression	コウ、せ-める	kō, se-meru
+更	S	grow late	コウ、さら、ふ-ける、ふ-かす	kō, sara, fu-keru, fu-kasu
+拘	S	arrest	コウ	kō
+肯	S	agreement	コウ	kō
+侯	S	marquis	コウ	kō
+恒	S	constancy	コウ	kō
+洪	S	deluge	コウ	kō
+荒	S	laid waste	コウ、あら-い、あ-れる、あ-らす	kō, ara-i, a-reru, a-rasu
+郊	S	outskirts	コウ	kō
+香	S	incense	コウ、（キョウ）、か、かお-り、かお-る	kō, (kyō), ka, kao-ri, kao-ru
+貢	S	tribute	コウ、（ク）、みつ-ぐ	kō, , mitsu-gu
+控	S	withdraw	コウ、ひか-える	kō, hika-eru
+梗	S	close up	コウ	kō
+喉	S	throat	コウ、のど	kō, nodo
+慌	S	disconcerted	コウ、あわ-てる、あわ-ただしい	kō, awa-teru, awa-tadashii
+硬	S	stiff	コウ、かた-い	kō, kata-i
+絞	S	strangle	コウ、しぼ-る、し-める、し-まる	kō, shibo-ru, shi-meru, shi-maru
+項	S	paragraph	コウ	kō
+溝	S	gutter	コウ、みぞ	kō, mizo
+綱	S	hawser	コウ、つな	kō, tsuna
+酵	S	fermentation	コウ	kō
+稿	S	draft	コウ	kō
+衡	S	equilibrium	コウ	kō
+購	S	subscription	コウ	kō
+乞	S	beg	こ-う	ko-u
+拷	S	torture	ゴウ	gō
+剛	S	sturdy	ゴウ	gō
+傲	S	be proud	ゴウ	gō
+豪	S	overpowering	ゴウ	gō
+克	S	overcome	コク	koku
+酷	S	cruel	コク	koku
+獄	S	prison	ゴク	goku
+駒	S	horse	こま	koma
+込	S	crowded	こ-む、こ-める	ko-mu, ko-meru
+頃	S	times	ころ	koro
+昆	S	descendants	コン	kon
+恨	S	rancor	コン、うら-む、うら-めしい	kon, ura-mu, ura-meshii
+婚	S	marriage	コン	kon
+痕	S	mark	コン、あと	kon, ato
+紺	S	dark blue	コン	kon
+魂	S	soul	コン、たましい	kon, tamashii
+墾	S	ground-breaking	コン	kon
+懇	S	sociable	コン、ねんご-ろ	kon, nengo-ro
+佐	S	help	サ	sa
+沙	S	sand	サ	sa
+唆	S	tempt	サ、そそのか-す	sa, sosonoka-su
+詐	S	lie	サ	sa
+鎖	S	chain	サ、くさり	sa, kusari
+挫	S	sprain	ザ	za
+采	S	form	サイ	sai
+砕	S	smash	サイ、くだ-く、くだ-ける	sai, kuda-ku, kuda-keru
+宰	S	superintend	サイ	sai
+栽	S	plantation	サイ	sai
+彩	S	coloring	サイ、いろど-る	sai, irodo-ru
+斎	S	purification	サイ	sai
+債	S	bond	サイ	sai
+催	S	sponsor	サイ、もよお-す	sai, moyoo-su
+塞	S	obstruct	サイ、ソク、ふさ-ぐ、ふさ-がる	sai, soku, fusa-gu, fusa-garu
+歳	S	year-end	サイ、（セイ）	sai, 
+載	S	ride	サイ、の-せる、の-る	sai, no-seru, no-ru
+埼	S	cape 	（さい	
+剤	S	dose	ザイ	zai
+崎	S	promontory	さき	saki
+削	S	plane	サク、けず-る	saku, kezu-ru
+柵	S	fence	サク	saku
+索	S	cord	サク	saku
+酢	S	vinegar	サク、す	saku, su
+搾	S	squeeze	サク、しぼ-る	saku, shibo-ru
+錯	S	confused	サク	saku
+咲	S	blossom	さ-く	sa-ku
+刹	S	temple	サツ、セツ	satsu, setsu
+拶	S	be imminent	サツ	satsu
+撮	S	snapshot	サツ、と-る	satsu, to-ru
+擦	S	grate	サツ、す-る、す-れる	satsu, su-ru, su-reru
+桟	S	scaffold	サン	san
+惨	S	wretched	サン、ザン、みじ-め	san, zan, miji-me
+傘	S	umbrella	サン、かさ	san, kasa
+斬	S	kill by slicing	ザン、き-る	zan, ki-ru
+暫	S	temporarily	ザン	zan
+旨	S	delicious	シ、むね	shi, mune
+伺	S	pay respects	シ、うかが-う	shi, ukaga-u
+刺	S	thorn	シ、さ-す、さ-さる	shi, sa-su, sa-saru
+祉	S	welfare	シ	shi
+肢	S	limb	シ	shi
+施	S	carry out	シ、セ、ほどこ-す	shi, se, hodoko-su
+恣	S	selfish	シ	shi
+脂	S	fat	シ、あぶら	shi, abura
+紫	S	purple	シ、むらさき	shi, murasaki
+嗣	S	heir	シ	shi
+雌	S	feminine	シ、め、めす	shi, me, mesu
+摯	S	seriousness	シ	shi
+賜	S	grant	シ、たまわ-る	shi, tamawa-ru
+諮	S	consult with	シ、はか-る	shi, haka-ru
+侍	S	waiter	ジ、さむらい	ji, samurai
+滋	S	nourishing	ジ	ji
+慈	S	mercy	ジ、いつく-しむ	ji, itsuku-shimu
+餌 	S	bait	ジ、えさ、え	ji, esa, e
+璽	S	emperor's seal	ジ	ji
+鹿	S	deer	しか、（か）	shika, 
+軸	S	axis	ジク	jiku
+𠮟 	S	scold	シツ、しか-る	shitsu, shika-ru
+疾	S	rapidly	シツ	shitsu
+執	S	tenacious	シツ、シュウ、と-る	shitsu, shū, to-ru
+湿	S	damp	シツ、しめ-る、しめ-す	shitsu, shime-ru, shime-su
+嫉	S	envy	シツ	shitsu
+漆	S	lacquer	シツ、うるし	shitsu, urushi
+芝	S	turf	しば	shiba
+赦	S	pardon	シャ	sha
+斜	S	diagonal	シャ、なな-め	sha, nana-me
+煮	S	boil	シャ、に-る、に-える、に-やす	sha, ni-ru, ni-eru, ni-yasu
+遮	S	intercept	シャ、さえぎ-る	sha, saegi-ru
+邪	S	wicked	ジャ	ja
+蛇	S	snake	ジャ、ダ、へび	ja, da, hebi
+酌	S	bartending	シャク、く-む	shaku, ku-mu
+釈	S	explanation	シャク	shaku
+爵	S	baron	シャク	shaku
+寂	S	loneliness	ジャク、（セキ）、さび、さび-しい、さび-れる	jaku, , sabi, sabi-shii, sabi-reru
+朱	S	vermilion	シュ	shu
+狩	S	hunt	シュ、か-る、か-り	shu, ka-ru, ka-ri
+殊	S	particularly	シュ、こと	shu, koto
+珠	S	pearl	シュ	shu
+腫	S	tumor	シュ、は-れる、は-らす	shu, ha-reru, ha-rasu
+趣	S	gist	シュ、おもむき	shu, omomuki
+寿	S	longevity	ジュ、ことぶき	ju, kotobuki
+呪	S	curse	ジュ、のろ-う	ju, noro-u
+需	S	demand	ジュ	ju
+儒	S	Confucian	ジュ	ju
+囚	S	captured	シュウ	shū
+舟	S	boat	シュウ、ふね、（ふな）	shū, fune, 
+秀	S	excel	シュウ、ひい-でる	shū, hii-deru
+臭	S	stinking	シュウ、くさ-い、にお-う	shū, kusa-i, nio-u
+袖	S	sleeve	シュウ、そで	shū, sode
+羞	S	feel ashamed	シュウ	shū
+愁	S	distress	シュウ、うれ-える、うれ-い	shū, ure-eru, ure-i
+酬	S	repay	シュウ	shū
+醜	S	ugly	シュウ、みにく-い	shū, miniku-i
+蹴	S	kick	シュウ、け-る	shū, ke-ru
+襲	S	attack	シュウ、おそ-う	shū, oso-u
+汁	S	soup	ジュウ、しる	jū, shiru
+充	S	allot	ジュウ、あ-てる	jū, a-teru
+柔	S	tender	ジュウ、ニュウ、やわ-らか、やわ-らかい	jū, nyū, yawa-raka, yawa-rakai
+渋	S	astringent	ジュウ、しぶ、しぶ-い、しぶ-る	jū, shibu, shibu-i, shibu-ru
+銃	S	gun	ジュウ	jū
+獣	S	animal	ジュウ、けもの	jū, kemono
+叔	S	uncle	シュク	shuku
+淑	S	graceful	シュク	shuku
+粛	S	solemn	シュク	shuku
+塾	S	cram school	ジュク	juku
+俊	S	genius	シュン	shun
+瞬	S	wink	シュン、またた-く	shun, matata-ku
+旬	S	10-day period (of the month)	ジュン、（シュン）	jun, 
+巡	S	patrol	ジュン、めぐ-る	jun, megu-ru
+盾	S	shield	ジュン、たて	jun, tate
+准	S	quasi-	ジュン	jun
+殉	S	martyrdom	ジュン	jun
+循	S	sequential	ジュン	jun
+潤	S	wet	ジュン、うるお-う、うるお-す、うる-む	jun, uruo-u, uruo-su, uru-mu
+遵	S	abide by	ジュン	jun
+庶	S	commoner	ショ	sho
+緒	S	thong	ショ、（チョ）、お	sho, , o
+如	S	likeness	ジョ、ニョ	jo, nyo
+叙	S	confer	ジョ	jo
+徐	S	gradually	ジョ	jo
+升	S	measuring box	ショウ、ます	shō, masu
+召	S	summon	ショウ、め-す	shō, me-su
+匠	S	artisan	ショウ	shō
+床	S	bed	ショウ、とこ、ゆか	shō, toko, yuka
+抄	S	extract	ショウ	shō
+肖	S	resemblance	ショウ	shō
+尚	S	esteem	ショウ	shō
+昇	S	rise up	ショウ、のぼ-る	shō, nobo-ru
+沼	S	marsh	ショウ、ぬま	shō, numa
+宵	S	wee hours	ショウ、よい	shō, yoi
+症	S	symptoms	ショウ	shō
+祥	S	auspicious	ショウ	shō
+称	S	appellation	ショウ	shō
+渉	S	ford	ショウ	shō
+紹	S	introduce	ショウ	shō
+訟	S	sue	ショウ	shō
+掌	S	manipulate	ショウ	shō
+晶	S	sparkle	ショウ	shō
+焦	S	char	ショウ、こ-げる、こ-がす、こ-がれる、あせ-る	shō, ko-geru, ko-gasu, ko-gareru, ase-ru
+硝	S	nitrate	ショウ	shō
+粧	S	cosmetics	ショウ	shō
+詔	S	imperial edict	ショウ、みことのり	shō, mikotonori
+奨	S	exhort	ショウ	shō
+詳	S	detailed	ショウ、くわ-しい	shō, kuwa-shii
+彰	S	patent	ショウ	shō
+憧	S	desire	ショウ、あこが-れる	shō, akoga-reru
+衝	S	collide	ショウ	shō
+償	S	reparation	ショウ、つぐな-う	shō, tsuguna-u
+礁	S	reef	ショウ	shō
+鐘	S	bell	ショウ、かね	shō, kane
+丈	S	length	ジョウ、たけ	jō, take
+冗	S	superfluous	ジョウ	jō
+浄	S	clean	ジョウ	jō
+剰	S	surplus	ジョウ	jō
+畳	S	tatami mat	ジョウ、たた-む、たたみ	jō, tata-mu, tatami
+縄	S	straw rope	ジョウ、なわ	jō, nawa
+壌	S	lot	ジョウ	jō
+嬢	S	lass	ジョウ	jō
+錠	S	lock	ジョウ	jō
+譲	S	defer	ジョウ、ゆず-る	jō, yuzu-ru
+醸	S	brew	ジョウ、かも-す	jō, kamo-su
+拭	S	wipe	ショク、ふ-く、ぬぐ-う	shoku, fu-ku, nugu-u
+殖	S	augment	ショク、ふ-える、ふ-やす	shoku, fu-eru, fu-yasu
+飾	S	decorate	ショク、かざ-る	shoku, kaza-ru
+触	S	contact	ショク、ふ-れる、さわ-る	shoku, fu-reru, sawa-ru
+嘱	S	entrust	ショク	shoku
+辱	S	embarrass	ジョク、はずかし-める	joku, hazukashi-meru
+尻	S	buttocks	しり	shiri
+伸	S	lengthen	シン、の-びる、の-ばす、の-べる	shin, no-biru, no-basu, no-beru
+芯	S	core	シン	shin
+辛	S	spicy	シン、から-い	shin, kara-i
+侵	S	encroach	シン、おか-す	shin, oka-su
+津	S	haven	シン、つ	shin, tsu
+唇	S	lips	シン、くちびる	shin, kuchibiru
+娠	S	with child	シン	shin
+振	S	shake	シン、ふ-る、ふ-るう、ふ-れる	shin, fu-ru, fu-rū, fu-reru
+浸	S	immersed	シン、ひた-す、ひた-る	shin, hita-su, hita-ru
+紳	S	sire	シン	shin
+診	S	checkup	シン、み-る	shin, mi-ru
+寝	S	lie down	シン、ね-る、ね-かす	shin, ne-ru, ne-kasu
+慎	S	humility	シン、つつし-む	shin, tsutsushi-mu
+審	S	examine	シン	shin
+震	S	quake	シン、ふる-う、ふる-える	shin, furu-u, furu-eru
+薪	S	fuel	シン、たきぎ	shin, takigi
+刃	S	blade	ジン、は	jin, ha
+尽	S	exhaust	ジン、つ-くす、つ-きる、つ-かす	jin, tsu-kusu, tsu-kiru, tsu-kasu
+迅	S	swift	ジン	jin
+甚	S	tremendously	ジン、はなは-だ、はなは-だしい	jin, hanaha-da, hanaha-dashii
+陣	S	camp	ジン	jin
+尋	S	inquire	ジン、たず-ねる	jin, tazu-neru
+腎	S	kidney	ジン	jin
+須	S	by all means	ス	su
+吹	S	blow	スイ、ふ-く	sui, fu-ku
+炊	S	cook	スイ、た-く	sui, ta-ku
+帥	S	commander	スイ	sui
+粋	S	chic	スイ、いき	sui, iki
+衰	S	decline	スイ、おとろ-える	sui, otoro-eru
+酔	S	drunk	スイ、よ-う	sui, yo-u
+遂	S	consummate	スイ、と-げる	sui, to-geru
+睡	S	drowsy	スイ	sui
+穂	S	ear	スイ、ほ	sui, ho
+随	S	follow	ズイ	zui
+髄	S	marrow	ズイ	zui
+枢	S	hinge	スウ	sū
+崇	S	adore	スウ	sū
+据	S	set	す-える、す-わる	su-eru, su-waru
+杉	S	cedar	すぎ	sugi
+裾	S	cuff	すそ	suso
+瀬	S	rapids	せ	se
+是	S	just so	ゼ	ze
+井	S	well	セイ、（ショウ）、い	sei, (shō), i
+姓	S	surname	セイ、ショウ	sei, shō
+征	S	subjugate	セイ	sei
+斉	S	adjusted	セイ	sei
+牲	S	animal sacrifice	セイ	sei
+凄	S	uncanny	セイ	sei
+逝	S	departed	セイ、ゆ-く、い-く	sei, yu-ku, i-ku
+婿	S	bridegroom	セイ、むこ	sei, muko
+誓	S	vow	セイ、ちか-う	sei, chika-u
+請	S	solicit	セイ、（シン）、こ-う、う-ける	sei, , ko-u, u-keru
+醒	S	be disillusioned	セイ	sei
+斥	S	reject	セキ	seki
+析	S	chop	セキ	seki
+脊	S	stature	セキ	seki
+隻	S	vessels	セキ	seki
+惜	S	pity	セキ、お-しい、お-しむ	seki, o-shii, o-shimu
+戚	S	grieve	セキ	seki
+跡	S	tracks	セキ、あと	seki, ato
+籍	S	enroll	セキ	seki
+拙	S	bungling	セツ、つたな-い	setsu, tsutana-i
+窃	S	stealth	セツ	setsu
+摂	S	vicarious	セツ	setsu
+仙	S	hermit	セン	sen
+占	S	fortune telling	セン、し-める、うらな-う	sen, shi-meru, urana-u
+扇	S	fan	セン、おうぎ	sen, ōgi
+栓	S	plug	セン	sen
+旋	S	rotation	セン	sen
+煎 	S	broil	セン、い-る	sen, i-ru
+羨	S	envy	セン、うらや-む、うらや-ましい	sen, uraya-mu, uraya-mashii
+腺	S	gland	セン	sen
+詮 	S	discussion	セン	sen
+践	S	tread	セン	sen
+箋	S	paper	セン	sen
+潜	S	submerge	セン、ひそ-む、もぐ-る	sen, hiso-mu, mogu-ru
+遷	S	transition	セン	sen
+薦	S	recommend	セン、すす-める	sen, susu-meru
+繊	S	slender	セン	sen
+鮮	S	fresh	セン、あざ-やか	sen, aza-yaka
+禅	S	Zen	ゼン	zen
+漸	S	steadily	ゼン	zen
+膳	S	tray	ゼン	zen
+繕	S	darning	ゼン、つくろ-う	zen, tsukuro-u
+狙	S	aim at	ソ、ねら-う	so, near-u
+阻	S	thwart	ソ、はば-む	so, haba-mu
+租	S	tariff	ソ	so
+措	S	set aside	ソ	so
+粗	S	coarse	ソ、あら-い	so, ara-i
+疎	S	alienate	ソ、うと-い、うと-む	so, uto-i, uto-mu
+訴	S	sue	ソ、うった-える	so, utta-eru
+塑	S	model	ソ	so
+遡 	S	go upstream	ソ、さかのぼ-る	so, sakanobo-ru
+礎	S	cornerstone	ソ、いしずえ	so, ishizue
+双	S	pair	ソウ、ふた	sō, futa
+壮	S	robust	ソウ	sō
+荘	S	villa	ソウ	sō
+捜	S	search	ソウ、さが-す	sō, saga-su
+挿	S	insert	ソウ、さ-す	sō, sa-su
+桑	S	mulberry	ソウ、くわ	sō, kuwa
+掃	S	sweep	ソウ、は-く	sō, ha-ku
+曹	S	cadet	ソウ	sō
+曽	S	formerly	ソウ、（ゾ）	sō, 
+爽	S	refreshing	ソウ、さわ-やか	sō, sawa-yaka
+喪	S	miss	ソウ、も	sō, mo
+痩	S	get thin	ソウ、や-せる	sō, ya-seru
+葬	S	interment	ソウ、ほうむ-る	sō, hōmu-ru
+僧	S	Buddhist priest	ソウ	sō
+遭	S	encounter	ソウ、あ-う	sō, a-u
+槽	S	vat	ソウ	sō
+踪	S	remains	ソウ	sō
+燥	S	parch	ソウ	sō
+霜	S	frost	ソウ、しも	sō, shimo
+騒	S	boisterous	ソウ、さわ-ぐ	sō, sawa-gu
+藻	S	seaweed	ソウ、も	sō, mo
+憎	S	hate	ゾウ、にく-む、にく-い、にく-らしい、にく-しみ	zō, niku-mu, niku-i, niku-rashii, niku-shimi
+贈	S	presents	ゾウ、（ソウ）、おく-る	zō, (sō), oku-ru
+即	S	instant	ソク	soku
+促	S	stimulate	ソク、うなが-す	soku, unaga-su
+捉	S	capture	ソク、とら-える	soku, tora-eru
+俗	S	vulgar	ゾク	zoku
+賊	S	burglar	ゾク	zoku
+遜 	S	humble	ソン	son
+汰	S	luxury	タ	ta
+妥	S	gentle	ダ	da
+唾	S	saliva	ダ、つば	da, tsuba
+堕	S	degenerate	ダ	da
+惰	S	lazy	ダ	da
+駄	S	burdensome	ダ	da
+耐	S	resistant	タイ、た-える	tai, ta-eru
+怠	S	neglect	タイ、おこた-る、なま-ける	tai, okota-ru, nama-keru
+胎	S	womb	タイ	tai
+泰	S	peaceful	タイ	tai
+堆	S	piled high	タイ	tai
+袋	S	sack	タイ、ふくろ	tai, fukuro
+逮	S	apprehend	タイ	tai
+替	S	exchange	タイ、か-える、か-わる	tai, ka-eru, ka-waru
+滞	S	stagnate	タイ、とどこお-る	tai, todokoo-ru
+戴	S	be crowned with	タイ	tai
+滝	S	waterfall	たき	taki
+択	S	choose	タク	taku
+沢	S	swamp	タク、さわ	taku, sawa
+卓	S	eminent	タク	taku
+拓	S	clear (the land)	タク	taku
+託	S	consign	タク	taku
+濯	S	laundry	タク	taku
+諾	S	consent	ダク	daku
+濁	S	voiced	ダク、にご-る、にご-す	daku, nigo-ru, nigo-su
+但	S	however	ただ-し	tada-shi
+脱	S	undress	ダツ、ぬ-ぐ、ぬ-げる	datsu, nu-gu, nu-geru
+奪	S	rob	ダツ、うば-う	datsu, uba-u
+棚	S	shelf	たな	tana
+誰	S	who (question word)	だれ	dare
+丹	S	cinnabar	タン	tan
+旦	S	daybreak	タン、ダン	tan, dan
+胆	S	gall bladder	タン	tan
+淡	S	thin	タン、あわ-い	tan, awa-i
+嘆	S	sigh	タン、なげ-く、なげ-かわしい	tan, nage-ku, nage-kawashii
+端	S	edge	タン、はし、は、はた	tan, hashi, ha, hata
+綻	S	rip	タン、ほころ-びる	tan, hokoro-biru
+鍛	S	forge	タン、きた-える	tan, kita-eru
+弾	S	bullet	ダン、ひ-く、はず-む、たま	dan, hi-ku, hazu-mu, tama
+壇	S	podium	ダン、（タン）	dan, 
+恥	S	shame	チ、は-じる、はじ、は-じらう、は-ずかしい	chi, ha-jiru, haji, ha-jirau, ha-zukashii
+致	S	 do	チ、いた-す	chi, ita-su
+遅	S	slow	チ、おく-れる、おく-らす、おそ-い	chi, oku-reru, oku-rasu, oso-i
+痴	S	stupid	チ	chi
+稚	S	immature	チ	chi
+緻	S	fine (not coarse)	チ	chi
+畜	S	livestock	チク	chiku
+逐	S	pursue	チク	chiku
+蓄	S	amass	チク、たくわ-える	chiku, takuwa-eru
+秩	S	regularity	チツ	chitsu
+窒	S	plug up	チツ	chitsu
+嫡	S	legitimate wife	チャク	chaku
+沖	S	open sea	チュウ、おき	chū, oki
+抽	S	pluck	チュウ	chū
+衷	S	inmost	チュウ	chū
+酎	S	sake	チュウ	chū
+鋳	S	casting	チュウ、い-る	chū, i-ru
+駐	S	stop-over	チュウ	chū
+弔	S	condolences	チョウ、とむら-う	chō, tomura-u
+挑	S	challenge	チョウ、いど-む	chō, ido-mu
+彫	S	carve	チョウ、ほ-る	chō, ho-ru
+眺	S	stare	チョウ、なが-める	chō, naga-meru
+釣	S	angling	チョウ、つ-る	chō, tsu-ru
+貼	S	paste	チョウ、は-る	chō, ha-ru
+超	S	transcend	チョウ、こ-える、こ-す	chō, ko-eru, ko-su
+跳	S	hop	チョウ、は-ねる、と-ぶ	chō, ha-neru, to-bu
+徴	S	indications	チョウ	chō
+嘲 	S	ridicule	チョウ、あざけ-る	chō, azake-ru
+澄	S	lucidity	チョウ、す-む、す-ます	chō, su-mu, su-masu
+聴	S	listen	チョウ、き-く	chō, ki-ku
+懲	S	penal	チョウ、こ-りる、こ-らす、こ-らしめる	chō, ko-riru, ko-rasu, ko-rashimeru
+勅	S	imperial order	チョク	choku
+捗 	S	make progress	チョク	choku
+沈	S	sink	チン、しず-む、しず-める	chin, shizu-mu, shizu-meru
+珍	S	rare	チン、めずら-しい	chin, mezura-shii
+朕	S	majestic plural	チン	chin
+陳	S	exhibit	チン	chin
+鎮	S	tranquilize	チン、しず-める、しず-まる	chin, shizu-meru, shizu-maru
+椎	S	oak	ツイ	tsui
+墜	S	crash	ツイ	tsui
+塚	S	hillock	つか	tsuka
+漬	S	pickling	つ-ける、つ-かる	tsu-keru, tsu-karu
+坪	S	two-mat area	つぼ	tsubo
+爪	S	claw	つめ、（つま）	tsume, 
+鶴	S	crane	つる	tsuru
+呈	S	display	テイ	tei
+廷	S	courts	テイ	tei
+抵	S	resist	テイ	tei
+邸	S	residence	テイ	tei
+亭	S	pavilion	テイ	tei
+貞	S	upright	テイ	tei
+帝	S	sovereign	テイ	tei
+訂	S	revise	テイ	tei
+逓	S	relay	テイ	tei
+偵	S	spy	テイ	tei
+堤	S	dike	テイ、つつみ	tei, tsutsumi
+艇	S	rowboat	テイ	tei
+締	S	tighten	テイ、し-まる、し-める	tei, shi-maru, shi-meru
+諦	S	abandon	テイ、あきら-める	tei, akira-meru
+泥	S	mud	デイ、どろ	dei, doro
+摘	S	pinch	テキ、つ-む	teki, tsu-mu
+滴	S	drip	テキ、しずく、したた-る	teki, shizuku, shitata-ru
+溺 	S	drown	デキ、おぼ-れる	deki, obo-reru
+迭	S	transfer	テツ	tetsu
+哲	S	philosophy	テツ	tetsu
+徹	S	penetrate	テツ	tetsu
+撤	S	remove	テツ	tetsu
+添	S	annexed	テン、そ-える、そ-う	ten, so-eru, so-u
+塡 	S	fill in	テン	ten
+殿	S	Mr.	デン、テン、との、どの	den, ten, tono, dono
+斗	S	Big Dipper	ト	to
+吐	S	spit	ト、は-く	to, ha-ku
+妬	S	jealousy	ト、ねた-む	to, neta-mu
+途	S	route	ト	to
+渡	S	transit	ト、わた-る、わた-す	to, wata-ru, wata-su
+塗	S	paint	ト、ぬ-る	to, nu-ru
+賭 	S	gamble	ト、か-ける	to, ka-keru
+奴	S	guy	ド	do
+怒	S	angry	ド、いか-る、おこ-る	do, ika-ru, oko-ru
+到	S	arrival	トウ	tō
+逃	S	escape	トウ、に-げる、に-がす、のが-す、のが-れる	tō, ni-geru, ni-gasu, noga-su, noga-reru
+倒	S	overthrow	トウ、たお-れる、たお-す	tō, tao-reru, tao-su
+凍	S	frozen	トウ、こお-る、こご-える	tō, koo-ru, kogo-eru
+唐	S	T'ang	トウ、から	tō, kara
+桃	S	peach tree	トウ、もも	tō, momo
+透	S	transparent	トウ、す-く、す-かす、す-ける	tō, su-ku, su-kasu, su-keru
+悼	S	lament	トウ、いた-む	tō, ita-mu
+盗	S	steal	トウ、ぬす-む	tō, nusu-mu
+陶	S	pottery	トウ	tō
+塔	S	pagoda	トウ	tō
+搭	S	board	トウ	tō
+棟	S	ridgepole	トウ、むね、（むな）	tō, mune, 
+痘	S	pox	トウ	tō
+筒	S	cylinder	トウ、つつ	tō, tsutsu
+稲	S	rice plant	トウ、いね、（いな）	tō, ine, 
+踏	S	step	トウ、ふ-む、ふ-まえる	tō, fu-mu, fu-maeru
+謄	S	mimeograph	トウ	tō
+藤	S	wisteria	トウ、ふじ	tō, fuji
+闘	S	fight	トウ、たたか-う	tō, tataka-u
+騰	S	inflation	トウ	tō
+洞	S	den	ドウ、ほら	dō, hora
+胴	S	trunk	ドウ	dō
+瞳	S	pupil	ドウ、ひとみ	dō, hitomi
+峠	S	mountain peak	とうげ	tōge
+匿	S	hide	トク	toku
+督	S	coach	トク	toku
+篤	S	fervent	トク	toku
+栃 	S	horse chestnut	（とち）	
+凸	S	convex	トツ	totsu
+突	S	stab	トツ、つ-く	totsu, tsu-ku
+屯	S	barracks	トン	ton
+豚	S	pork	トン、ぶた	ton, buta
+頓	S	suddenly	トン	ton
+貪	S	covet	ドン、むさぼ-る	don, musabo-ru
+鈍	S	dull	ドン、にぶ-い、にぶ-る	don, nibu-i, nibu-ru
+曇	S	cloudy weather	ドン、くも-る	don, kumo-ru
+丼	S	bowl of food	どんぶり、（どん）	donburi, 
+那	S	what	ナ	na
+奈	S	what	ナ	na
+梨	S	pear tree	なし	nashi
+謎 	S	riddle	なぞ	nazo
+鍋	S	pot	なべ	nabe
+軟	S	soft	ナン、やわ-らか、やわ-らかい	nan, yawa-raka, yawa-rakai
+尼	S	nun	ニ、あま	ni, ama
+弐	S	two (falsification prevention)	ニ	ni
+匂	S	scent	にお-う	nio-u
+虹	S	rainbow	にじ	niji
+尿	S	urine	ニョウ	nyō
+妊	S	pregnancy	ニン	nin
+忍	S	endure	ニン、しの-ぶ、しの-ばせる	nin, shino-bu, shino-baseru
+寧	S	rather	ネイ	nei
+捻	S	twist	ネン、ひね-る	nen, hine-ru
+粘	S	sticky	ネン、ねば-る	nen, neba-ru
+悩	S	trouble	ノウ、なや-む、なや-ます	nō, naya-mu, naya-masu
+濃	S	concentrated	ノウ、こ-い	nō, ko-i
+把	S	grasp	ハ	ha
+覇	S	hegemony	ハ	ha
+婆	S	old woman	バ	ba
+罵	S	insult	バ、ののし-る	ba, nonoshi-ru
+杯	S	counter for cupfuls	ハイ、さかずき	hai, sakazuki
+排	S	repudiate	ハイ	hai
+廃	S	abolish	ハイ、すた-れる、すた-る	hai, suta-reru, suta-ru
+輩	S	comrade	ハイ	hai
+培	S	cultivate	バイ、つちか-う	bai, tsuchika-u
+陪	S	obeisance	バイ	bai
+媒	S	mediator	バイ	bai
+賠	S	compensation	バイ	bai
+伯	S	chief	ハク	haku
+拍	S	clap	ハク、（ヒョウ）	haku, (hyō)
+泊	S	overnight	ハク、と-まる、と-める	haku, to-maru, to-meru
+迫	S	urge	ハク、せま-る	haku, sema-ru
+剝 	S	peel	ハク、は-がす、は-ぐ、は-がれる、は-げる	haku, ha-gasu, ha-gu, ha-gareru, ha-geru
+舶	S	liner	ハク	haku
+薄	S	dilute	ハク、うす-い、うす-める、うす-まる、うす-らぐ、うす-れる	haku, usu-i, usu-meru, usu-maru, usu-ragu, usu-reru
+漠	S	vague	バク	baku
+縛	S	truss	バク、しば-る	baku, shiba-ru
+爆	S	explode	バク	baku
+箸 	S	chopsticks	はし	hashi
+肌	S	texture	はだ	hada
+鉢	S	bowl	ハチ、（ハツ）	hachi, 
+髪	S	hair of the head	ハツ、かみ	hatsu, kami
+伐	S	fell	バツ	batsu
+抜	S	slip out	バツ、ぬ-く、ぬ-ける、ぬ-かす、ぬ-かる	batsu, nu-ku, nu-keru, nu-kasu, nu-karu
+罰	S	penalty	バツ、バチ	batsu, bachi
+閥	S	clique	バツ	batsu
+氾	S	spread out	ハン	han
+帆	S	sail	ハン、ほ	han, ho
+汎	S	pan-	ハン	han
+伴	S	consort	ハン、バン、ともな-う	han, ban, tomona-u
+阪	S	heights	ハン	han
+畔	S	paddy-ridge	ハン	han
+般	S	generally	ハン	han
+販	S	marketing	ハン	han
+斑	S	blemish	ハン	han
+搬	S	conveyor	ハン	han
+煩	S	anxiety	ハン、（ボン）、わずら-う、わずら-わす	han, , wazura-u, wazura-wasu
+頒	S	partition	ハン	han
+範	S	pattern	ハン	han
+繁	S	luxuriant	ハン	han
+藩	S	clan	ハン	han
+蛮	S	barbarian	バン	ban
+盤	S	tray	バン	ban
+妃	S	queen	ヒ	hi
+彼	S	he	ヒ、かれ、（かの）	hi, kare, 
+披	S	expose	ヒ	hi
+卑	S	lowly	ヒ、いや-しい、いや-しむ、いや-しめる	hi, iya-shii, iya-shimu, iya-shimeru
+疲	S	exhausted	ヒ、つか-れる	hi, tsuka-reru
+被	S	incur	ヒ、こうむ-る	hi, kōmu-ru
+扉	S	front door	ヒ、とびら	hi, tobira
+碑	S	tombstone	ヒ	hi
+罷	S	quit	ヒ	hi
+避	S	evade	ヒ、さ-ける	hi, sa-keru
+尾	S	tail	ビ、お	bi, o
+眉	S	eyebrow	ビ、（ミ）、まゆ	bi, , mayu
+微	S	delicate	ビ	bi
+膝	S	knee	ひざ	hiza
+肘	S	elbow	ひじ	hiji
+匹	S	equal	ヒツ、ひき	hitsu, hiki
+泌	S	ooze	ヒツ、ヒ	hitsu, hi
+姫	S	princess	ひめ	hime
+漂	S	drift	ヒョウ、ただよ-う	hyō, tadayo-u
+苗	S	seedling	ビョウ、なえ、（なわ）	byō, nae, 
+描	S	sketch	ビョウ、えが-く、か-く	byō, ega-ku, ka-ku
+猫	S	cat	ビョウ、ねこ	byō, neko
+浜	S	seacoast	ヒン、はま	hin, hama
+賓	S	V.I.P.	ヒン	hin
+頻	S	repeatedly	ヒン	hin
+敏	S	cleverness	ビン	bin
+瓶	S	flower pot	ビン	bin
+扶	S	aid	フ	fu
+怖	S	dreadful	フ、こわ-い	fu, kowa-i
+阜	S	mound	（フ）	
+附	S	affixed	フ	fu
+訃	S	obituary	フ	fu
+赴	S	proceed	フ、おもむ-く	fu, omomu-ku
+浮	S	floating	フ、う-く、う-かれる、う-かぶ、う-かべる	fu, u-ku, u-kareru, u-kabu, u-kaberu
+符	S	token	フ	fu
+普	S	universal	フ	fu
+腐	S	rot	フ、くさ-る、くさ-れる、くさ-らす	fu, kusa-ru, kusa-reru, kusa-rasu
+敷	S	spread	フ、し-く	fu, shi-ku
+膚	S	skin	フ	fu
+賦	S	levy	フ	fu
+譜	S	musical score	フ	fu
+侮	S	scorn	ブ、あなど-る	bu, anado-ru
+舞	S	dance	ブ、ま-う、まい	bu, ma-u, mai
+封	S	seal	フウ、ホウ	fū, hō
+伏	S	prostrated	フク、ふ-せる、ふ-す	fuku, fu-seru, fu-su
+幅	S	breadth	フク、はば	fuku, haba
+覆	S	capsize	フク、おお-う、くつがえ-す、くつがえ-る	fuku, oo-u, kutsugae-su, kutsugae-ru
+払	S	pay	フツ、はら-う	futsu, hara-u
+沸	S	seethe	フツ、わ-く、わ-かす	futsu, wa-ku, wa-kasu
+紛	S	distract	フン、まぎ-れる、まぎ-らす、まぎ-らわす、まぎ-らわしい	fun, magi-reru, magi-rasu, magi-rawasu, magi-rawashii
+雰	S	atmosphere	フン	fun
+噴	S	erupt	フン、ふ-く	fun, fu-ku
+墳	S	tomb	フン	fun
+憤	S	aroused	フン、いきどお-る	fun, ikidoo-ru
+丙	S	third class	ヘイ	hei
+併	S	join	ヘイ、あわ-せる	hei, awa-seru
+柄	S	design	ヘイ、がら、え	hei, gara, e
+塀	S	fence	ヘイ	hei
+幣	S	cash	ヘイ	hei
+弊	S	abuse	ヘイ	hei
+蔽 	S	cover	ヘイ	hei
+餅 	S	mochi rice cake	ヘイ、もち	hei, mochi
+壁	S	wall	ヘキ、かべ	heki, kabe
+璧	S	sphere	ヘキ	heki
+癖	S	mannerism	ヘキ、くせ	heki, kuse
+蔑	S	ignore	ベツ、さげす-む	betsu, sagesu-mu
+偏	S	partial	ヘン、かたよ-る	hen, katayo-ru
+遍	S	everywhere	ヘン	hen
+哺	S	suckle	ホ	ho
+捕	S	catch	ホ、と-らえる、と-らわれる、と-る、つか-まえる、つか-まる	ho, to-raeru, to-rawareru, to-ru, tsuka-maeru, tsuka-maru
+舗	S	pavement	ホ	ho
+募	S	recruit	ボ、つの-る	bo, tsuno-ru
+慕	S	pining	ボ、した-う	bo, shita-u
+簿	S	register	ボ	bo
+芳	S	perfume	ホウ、かんば-しい	hō, kanba-shii
+邦	S	home country	ホウ	hō
+奉	S	observance	ホウ、（ブ）、たてまつ-る	hō, , tatematsu-ru
+抱	S	embrace	ホウ、だ-く、いだ-く、かか-える	hō, da-ku, ida-ku, kaka-eru
+泡	S	bubbles	ホウ、あわ	hō, awa
+胞	S	placenta	ホウ	hō
+俸	S	salary	ホウ	hō
+倣	S	emulate	ホウ、なら-う	hō, nara-u
+峰	S	summit	ホウ、みね	hō, mine
+砲	S	cannon	ホウ	hō
+崩	S	crumble	ホウ、くず-れる、くず-す	hō, kuzu-reru, kuzu-su
+蜂	S	bee	ホウ、はち	hō, hachi
+飽	S	sated	ホウ、あ-きる、あ-かす	hō, a-kiru, a-kasu
+褒	S	praise	ホウ、ほ-める	hō, ho-meru
+縫	S	sew	ホウ、ぬ-う	hō, nu-u
+乏	S	scarce	ボウ、とぼ-しい	bō, tobo-shii
+忙	S	busy	ボウ、いそが-しい	bō, isoga-shii
+坊	S	boy	ボウ、（ボッ）	bō, (bo')
+妨	S	disturb	ボウ、さまた-げる	bō, samata-geru
+房	S	tassel	ボウ、ふさ	bō, fusa
+肪	S	obese	ボウ	bō
+某	S	so-and-so	ボウ	bō
+冒	S	risk	ボウ、おか-す	bō, oka-su
+剖	S	divide	ボウ	bō
+紡	S	spinning	ボウ、つむ-ぐ	bō, tsumu-gu
+傍	S	bystander	ボウ、かたわ-ら	bō, katawa-ra
+帽	S	cap	ボウ	bō
+貌	S	appearance	ボウ	bō
+膨	S	swell	ボウ、ふく-らむ、ふく-れる	bō, fuku-ramu, fuku-reru
+謀	S	conspire	ボウ、（ム）、はか-る	bō, , haka-ru
+頰 	S	cheek	ほお	hoo
+朴	S	crude	ボク	boku
+睦	S	harmonious	ボク	boku
+僕	S	me	ボク	boku
+墨	S	black ink	ボク、すみ	boku, sumi
+撲	S	slap	ボク	boku
+没	S	drown	ボツ	botsu
+勃	S	rise	ボツ	botsu
+堀	S	ditch	ほり	hori
+奔	S	bustle	ホン	hon
+翻	S	flip	ホン、ひるがえ-る、ひるがえ-す	hon, hirugae-ru, hirugae-su
+凡	S	mediocre	ボン、（ハン）	bon, 
+盆	S	basin	ボン	bon
+麻	S	hemp	マ、あさ	ma, asa
+摩	S	chafe	マ	ma
+磨	S	grind	マ、みが-く	ma, miga-ku
+魔	S	witch	マ	ma
+昧	S	foolish	マイ	mai
+埋	S	bury	マイ、う-める、う-まる、う-もれる	mai, u-meru, u-maru, u-moreru
+膜	S	membrane	マク	maku
+枕	S	pillow	まくら	makura
+又	S	or again	また	mata
+抹	S	rub	マツ	matsu
+慢	S	ridicule	マン	man
+漫	S	cartoon	マン	man
+魅	S	fascination	ミ	mi
+岬	S	headland	みさき	misaki
+蜜	S	honey	ミツ	mitsu
+妙	S	exquisite	ミョウ	myō
+眠	S	sleep	ミン、ねむ-る、ねむ-い	min, nemu-ru, nemu-i
+矛	S	halberd	ム、ほこ	mu, hoko
+霧	S	fog	ム、きり	mu, kiri
+娘	S	daughter	むすめ	musume
+冥	S	dark	メイ、ミョウ	mei, myō
+銘	S	inscription	メイ	mei
+滅	S	destroy	メツ、ほろ-びる、ほろ-ぼす	metsu, horo-biru, horo-bosu
+免	S	excuse	メン、まぬか-れる	men, manuka-reru
+麺	S	noodles	メン	men
+茂	S	overgrown	モ、しげ-る	mo, shige-ru
+妄	S	delusion	モウ、ボウ	mō, bō
+盲	S	blind	モウ	mō
+耗	S	decrease	モウ、（コウ）	mō, (kō)
+猛	S	fierce	モウ	mō
+網	S	netting	モウ、あみ	mō, ami
+黙	S	silence	モク、だま-る	moku, dama-ru
+紋	S	family crest	モン	mon
+冶	S	melting	ヤ	ya
+弥	S	all the more	や	ya
+厄	S	unlucky	ヤク	yaku
+躍	S	leap	ヤク、おど-る	yaku, odo-ru
+闇	S	darkness	やみ	yami
+喩	S	metaphor	ユ	yu
+愉	S	pleasure	ユ	yu
+諭	S	rebuke	ユ、さと-す	yu, sato-su
+癒	S	healing	ユ、い-える、い-やす	yu, i-eru, i-yasu
+唯	S	solely	ユイ、（イ）	yui, 
+幽	S	seclude	ユウ	yū
+悠	S	permanence	ユウ	yū
+湧	S	boil	ユウ、わ-く	yū, wa-ku
+猶	S	furthermore	ユウ	yū
+裕	S	abundant	ユウ	yū
+雄	S	male	ユウ、お、おす	yū, o, osu
+誘	S	entice	ユウ、さそ-う	yū, saso-u
+憂	S	melancholy	ユウ、うれ-える、うれ-い、う-い	yū, ure-eru, ure-i, u-i
+融	S	dissolve	ユウ	yū
+与	S	give	ヨ、あた-える	yo, ata-eru
+誉	S	reputation	ヨ、ほま-れ	yo, homa-re
+妖	S	bewitching	ヨウ、あや-しい	yō, aya-shii
+庸	S	commonplace	ヨウ	yō
+揚	S	hoist	ヨウ、あ-げる、あ-がる	yō, a-geru, a-garu
+揺	S	swing	ヨウ、ゆ-れる、ゆ-る、ゆ-らぐ、ゆ-るぐ、ゆ-する、ゆ-さぶる、ゆ-すぶる	yō, yu-reru, yu-ru, yu-ragu, yu-rugu, yu-suru, yu-saburu, yu-suburu
+溶	S	melt	ヨウ、と-ける、と-かす、と-く	yō, to-keru, to-kasu, to-ku
+腰	S	loins	ヨウ、こし	yō, koshi
+瘍	S	boil 	ヨウ	yō
+踊	S	jump	ヨウ、おど-る、おど-り	yō, odo-ru, odo-ri
+窯	S	kiln	ヨウ、かま	yō, kama
+擁	S	embrace	ヨウ	yō
+謡	S	noh chanting	ヨウ、うたい、うた-う	yō, utai, uta-u
+抑	S	repress	ヨク、おさ-える	yoku, osa-eru
+沃	S	fertility	ヨク	yoku
+翼	S	wing	ヨク、つばさ	yoku, tsubasa
+拉	S	crush	ラ	ra
+裸	S	naked	ラ、はだか	ra, hadaka
+羅	S	gauze	ラ	ra
+雷	S	thunder	ライ、かみなり	rai, kaminari
+頼	S	trust	ライ、たの-む、たの-もしい、たよ-る	rai, tano-mu, tano-moshii, tayo-ru
+絡	S	entwine	ラク、から-む、から-まる、から-める	raku, kara-mu, kara-maru, kara-meru
+酪	S	dairy products	ラク	raku
+辣	S	bitter	ラツ	ratsu
+濫	S	excessive	ラン	ran
+藍	S	indigo	ラン、あい	ran, ai
+欄	S	column	ラン	ran
+吏	S	officer	リ	ri
+痢	S	diarrhea	リ	ri
+履	S	footgear	リ、は-く	ri, ha-ku
+璃	S	glassy	リ	ri
+離	S	detach	リ、はな-れる、はな-す	ri, hana-reru, hana-su
+慄	S	fear	リツ	ritsu
+柳	S	willow	リュウ、やなぎ	ryū, yanagi
+竜	S	dragon	リュウ、たつ	ryū, tatsu
+粒	S	grains	リュウ、つぶ	ryū, tsubu
+隆	S	hump	リュウ	ryū
+硫	S	sulphur	リュウ	ryū
+侶	S	companion	リョ	ryo
+虜	S	captive	リョ	ryo
+慮	S	prudence	リョ	ryo
+了	S	finish	リョウ	ryō
+涼	S	refreshing	リョウ、すず-しい、すず-む	ryō, suzu-shii, suzu-mu
+猟	S	game-hunting	リョウ	ryō
+陵	S	mausoleum	リョウ、みささぎ	ryō, misasagi
+僚	S	colleague	リョウ	ryō
+寮	S	dormitory	リョウ	ryō
+療	S	heal	リョウ	ryō
+瞭	S	clear	リョウ	ryō
+糧	S	provisions	リョウ、（ロウ）、かて	ryō, (rō), kate
+厘	S	thousandth	リン	rin
+倫	S	ethics	リン	rin
+隣	S	neighboring	リン、とな-る、となり	rin, tona-ru, tonari
+瑠	S	lapis lazuli	ル	ru
+涙	S	tears	ルイ、なみだ	rui, namida
+累	S	accumulate	ルイ	rui
+塁	S	bases	ルイ	rui
+励	S	encourage	レイ、はげ-む、はげ-ます	rei, hage-mu, hage-masu
+戻	S	re-	レイ、もど-す、もど-る	rei, modo-su, modo-ru
+鈴	S	small bell	レイ、リン、すず	rei, rin, suzu
+零	S	zero	レイ	rei
+霊	S	spirits	レイ、リョウ、たま	rei, ryō, tama
+隷	S	slave	レイ	rei
+齢	S	age	レイ	rei
+麗	S	lovely	レイ、うるわ-しい	rei, uruwa-shii
+暦	S	calendar	レキ、こよみ	reki, koyomi
+劣	S	inferiority	レツ、おと-る	retsu, oto-ru
+烈	S	ardent	レツ	retsu
+裂	S	split	レツ、さ-く、さ-ける	retsu, sa-ku, sa-keru
+恋	S	romance	レン、こ-う、こい、こい-しい	ren, ko-u, koi, koi-shii
+廉	S	bargain	レン	ren
+錬	S	tempering	レン	ren
+呂	S	spine	ロ	ro
+炉	S	hearth	ロ	ro
+賂	S	bribe	ロ	ro
+露	S	dew	ロ、（ロウ）、つゆ	ro, (rō), tsuyu
+弄	S	tamper with	ロウ、もてあそ-ぶ	rō, moteaso-bu
+郎	S	son	ロウ	rō
+浪	S	wandering	ロウ	rō
+廊	S	corridor	ロウ	rō
+楼	S	watchtower	ロウ	rō
+漏	S	leak	ロウ、も-る、も-れる、も-らす	rō, mo-ru, mo-reru, mo-rasu
+籠	S	basket	ロウ、かご、こ-もる	rō, kago, ko-moru
+麓	S	foot of a mountain	ロク、ふもと	roku, fumoto
+賄	S	bribe	ワイ、まかな-う	wai, makana-u
+脇	S	aside	わき	waki
+惑	S	beguile	ワク、まど-う	waku, mado-u
+枠	S	frame	わく	waku
+湾	S	gulf	ワン	wan
+腕	S	arm	ワン、うで	wan, ude 
