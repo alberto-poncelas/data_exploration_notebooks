@@ -1,0 +1,2254 @@
+	0	1	2	min_level	max_level
+0	现在 	 now 	 xian4zai4	1	1
+1	医院 	 hospital 	 yi1yuan4	1	1
+2	今天 	 today 	 jin1tian1	1	1
+3	来 	 to come 	 lai2	1	1
+4	请 	 please  	 qing3	1	1
+5	岁 	 years, age 	 sui4	1	1
+6	七 	 seven 	 qi1	1	1
+7	上 	 above 	 shang4	1	1
+8	饭店 	 restaurant 	 fan4dian4	1	1
+9	对不起 	 sorry 	 dui4bu5qi3	1	1
+10	衣服 	 clothing 	 yi1fu5	1	1
+11	听 	 to listen 	 ting1	1	1
+12	那 	 that 	 na4	1	1
+13	会 	 can 	 hui4	1	1
+14	谢谢 	 thanks 	 xie4xie5	1	1
+15	二 	 two 	 er4	1	1
+16	热 	 hot 	 re4	1	1
+17	呢 	 (suggestion) 	 ne5	1	1
+18	我 	 I, me 	 wo3	1	1
+19	电影 	 movie 	 dian4ying3	1	1
+20	吃 	 to eat 	 chi1	1	1
+21	开 	 to open 	 kai1	1	1
+22	后面 	 back 	 hou4mian4	1	1
+23	汉语 	 Chinese language 	 han4yu3	1	1
+24	妈妈 	 mother 	 ma1ma5	1	1
+25	怎么 	 how 	 zen3me5	1	1
+26	打電話 	 to telephone 	 da3 dian4hua4	1	1
+27	茶 	 tea 	 cha2	1	1
+28	点 	 o'clock 	 dian3	1	1
+29	吗 	 question marker 	 ma5	1	1
+30	她 	 she, her 	 ta1	1	1
+31	了 	 (past tense) 	 le5	1	1
+32	米饭 	 rice 	 mi3fan4	1	1
+33	个 	 measure word  	 ge4	1	1
+34	看 	 to look at 	 kan4	1	1
+35	下雨 	 to rain 	 xia4yu3	1	1
+36	本 	 volume 	 ben3	1	1
+37	老师 	 teacher 	 lao3shi1	1	1
+38	十 	 ten 	 shi2	1	1
+39	电视 	 television 	 dian4shi4	1	1
+40	三 	 three 	 san1	1	1
+41	没 	 not 	 mei2	1	1
+42	坐 	 to sit 	 zuo4	1	1
+43	椅子 	 chair 	 yi3zi5	1	1
+44	六 	 six 	 liu4	1	1
+45	多少 	 how many, how much 	 duo1shao5	1	1
+46	有 	 to have 	 you3	1	1
+47	多 	 many, much 	 duo1	1	1
+48	八 	 eight 	 ba1	1	1
+49	同学 	 classmate 	 tong2xue2	1	1
+50	住 	 to live 	 zhu4	1	1
+51	你们 	 you, you 	 ni3men5	1	1
+52	回 	 to come back 	 hui2	1	1
+53	太 	 too 	 tai4	1	1
+54	昨天 	 yesterday 	 zuo2tian1	1	1
+55	你 	 you, you 	 ni3	1	1
+56	再见 	 good-bye 	 zai4jian4	1	1
+57	时候 	 time, when 	 shi2hou4	1	1
+58	这 	 this 	 zhe4	1	1
+59	女儿 	 daughter 	 nv3er2	1	1
+60	工作 	 to work 	 gong1zuo4	1	1
+61	电脑 	 computer 	 dian4nao3	1	1
+62	很 	 very 	 hen3	1	1
+63	看见 	 to see 	 kan4jian4	1	1
+64	大 	 big 	 da4	1	1
+65	没关系 	 it doesn't matter 	 mei2guan1xi5	1	1
+66	他 	 he, him 	 ta1	1	1
+67	医生 	 doctor 	 yi1sheng1	1	1
+68	家 	 home 	 jia1	1	1
+69	读 	 to read 	 du2	1	1
+70	小 	 small 	 xiao3	1	1
+71	写 	 to write 	 xie3	1	1
+72	月 	 month 	 yue4	1	1
+73	前面 	 front 	 qian2mian4	1	1
+74	爸爸 	 father 	 ba4ba5	1	1
+75	都 	 all 	 dou1	1	1
+76	先生 	 mister 	 xian1sheng5	1	1
+77	九 	 nine 	 jiu3	1	1
+78	飞机 	 airplane 	 fei1ji1	1	1
+79	叫 	 to call 	 jiao4	1	1
+80	书 	 book 	 shu1	1	1
+81	学校 	 school 	 xue2xiao4	1	1
+82	北京 	 Beijing 	 Bei3jing1	1	1
+83	年 	 year 	 nian2	1	1
+84	星期 	 week 	 xing1qi1	1	1
+85	块 	 piece 	 kuai4	1	1
+86	商店 	 shop 	 shang1dian4	1	1
+87	的 	 subordinating particle 	 de5	1	1
+88	和 	 and 	 he2	1	1
+89	好 	 good, nice 	 hao3	1	1
+90	冷 	 cold 	 leng3	1	1
+91	几 	 how many 	 ji3	1	1
+92	爱 	 to love 	 ai4	1	1
+93	一 	 one 	 yi1	1	1
+94	想 	 to think 	 xiang3	1	1
+95	喝 	 to drink 	 he1	1	1
+96	睡覺 	 to sleep 	 shui4jiao4	1	1
+97	苹果 	 apple 	 ping2guo3	1	1
+98	杯子 	 cup 	 bei1zi5	1	1
+99	钱 	 money 	 qian2	1	1
+100	买 	 to buy 	 mai3	1	1
+101	桌子 	 table 	 zhuo1zi5	1	1
+102	日 	 day 	 ri4	1	1
+103	出租车 	 taxi 	 chu1zu1che1	1	1
+104	高兴 	 happy 	 gao1xing4	1	1
+105	些 	 a few 	 xie1	1	1
+106	做 	 to do 	 zuo4	1	1
+107	东西 	 thing 	 dong1xi5	1	1
+108	朋友 	 friend 	 peng2you5	1	1
+109	人 	 people 	 ren2	1	1
+110	零 	 zero 	 ling2	1	1
+111	里 	 inside 	 li3	1	1
+112	认识 	 to know 	 ren4shi5	1	1
+113	是 	 to be 	 shi4	1	1
+114	上午 	 morning 	 shang4wu3	1	1
+115	不客气 	 you're welcome 	 bu2ke4qi5	1	1
+116	怎么样 	 how about 	 zen3me5yang4	1	1
+117	说话 	 to say 	 shuo1hua4	1	1
+118	中国 	 China 	 Zhong1guo2	1	1
+119	什么 	 what 	 shen2me5	1	1
+120	明天 	 tomorrow 	 ming2tian1	1	1
+121	谁 	 who 	 shui2	1	1
+122	学习 	 to study 	 xue2xi2	1	1
+123	火车站 	 railway station 	 huo3che1zhan4	1	1
+124	喜欢 	 to like 	 xi3huan5	1	1
+125	猫 	 cat 	 mao1	1	1
+126	去 	 to go 	 qu4	1	1
+127	小姐 	 miss 	 xiao3jie3	1	1
+128	儿子 	 son 	 er2zi5	1	1
+129	五 	 five 	 wu3	1	1
+130	下 	 below 	 xia4	1	1
+131	水 	 water 	 shui3	1	1
+132	名字 	 name 	 ming2zi5	1	1
+133	四 	 four 	 si4	1	1
+134	哪儿 	 where 	 na3r5	1	1
+135	能 	 to be able to 	 neng2	1	1
+136	菜 	 dish 	 cai4	1	1
+137	狗 	 dog 	 gou3	1	1
+138	鱼 	 fish 	 yu2	2	2
+139	身体 	 body, health 	 shen1ti3	2	2
+140	哥哥 	 older brother 	 ge1ge5	2	2
+141	找 	 to look for 	 zhao3	2	2
+142	累 	 tired 	 lei4	2	2
+143	打篮球 	 to play basketball 	 da3lan2qiu2	1	2
+144	次 	 time 	 ci4	2	2
+145	男人 	 man 	 nan2ren2	1	2
+146	自行车 	 bicycle 	 zi4xing2che1	1	2
+147	题 	 question 	 ti2	2	2
+148	快乐 	 happy 	 kuai4le4	2	2
+149	服务员 	 waiter 	 fu2wu4yuan2	1	2
+150	牛奶 	 milk 	 niu2nai3	2	2
+151	意思 	 meaning 	 yi4si5	2	2
+152	跳舞 	 to dance 	 tiao4wu3	2	2
+153	向 	 towards 	 xiang4	2	2
+154	两 	 two 	 liang3	2	2
+155	漂亮 	 beautiful 	 piao4liang5	2	2
+156	便宜 	 cheap 	 pian2yi5	2	2
+157	到 	 to arrive 	 dao4	2	2
+158	房间 	 room 	 fang2jian1	2	2
+159	妹妹 	 younger sister 	 mei4mei5	2	2
+160	白 	 white 	 bai2	2	2
+161	还 	 still 	 hai2	2	2
+162	运动 	 to work out 	 yun4dong4	2	2
+163	唱歌 	 to sing 	 chang4ge1	2	2
+164	慢 	 slow 	 man4	2	2
+165	比 	 to compare with 	 bi3	2	2
+166	希望 	 to hope 	 xi1wang4	2	2
+167	非常 	 very 	 fei1chang2	2	2
+168	分钟 	 minute 	 fen1zhong1	2	2
+169	孩子 	 child 	 hai2zi5	1	2
+170	要 	 to want, will 	 yao4	2	2
+171	晚上 	 evening 	 wan3shang5	1	2
+172	着 	 (continuing tense) 	 zhe5	2	2
+173	咖啡 	 coffee 	 ka1fei1	2	2
+174	公司 	 company 	 gong1si1	2	2
+175	票 	 ticket 	 piao4	2	2
+176	长 	 long 	 chang2	2	2
+177	西瓜 	 watermelon 	 xi1gua1	1	2
+178	右边 	 right side 	 you4bian5	2	2
+179	每 	 every 	 mei3	2	2
+180	穿 	 to wear 	 chuan1	2	2
+181	颜色 	 color 	 yan2se4	2	2
+182	晴 	 sunny 	 qing2	2	2
+183	远 	 far 	 yuan3	2	2
+184	雪 	 snow 	 xue3	2	2
+185	让 	 to let 	 rang4	2	2
+186	从 	 from 	 cong2	2	2
+187	最 	 most 	 zui4	2	2
+188	妻子 	 wife 	 qi1zi5	1	2
+189	黑 	 black 	 hei1	2	2
+190	离 	 from 	 li2	2	2
+191	帮助 	 to help 	 bang1zhu4	2	2
+192	眼睛 	 eye 	 yan3jing5	2	2
+193	等 	 to wait 	 deng3	2	2
+194	丈夫 	 husband 	 zhang4fu5	2	2
+195	喂 	 hey 	 wei4	2	2
+196	阴 	 cloudy 	 yin1	2	2
+197	千 	 thousand 	 qian1	2	2
+198	旁边 	 side 	 pang2bian1	2	2
+199	介绍 	 to introduce 	 jie4shao4	2	2
+200	船 	 boat 	 chuan2	2	2
+201	鸡蛋 	 egg 	 ji1dan4	2	2
+202	开始 	 to begin 	 kai1shi3	1	2
+203	药 	 medicine 	 yao4	2	2
+204	回答 	 to answer 	 hui2da2	1	2
+205	姓 	 family name 	 xing4	2	2
+206	机场 	 airport 	 ji1chang3	1	2
+207	走 	 to walk 	 zou3	2	2
+208	路 	 road 	 lu4	2	2
+209	起床 	 to get up 	 qi3chuang2	1	2
+210	课 	 lesson 	 ke4	2	2
+211	生病 	 to get sick 	 sheng1bing4	1	2
+212	教室 	 classroom 	 jiao4shi4	2	2
+213	新 	 new 	 xin1	2	2
+214	它 	 it  	 ta1	2	2
+215	旅游 	 to travel 	 lv3you2	2	2
+216	欢迎 	 to welcome 	 huan1ying2	1	2
+217	告诉 	 to tell 	 gao4su5	2	2
+218	近 	 close 	 jin4	2	2
+219	第一 	 first 	 di4yi1	1	2
+220	事情 	 matter 	 shi4qing5	2	2
+221	错 	 wrong 	 cuo4	2	2
+222	也 	 also 	 ye3	2	2
+223	元 	 yuan  	 yuan2	2	2
+224	百 	 hundred 	 bai3	2	2
+225	真 	 really 	 zhen1	2	2
+226	正在 	 currently 	 zheng4zai4	1	2
+227	踢足球 	 to play football 	 ti1zu2qiu2	2	2
+228	为什么 	 why 	 wei4shen2me5	1	2
+229	吧 	 (suggestion) 	 ba5	2	2
+230	地 	 (adverbial particle) 	 de5	2	2
+231	红 	 red 	 hong2	2	2
+232	已经 	 already 	 yi3jing1	2	2
+233	就 	 only 	 jiu4	2	2
+234	早上 	 morning 	 zao3shang5	1	2
+235	游泳 	 to swim 	 you2yong3	2	2
+236	贵 	 expensive 	 gui4	2	2
+237	完 	 to finish 	 wan2	2	2
+238	您 	 you 	 nin2	2	2
+239	跑步 	 to run 	 pao3bu4	2	2
+240	休息 	 to rest 	 xiu1xi5	2	2
+241	张 	 piece 	 zhang1	2	2
+242	但是 	 but 	 dan4shi4	1	2
+243	公共汽车 	 bus 	 gong1gong4qi4che1	1	2
+244	洗 	 to wash 	 xi3	2	2
+245	觉得 	 to think 	 jue2de5	2	2
+246	得 	 (adverbial particle) 	 de5	2	2
+247	因为 	 because 	 yin1wei4	2	2
+248	所以 	 so 	 suo3yi3	2	2
+249	玩 	 to play 	 wan2	2	2
+250	进 	 to enter 	 jin4	2	2
+251	号 	 number 	 hao4	2	2
+252	快 	 quick 	 kuai4	2	2
+253	笑 	 to smile 	 xiao4	2	2
+254	考试 	 exam 	 kao3shi4	2	2
+255	外 	 outside 	 wai4	2	2
+256	别 	 do not 	 bie2	2	2
+257	可能 	 to be possible 	 ke3neng2	1	2
+258	过 	 (perfect tense) 	 guo4	2	2
+259	知道 	 to know 	 zhi1dao4	2	2
+260	忙 	 busy 	 mang2	2	2
+261	左边 	 left side 	 zuo3bian5	2	2
+262	可以 	 can 	 ke3yi3	2	2
+263	手表 	 watch 	 shou3biao3	2	2
+264	件 	 measure word for clothing or matters 	 jian4	2	2
+265	公斤 	 kilogram 	 gong1jin1	2	2
+266	上班 	 to go to work 	 shang4ban1	1	2
+267	给 	 to give 	 gei3	2	2
+268	弟弟 	 younger brother 	 di4di5	2	2
+269	送 	 to give, to send 	 song4	2	2
+270	问 	 to ask 	 wen4	2	2
+271	羊肉 	 lamb 	 yang2rou4	2	2
+272	准备 	 to prepare 	 zhun3bei4	2	2
+273	表演 	 to perform 	 biao3yan3	2	3
+274	街道 	 street 	 jie1dao4	2	3
+275	当然 	 surely 	 dang1ran2	3	3
+276	脸 	 face 	 lian3	3	3
+277	清楚 	 clear 	 qing1chu3	3	3
+278	短 	 short 	 duan3	3	3
+279	照顾 	 to look after 	 zhao4gu4	3	3
+280	地铁 	 subway 	 di4tie3	2	3
+281	鞋 	 shoe 	 xie2	3	3
+282	应该 	 should 	 ying1gai1	3	3
+283	菜单 	 menu 	 cai4dan1 	1	3
+284	注意 	 attention 	 zhu4yi4	2	3
+285	角 	 corner 	 jiao3	3	3
+286	舒服 	 comfortable 	 shu1fu5	1	3
+287	自己 	 oneself 	 zi4ji3	2	3
+288	干净 	 clean 	 gan1jing4	3	3
+289	帽子 	 hat 	 mao4zi3	1	3
+290	刻 	 to carve 	 ke4	3	3
+291	电梯 	 elevator 	 dian4ti1	1	3
+292	报纸 	 newspaper 	 bao4zhi3	3	3
+293	城市 	 city 	 cheng2shi4	3	3
+294	检查 	 to examine 	 jian3cha2	3	3
+295	如果 	 if 	 ru2guo3	1	3
+296	饱 	 full 	 bao3	3	3
+297	春 	 spring 	 chun1	3	3
+298	面条 	 noodle 	 mian4tiao2	1	3
+299	冬 	 winter 	 dong1	3	3
+300	跟 	 to follow 	 gen1	3	3
+301	刚才 	 just now 	 gang1cai2	3	3
+302	邻居 	 neighbor 	 lin2ju1	3	3
+303	敢 	 to dare   	 gan3	3	3
+304	重要 	 important 	 zhong4yao4	2	3
+305	安静 	 quiet 	 an1jing4	3	3
+306	照片 	 photo 	 zhao4pian4	3	3
+307	夏 	 summer 	 xia4	3	3
+308	耳朵 	 ear 	 er3duo5	3	3
+309	参加 	 to attend 	 can1jia1	3	3
+310	刮风 	 to blow 	 gua1feng1	3	3
+311	门 	 door 	 men2	3	3
+312	带 	 to bring 	 dai4	3	3
+313	护照 	 passport 	 hu4zhao4	3	3
+314	接 	 to connect 	 jie1	3	3
+315	水平 	 level 	 shui3ping2	1	3
+316	相信 	 to believe 	 xiang1xin4	3	3
+317	段 	 passage 	 duan4	3	3
+318	聪明 	 clever 	 cong1ming5	1	3
+319	懂 	 to understand 	 dong3	3	3
+320	绿 	 green 	 lv4	3	3
+321	筷子 	 chopsticks 	 kuai4zi5	1	3
+322	结束 	 to finish 	 jie2shu4	3	3
+323	把 	 handle 	 ba3	3	3
+324	熊猫 	 panda 	 xiong2mao1	1	3
+325	蓝 	 blue 	 lan2	3	3
+326	秋 	 autumn 	 qiu1	3	3
+327	词语 	 word 	 ci2yu3	1	3
+328	故事 	 story 	 gu4shi5	2	3
+329	要求 	 to require 	 yao1qiu2	2	3
+330	骑 	 to ride 	 qi1	3	3
+331	卖 	 to sell 	 mai4	3	3
+332	一直 	 constantly 	 yi1zhi2	1	3
+333	叔叔 	 uncle 	 shu1shu5	3	3
+334	迟到 	 to be late  	 chi2dao4	2	3
+335	低 	 low 	 di1	3	3
+336	碗 	 bowl 	 wan3	3	3
+337	位 	 measure word for people 	 wei4	3	3
+338	公园 	 park 	 gong1yuan2	2	3
+339	树 	 tree 	 shu4	3	3
+340	体育 	 PE 	 ti3yu4	2	3
+341	更 	 more 	 geng4	3	3
+342	数学 	 math 	 shu4xue2	1	3
+343	必须 	 must 	 bi4xu1	3	3
+344	极 	 badly 	 ji2	3	3
+345	草 	 grass 	 cao3	3	3
+346	洗澡 	 to bathe 	 xi3zao3	2	3
+347	几乎 	 nearly 	 ji1hu1  	1	3
+348	字典 	 dictionary 	 zi4dian3	1	3
+349	声音 	 voice 	 sheng1yin1	3	3
+350	银行 	 bank 	 yin2hang2	2	3
+351	鸟 	 bird 	 niao3	3	3
+352	伞 	 umbrella 	 san3	3	3
+353	换 	 to change 	 huan4	3	3
+354	黑板 	 blackboard 	 hei1ban3	2	3
+355	附近 	 neighborhood 	 fu4jin4	2	3
+356	瘦 	 thin 	 shou4	3	3
+357	脚 	 foot 	 jiao3	3	3
+358	万 	 ten thousand 	 wan4	3	3
+359	打算 	 plan 	 da3suan4	1	3
+360	厨房 	 kitchen 	 chu2fang2	2	3
+361	季节 	 season 	 ji4jie2	3	3
+362	又 	 again 	 you4	3	3
+363	上网 	 to get online 	 shang4wang3	1	3
+364	铅笔 	 pencil 	 qian1bi3	3	3
+365	历史 	 history 	 li4shi3	3	3
+366	简单 	 simple 	 jian3dan1	3	3
+367	决定 	 to decide 	 jue2ding4	3	3
+368	疼 	 pain 	 teng2	3	3
+369	啊 	 ah 	 a5	3	3
+370	而且 	 moreover 	 er2qie3	3	3
+371	果汁 	 juice 	 guo3zhi1 	1	3
+372	马 	 horse 	 ma3	3	3
+373	层 	 story 	 ceng2	3	3
+374	健康 	 health 	 jian4kang1	3	3
+375	选择 	 to choose 	 xuan3ze2	3	3
+376	节目 	 program 	 jie2mu4	3	3
+377	其实 	 actually 	 qi2shi2	3	3
+378	头发 	 hair 	 tou2fa4	3	3
+379	礼物 	 gift 	 li3wu4	3	3
+380	或者 	 or 	 huo4zhe3 	3	3
+381	河 	 river 	 he2	3	3
+382	糖 	 sugar 	 tang2	3	3
+383	复习 	 to review 	 fu4xi2	1	3
+384	总是 	 always 	 zong3shi4	1	3
+385	根据 	 basis 	 gen1ju4	3	3
+386	练习 	 to practice 	 lian4xi2	1	3
+387	难 	 difficult 	 nan2	3	3
+388	世界 	 world 	 shi4jie4	3	3
+389	虽然 	 despite 	 sui1ran2	3	3
+390	发烧 	 fever 	 fa1shao1	3	3
+391	云 	 cloud 	 yun2	3	3
+392	眼镜 	 glasses 	 yan3jing4	2	3
+393	口 	 mouth 	 kou3	3	3
+394	越 	 to get over 	 yue4	3	3
+395	差 	 bad (quality) 	 cha4	3	3
+396	被 	 by 	 bei4	3	3
+397	宾馆 	 hotel 	 bin1guan3	3	3
+398	超市 	 supermarket 	 chao1shi4 	3	3
+399	解决 	 to solve 	 jie3jue2	3	3
+400	双 	 pair 	 shuang1	3	3
+401	普通话 	 Mandarin 	 pu3tong1hua4	1	3
+402	旧 	 old 	 jiu4	3	3
+403	坏 	 bad 	 huai4	3	3
+404	借 	 to borrow 	 jie4	3	3
+405	北方 	 north 	 bei3fang1	1	3
+406	爷爷 	 grandfather 	 ye2ye5	3	3
+407	愿意 	 would like to 	 yuan4yi4	2	3
+408	遇到 	 to meet 	 yu4dao4	2	3
+409	游戏 	 game 	 you2xi4	2	3
+410	突然 	 all of a sudden 	 tu1ran2	3	3
+411	空调 	 air conditioning 	 kong1tiao2	3	3
+412	记得 	 to remember 	 ji4de5	2	3
+413	半 	 half 	 ban4	3	3
+414	努力 	 to put effort in 	 nu3li4	3	3
+415	渴 	 thirsty  	 ke3	3	3
+416	爬上 	 to climb up 	 pa2shang1	1	3
+417	衬衫 	 shirt 	 chen4shan1	3	3
+418	哭 	 to cry 	 ku1	3	3
+419	环境 	 environment 	 huan2jing4	3	3
+420	成绩 	 score 	 cheng2ji4	3	3
+421	除了 	 except for 	 chu2le5	1	3
+422	会议 	 meeting  	 hui4yi4	1	3
+423	地图 	 map 	 di4tu2	2	3
+424	年轻 	 youth 	 nian2qing1	1	3
+425	楼 	 building 	 lou2	3	3
+426	比赛 	 match 	 bi3sai4	2	3
+427	像 	 as 	 xiang4	3	3
+428	裤子 	 trousers 	 ku4zi5	1	3
+429	鼻子 	 nose 	 bi2zi5	1	3
+430	画 	 painting 	 hua4	3	3
+431	担心 	 to worry 	 dan1xin1	3	3
+432	锻炼 	 to work out 	 duan4lian4	3	3
+433	感冒 	 cold 	 gan3mao4	3	3
+434	种 	 kind 	 zhong3	3	3
+435	蛋糕 	 cake 	 dan4gao1	2	3
+436	才 	 just 	 cai2	3	3
+437	害怕 	 to be scared 	 hai4pa4	3	3
+438	奇怪 	 strange 	 qi2guai4	3	3
+439	阿姨 	 maid, auntie 	 a1yi2	3	3
+440	电子邮件 	 email 	 dian4zi3you2jian4	1	3
+441	葡萄 	 grape 	 pu2tao5	3	3
+442	太阳 	 sun 	 tai4yang5	1	3
+443	冰箱 	 refrigerator 	 bing1xiang1	3	3
+444	比较 	 to compare 	 bi3jiao4	2	3
+445	经理 	 manager 	 jing1li3	2	3
+446	着急 	 to worry 	 zhao2ji2	2	3
+447	提高 	 to improve 	 ti2gao1	1	3
+448	讲 	 to speak 	 jiang3	3	3
+449	搬 	 to move 	 ban1	3	3
+450	影响 	 affection 	 ying3xiang3	1	3
+451	新闻 	 news 	 xin1wen2	2	3
+452	包 	 bag 	 bao1	3	3
+453	一般 	 general 	 yi1ban1	1	3
+454	习惯 	 custom 	 xi2guan4	1	3
+455	变化 	 change  	 bian4hua4	3	3
+456	文化 	 culture 	 wen2hua4	3	3
+457	特别 	 special 	 te4bie2	2	3
+458	音乐 	 music 	 yin1yue4	2	3
+459	盘子 	 plate 	 pan2zi5	1	3
+460	新鲜 	 fresh 	 xin1xian1	2	3
+461	打扫 	 to clean 	 da3sao3	1	3
+462	主要 	 mainly 	 zhu3yao4	2	3
+463	久 	 long (time) 	 jiu3	3	3
+464	举行 	 to hold 	 ju3xing2	2	3
+465	香蕉 	 banana 	 xiang1jiao1	3	3
+466	结婚 	 to marry 	 jie2hun1	3	3
+467	祝 	 to wish 	 zhu4	3	3
+468	周末 	 weekend 	 zhou1mo4	3	3
+469	需要 	 to need 	 xu1yao4	2	3
+470	动物 	 animal 	 dong4wu4	2	3
+471	忘记 	 to forget 	 wang4ji4	3	3
+472	啤酒 	 beer 	 pi2jiu3	3	3
+473	相同 	 same 	 xiang1tong2	1	3
+474	辆 	 measure word for cars 	 liang4	3	3
+475	关于 	 regarding 	 guan1yu2	1	3
+476	饿 	 to be hungry 	 e4	3	3
+477	矮 	 short 	 ai3	3	3
+478	行李箱 	 suitcase 	 xing2li5xiang1	2	3
+479	句子 	 sentence 	 ju4zi3	1	3
+480	裙子 	 skirt 	 qun2zi5	1	3
+481	用 	 to use 	 yong4	3	3
+482	表示 	 to express 	 biao3shi4	2	3
+483	只 	 only 	 zhi3	3	3
+484	满意 	 satisfied 	 man3yi4	2	3
+485	刷牙 	 to brush teeth 	 shua1ya2	3	3
+486	花 	 flower 	 hua1	3	3
+487	放 	 to put 	 fang4	3	3
+488	兴趣 	 interest 	 xing4qu3	1	3
+489	终于 	 finally 	 zhong1yu2	3	3
+490	灯 	 light 	 deng1	3	3
+491	腿 	 leg 	 tui3	3	3
+492	使 	 to make 	 shi3	3	3
+493	黄 	 yellow 	 huang2	3	3
+494	容易 	 easy 	 rong2yi5	3	3
+495	办法 	 method 	 ban4 fa3	3	3
+496	南 	 south 	 nan2	3	3
+497	年级 	 grade 	 nian2ji2	1	3
+498	胖 	 fat 	 pang4	3	3
+499	作业 	 homework 	 zuo44ye	1	3
+500	拉 	 to pull 	 la1	4	4
+501	取 	 take 	 qu3	4	4
+502	免费 	 free of charge 	 mian3fei4	4	4
+503	表格 	 form 	 biao3ge2	2	4
+504	苦 	 bitter 	 ku3	4	4
+505	访问 	 visit 	 fang3wen4	2	4
+506	警察 	 police 	 jing3cha2	4	4
+507	桥 	 bridge 	 qiao2	4	4
+508	生命 	 life 	 sheng1ming4	1	4
+509	逛 	 to stroll 	 guang4	4	4
+510	计划 	 plan 	 ji4hua4	4	4
+511	热闹 	 busy 	 re4nao5	1	4
+512	整齐 	 orderliness 	 zheng3qi2	4	4
+513	放弃 	 to give up 	 fang4qi4	3	4
+514	深 	 deep 	 shen1	4	4
+515	法律 	 law 	 fa3lv4	3	4
+516	连 	 even 	 lian2	4	4
+517	脾气 	 temper 	 pi2qi5	1	4
+518	西红柿 	 tomato 	 xi1hong2shi4	1	4
+519	尽管 	 although 	 jin3guan3	4	4
+520	语言 	 language 	 yu3yan2	1	4
+521	减肥 	 to lose weight 	 jian3fei2	4	4
+522	报导 	 news report 	 bao4dao3	3	4
+523	陪 	 to accompany 	 pei2	4	4
+524	躺 	 to lie 	 tang3	4	4
+525	乘坐 	 to ride 	 cheng2zuo4	1	4
+526	脏 	 dirty 	 zang1	4	4
+527	羡慕 	 envy 	 xian4mu5	4	4
+528	售货员 	 shop assistant 	 shou4huo4yuan2	2	4
+529	剩 	 to be left 	 sheng4	4	4
+530	亿 	 a hundred million 	 yi4	4	4
+531	发展 	 to develop 	 fa1zhan3	3	4
+532	抱歉 	 to be sorry 	 bao4qian4	4	4
+533	吃惊 	 to be surprised 	 chi1jing1	1	4
+534	加油站 	 gas station 	 jia1you2zhan4	1	4
+535	牙膏 	 toothpaste 	 ya2gao1	3	4
+536	顺序 	 order 	 shun4xu5	4	4
+537	够 	 enough 	 gou4	4	4
+538	食品 	 food 	 shi2pin3	4	4
+539	硕士 	 master 	 shuo4shi4	4	4
+540	饺子 	 dumplings 	 jiao3zi5	1	4
+541	禁止 	 to prohibit 	 jin4zhi3	4	4
+542	伤心 	 sad 	 shang1xin1	3	4
+543	麻烦 	 trouble 	 ma2fan5	4	4
+544	甚至 	 indeed 	 shen1zhi4	4	4
+545	座 	 seat 	 zuo4 	4	4
+546	品质 	 quality 	 pin3zhi4	4	4
+547	猴子 	 monkey 	 hou2zi5	1	4
+548	经验 	 experience 	 jing1yan4	2	4
+549	粗心 	 careless 	 cu1xin1	3	4
+550	幽默 	 humorous 	 you1mo4	4	4
+551	流泪 	 to weep 	 liu2lei4	4	4
+552	永远 	 forever 	 yong3yuan3	2	4
+553	擦 	 to rub 	 ca1	4	4
+554	活泼 	 active 	 huo2po1	4	4
+555	袜子 	 socks 	 wa4zi5	1	4
+556	规定 	 rule 	 gui1ding4	3	4
+557	后悔 	 regret 	 hou4hui3	1	4
+558	辣 	 hot 	 la4	4	4
+559	组织 	 organization 	 zu3zhi1	4	4
+560	友谊 	 friendship 	 you3yi2	1	4
+561	帅 	 handsome 	 shuai4	4	4
+562	工资 	 salary 	 gong1zi1	1	4
+563	美丽 	 beauty 	 mei3li4	4	4
+564	可惜 	 It's a pity 	 ke3xi1	2	4
+565	浪漫 	 romantic 	 lang4mang4	4	4
+566	暖和 	 warm 	 nuan3huo5	1	4
+567	遍 	 time 	 bian4	4	4
+568	忽然 	 suddenly 	 hu1ran2	3	4
+569	弄 	 to make 	 nong4	4	4
+570	钥匙 	 key 	 yao4shi5	4	4
+571	风景 	 scenery 	 feng1jing3	3	4
+572	扩大 	 to amplify 	 kuo4da4	1	4
+573	指 	 to refer 	 zhi3	4	4
+574	合适 	 suitable 	 he2shi4	4	4
+575	硬 	 hard 	 ying4	4	4
+576	修 	 to repair 	 xiu1	4	4
+577	压力 	 pressure 	 ya1li4	3	4
+578	海洋 	 ocean 	 hai3yang2	4	4
+579	巧克力 	 chocolate 	 qiao3ke1li4	3	4
+580	份 	 part 	 fen4	4	4
+581	接受 	 to accept 	 jie1shou4	3	4
+582	谈 	 to talk 	 tan2	4	4
+583	到处 	 everywhere 	 dao4chu4	2	4
+584	毕业 	 to graduate 	 bi4ye4	3	4
+585	无 	 not to have 	 wu2	4	4
+586	敲 	 to knock 	 qiao1	4	4
+587	整理 	 to clear up 	 zheng3li3	3	4
+588	饼干 	 biscuit 	 bing3gan1	3	4
+589	区别 	 difference 	 qu1bie2	2	4
+590	考虑 	 to consider 	 kao3lv4	2	4
+591	收拾 	 to tidy 	 shou1shi2	4	4
+592	推 	 to push 	 tui1 	4	4
+593	熟悉 	 to be acquainted with 	 shu2xi5	4	4
+594	软 	 soft 	 ruan3	4	4
+595	许多 	 many 	 xu3duo1	1	4
+596	逐渐 	 gradually 	 zhu2jian4	4	4
+597	打印 	 to print 	 da3yin4	1	4
+598	不管 	 despite 	 bu4guan3	1	4
+599	反对 	 to oppose 	 fan3dui4	1	4
+600	制造 	 to make 	 zhi4zao4	4	4
+601	购物 	 shopping 	 gou4wu4	3	4
+602	否则 	 otherwise 	 fou3ze2	4	4
+603	艺术 	 art  	 yi4shu5	4	4
+604	收 	 to collect 	 shou1	4	4
+605	教授 	 professor 	 jiao4shou4	2	4
+606	航班 	 scheduled flight 	 hang2ban1	2	4
+607	母亲 	 mother 	 mu3qin5	4	4
+608	保护 	 to protect 	 bao3hu4	3	4
+609	愉快 	 happy 	 yu2kuai4	2	4
+610	传真 	 fax 	 chuan2zhen1	2	4
+611	血 	 blood 	 xie3	4	4
+612	狮子 	 lion 	 shi1zi5	1	4
+613	严格 	 strict 	 yan2ge2	4	4
+614	尤其 	 especially 	 you2qi2	3	4
+615	皮肤 	 skin 	 pi2fu1	4	4
+616	吸引 	 to attract 	 xi1yin3	4	4
+617	温度 	 temperature 	 wen1du4	4	4
+618	戴 	 to wear 	 dai4	4	4
+619	饮料 	 drink 	 yin3liao4	4	4
+620	关键 	 key 	 guan1jian4	1	4
+621	垃圾桶 	 trash-bin 	 la1ji1tong3	4	4
+622	植物 	 plant 	 zhi2wu4	3	4
+623	却 	 but 	 que1	4	4
+624	厉害 	 shrewd 	 li4hai4	3	4
+625	误会 	 to misunderstand 	 wu4hui5	1	4
+626	光 	 light 	 guang1	4	4
+627	降低 	 to lower 	 jiang4di1	3	4
+628	尝 	 to taste 	 chang2	4	4
+629	并且 	 and 	 bing4qie3	3	4
+630	抬 	 to raise 	 tai2	4	4
+631	保证 	 to ensure 	 bao3zheng4	4	4
+632	俩 	 two 	 lia3  	4	4
+633	情况 	 condition 	 qing2kuang4	2	4
+634	赚 	 to earn 	 zhuan4	4	4
+635	优点 	 strong point 	 you1dian3	1	4
+636	味道 	 taste 	 wei4dao5	2	4
+637	聊天 	 chat 	 liao2tian1	1	4
+638	寄 	 to send 	 ji4	4	4
+639	死 	 to die 	 si3	4	4
+640	毛巾 	 towel 	 mao2jin1	4	4
+641	耐心 	 to be patient 	 nai4xin1	3	4
+642	解释 	 to explain 	 jie3shi4	3	4
+643	将来 	 future 	 jiang1lai2	1	4
+644	积累 	 accumulation 	 ji1lei3	2	4
+645	分之 	 (indicating a fraction) 	 fen1zhi1	2	4
+646	偶尔 	 once in a while 	 ou3er3	4	4
+647	即使 	 even if 	 ji2shi3	3	4
+648	回忆 	 recall 	 hui2yi4	1	4
+649	符合 	 to fit 	 fu3he2	4	4
+650	懒 	 lazy 	 lan3	4	4
+651	输 	 to lose 	 shu1	4	4
+652	孙子 	 grandson 	 sun1zi5	1	4
+653	距离 	 distance 	 ju4li2	2	4
+654	往 	 past 	 wang3	4	4
+655	安排 	 to arrange 	 an1pai2	3	4
+656	随便 	 casual 	 sui2bian4	2	4
+657	窗户 	 window 	 chuang1hu5	4	4
+658	乒乓球 	 ping-pong 	 ping1pang1qiu2	2	4
+659	棵 	 measure word for trees 	 ke1	4	4
+660	圆 	 circle 	 yuan2	4	4
+661	正式 	 official 	 zheng4shi4	2	4
+662	负责 	 responsible 	 fu4ze2	4	4
+663	孤单 	 alone 	 gu1dan1	3	4
+664	握手 	 to shake hands 	 wo4shou3	2	4
+665	首都 	 capital 	 shou3du1	1	4
+666	丰富 	 abundant 	 feng1fu4	4	4
+667	集合 	 to assemble 	 ji2he2	4	4
+668	答案 	 answer 	 da2an4	2	4
+669	老虎 	 tiger 	 lao3hu3	1	4
+670	大约 	 about 	 da4yue1	1	4
+671	交 	 to give 	 jiao1	4	4
+672	咳嗽 	 cough 	 ke2sou4	4	4
+673	怀疑 	 doubt 	 huai2yi2	4	4
+674	范围 	 range 	 fan4wei2	4	4
+675	幸福 	 happiness 	 xing4fu2	4	4
+676	讨论 	 to discuss 	 tao3lun4	4	4
+677	省 	 province 	 sheng3	4	4
+678	扔 	 to throw 	 reng1	4	4
+679	详细 	 specific 	 xiang2xi4	4	4
+680	激动 	 to be excited 	 ji1dong4	2	4
+681	判断 	 to judge 	 pan4duan4	4	4
+682	过程 	 process 	 guo4cheng2	2	4
+683	一切 	 all 	 yi1qie4	1	4
+684	各 	 each 	 ge4	4	4
+685	代替 	 to replace 	 dai4ti4	4	4
+686	鼓励 	 to encourage 	 gu3li4	4	4
+687	烦恼 	 to be worried 	 fan2nao3	4	4
+688	文章 	 article 	 wen2zhang1	3	4
+689	原来 	 original 	 yuan2lai2	1	4
+690	仍然 	 still 	 reng2ran2	3	4
+691	竞争 	 to compete 	 jing4zheng1	4	4
+692	速度 	 speed 	 su4du4	4	4
+693	农村 	 countryside 	 nong2cun1	4	4
+694	乱 	 messy 	 luan4	4	4
+695	放暑假 	 summer vacation 	 fang4shu3jia4	3	4
+696	肯定 	 to be sure 	 ken3ding4	3	4
+697	湿润 	 moist 	 shi1run4	4	4
+698	互相 	 mutually 	 hu4xiang1	3	4
+699	凉快 	 cool 	 liang2kuai5	2	4
+700	沙发 	 sofa 	 sha1fa1	3	4
+701	态度 	 attitude 	 tai4du5	4	4
+702	勇敢 	 brave 	 yong3gan3	3	4
+703	阅读 	 to read 	 yue4du2	1	4
+704	仔细 	 careful 	 zi3xi4	4	4
+705	参观 	 to visit 	 can1guan1	3	4
+706	提醒 	 to remind 	 ti2xing3	3	4
+707	到底 	 on earth 	 dao4di3	2	4
+708	翻译 	 to translate 	 fan1yi5	4	4
+709	骄傲 	 pride 	 jiao1ao4	4	4
+710	奖金 	 money award 	 jiang3jin1	4	4
+711	兴奋 	 exciting 	 xing4fen4	1	4
+712	代表 	 representative 	 dai4biao3	2	4
+713	师傅 	 master 	 shi1fu5	1	4
+714	精神 	 spirit 	 jing1shen2	4	4
+715	墙 	 wall 	 qiang2	4	4
+716	广播 	 broadcast 	 guang3bo1	4	4
+717	掉 	 to drop 	 diao4	4	4
+718	养成 	 to cultivate 	 yang3cheng2	3	4
+719	按时 	 to be on time 	 an4shi2	1	4
+720	尊重 	 respect 	 zun1zhong4	3	4
+721	鼓掌 	 to clap one's hands 	 gu3zhang3	4	4
+722	国际 	 international 	 guo2ji4	1	4
+723	成熟 	 ripe 	 cheng2shu2	3	4
+724	寒假 	 winter vacation 	 han2jia4	4	4
+725	堵车 	 to be caught in traffic 	 du3che1	1	4
+726	干燥 	 dry 	 gan1zao4	3	4
+727	提供 	 to offer 	 ti2gong1	3	4
+728	盒子 	 box 	 he2zi5	1	4
+729	轻松 	 to take it easy 	 qing1song1	3	4
+730	与 	 with 	 yu3	4	4
+731	既然 	 since 	 ji4ran2	3	4
+732	由 	 by 	 you2	4	4
+733	性别 	 sex 	 xing4bie2	2	4
+734	入口 	 entrance 	 ru4kou3	3	4
+735	挂 	 hang 	 gua4	4	4
+736	页 	 page 	 ye4	4	4
+737	部分 	 part 	 bu4fen4	2	4
+738	材料 	 material 	 cai2liang4	4	4
+739	经济 	 economy 	 jing1ji4	2	4
+740	篇 	 piece 	 pian1	4	4
+741	密码 	 password 	 mi4ma3	4	4
+742	号码 	 number 	 hao4ma3	2	4
+743	排列 	 to arrange 	 pai2lie4	4	4
+744	技术 	 technique 	 ji4shu5	4	4
+745	人民币 	 RMB 	 ren2min2bi4	1	4
+746	内 	 inside 	 nei4	4	4
+747	父亲 	 father 	 fu4qin5	4	4
+748	印象 	 impression 	 yin4xiang4	4	4
+749	留 	 to leave something, to stay 	 liu2	4	4
+750	科学 	 science 	 ke1xue2	1	4
+751	例如 	 for example 	 li4ru2	3	4
+752	确实 	 indeed 	 que4shi2	3	4
+753	诚实 	 honest 	 cheng2shi2	3	4
+754	吵 	 to quarrel 	 chao3	4	4
+755	失败 	 to lose   	 shi1bai4	4	4
+756	打针 	 to give or take an injection  	 da3zhen1	1	4
+757	预习 	 to prepare lessons before class 	 yu4xi2	1	4
+758	汗 	 sweat 	 han4	4	4
+759	顺便 	 passingly 	 shun4bian4	2	4
+760	申请 	 to apply for 	 shen1qing3	1	4
+761	估计 	 estimate 	 gu1ji4	4	4
+762	观众 	 audience 	 guan1zhong4	4	4
+763	危险 	 dangerous 	 wei1xian3	4	4
+764	厚 	 thick 	 hou4	4	4
+765	猪 	 pig 	 zhu1	4	4
+766	组成 	 to constitute 	 zu3cheng2	3	4
+767	穷 	 poor 	 qiong2	4	4
+768	允许 	 to allow 	 yun3xu3	4	4
+769	儿童 	 children 	 er2tong2	1	4
+770	害羞 	 shy 	 hai4xiu1	3	4
+771	紧张 	 nervous 	 jin3zhang1	2	4
+772	反映 	 to reflect 	 fan3ying4	4	4
+773	森林 	 forest 	 sen1lin2	4	4
+774	刀 	 knife 	 dao1	4	4
+775	恐怕 	 afraid 	 kong3pa4	3	4
+776	活动 	 activity 	 huo2dong4	2	4
+777	骗 	 to deceive 	 pian3	4	4
+778	散步 	 to take a walk 	 san4bu4	2	4
+779	招聘 	 to invite applications for a job 	 zhao1pin4	4	4
+780	包括 	 to include 	 bao1kuo4	3	4
+781	梦 	 dream 	 meng4	4	4
+782	联系 	 contact 	 lian2xi4	1	4
+783	任何 	 any 	 ren4he2	4	4
+784	抽烟 	 to smoke 	 chou1yan1	4	4
+785	塑料袋 	 plastic bag 	 su4liao4dai4	4	4
+786	消息 	 message 	 xiao1xi5	2	4
+787	研究生 	 postgraduate 	 yan2jiu1sheng1	1	4
+788	填空 	 to fill a blank 	 tian2kong4	3	4
+789	大概 	 general idea 	 da4gai4	1	4
+790	批评 	 to criticize 	 pi1ping2	4	4
+791	改变 	 change 	 gai3bian4	3	4
+792	邀请 	 to invite 	 yao1qing3	1	4
+793	笨 	 stupid 	 ben4	4	4
+794	礼貌 	 courtesy 	 li3mao4	3	4
+795	职业 	 occupation 	 zhi2ye4	3	4
+796	污染 	 to pollute 	 wu1ran3	4	4
+797	继续 	 to continue 	 ju4xu4	4	4
+798	究竟 	 on earth 	 jiu1jing4	4	4
+799	优秀 	 excellence 	 you1xiu4	4	4
+800	社会 	 society 	 she4hui4	1	4
+801	抱 	 to embrace 	 bao4	4	4
+802	长江 	 the Changjiang River 	 chang2jiang1	2	4
+803	博士 	 doctor 	 bo2shi4	4	4
+804	稍微 	 a little 	 shao1wei1	4	4
+805	羽毛球 	 badminton 	 yu3mao2qiu2	2	4
+806	支持 	 support 	 zhi1chi2	4	4
+807	基础 	 foundation 	 ji1chu3	4	4
+808	地址 	 address 	 di4zhi3	2	4
+809	辛苦 	 exhausting 	 xin1ku3	4	4
+810	暗 	 dark 	 an4	4	4
+811	另外 	 in addition 	 ling4wai4	2	4
+812	倍 	 time 	 bei4	4	4
+813	咱们 	 we, us 	 zan2men5	1	4
+814	酸 	 sour 	 suan1	4	4
+815	表达 	 to express 	 biao3da2	2	4
+816	签证 	 visa 	 qian1zheng4	4	4
+817	精彩 	 splendidness 	 jing1cai3	4	4
+818	打扮 	 to dress up 	 da3ban4	1	4
+819	价格 	 price 	 jia4ge2	4	4
+820	成功 	 to succeed 	 cheng2gong1	3	4
+821	亲戚 	 relative 	 qin1qi5	4	4
+822	讨厌 	 to hate 	 tao3yan4	4	4
+823	顿 	 meal 	 dun4	4	4
+824	打折 	 to discount 	 da3zhe2	1	4
+825	挺 	 to be straight and stiff 	 ting3	4	4
+826	京剧 	 Beijing opera 	 jing1ju4	1	4
+827	暂时 	 temporarily 	 zan4shi2	1	4
+828	坚持 	 to insist 	 jian1chi2	4	4
+829	停止 	 to stop 	 ding2zhi3	4	4
+830	群 	 crowd 	 qun2	4	4
+831	世纪 	 century 	 shi4ji4	3	4
+832	专门 	 specially 	 zhuan1men2	3	4
+833	浪费 	 waste 	 lang4fei4	4	4
+834	宽 	 wide 	 kuan1	4	4
+835	窄 	 narrow 	 zhai3	4	4
+836	叶子 	 leaf 	 ye4zi5	1	4
+837	撞 	 to hit 	 zhuang4	4	4
+838	呀 	 ah  	 ya5	4	4
+839	台 	 measure word for machines 	 tai2	4	4
+840	安全 	 safety 	 an1quan2	3	4
+841	赢 	 to win 	 ying2	4	4
+842	及时 	 in time 	 ji2shi2	1	4
+843	瓶子 	 bottle 	 ping2zi5	1	4
+844	猜 	 to guess 	 cai1	4	4
+845	增加 	 to increase 	 zeng1jia1	3	4
+846	因此 	 therefore 	 yin1ci3	2	4
+847	限制 	 limit 	 xian4zhi5	4	4
+848	破 	 broken 	 puo5	4	4
+849	弹钢琴 	 to play the piano 	 tan2gang1qin2	4	4
+850	缺点 	 shortcoming 	 que1dian3	1	4
+851	获得 	 to achieve 	 huo4de2	2	4
+852	打扰 	 to disturb 	 da3rao3	1	4
+853	民族 	 ethnic group 	 min2zu2	4	4
+854	肚子 	 belly 	 du4zi3	1	4
+855	丢 	 to throw 	 diu1	4	4
+856	流利 	 fluency 	 liu2li4	4	4
+857	竟然 	 unexpectedly 	 jing4ran2	3	4
+858	汤 	 soup 	 tang1	4	4
+859	嘴 	 mouth 	 zui3	4	4
+860	商量 	 to consult, to discuss 	 shang1liang5	1	4
+861	可怜 	 pitiful 	 ke3lian2	2	4
+862	趟 	 a time, a trip 	 tang4	4	4
+863	著名 	 famous 	 zhu4ming2	1	4
+864	原谅 	 to forgive 	 yuan2liang4	4	4
+865	值得 	 to be worth 	 zhi2de2	2	4
+866	标准 	 standard 	 biao1zhun3	2	4
+867	困 	 tired 	 kun4	4	4
+868	信用卡 	 credit card 	 xin4yong4ka3	3	4
+869	不仅 	 not only 	 bu4jin3	1	4
+870	亚洲 	 asia 	 ya4zhou1	4	4
+871	盐 	 salt 	 yan2	4	4
+872	表扬 	 to praise 	 biao3yang2	2	4
+873	脱 	 to take off 	 tuo1	4	4
+874	咸 	 salty 	 xian2	4	4
+875	年龄 	 age 	 nian2ling2	1	4
+876	效果 	 effect 	 xiao4guo3	1	4
+877	祝贺 	 to congratulate 	 zhu4he4	3	4
+878	杂志 	 magazine 	 za2zhi4	4	4
+879	交流 	 communication 	 jiao1liu2	4	4
+880	工具 	 tool 	 gong1ju4	1	4
+881	拒绝 	 to refuse 	 ju4jue2	4	4
+882	复杂 	 complex 	 fu4za2	3	4
+883	欣赏 	 to appreciate 	 xin1shang3	5	5
+884	彻底 	 thorough 	 che4di3	4	5
+885	痛苦 	 pain 	 tong4ku3	4	5
+886	排队 	 to line up 	 pai2dui4	4	5
+887	派 	 to dispatch 	 pai4	5	5
+888	浏览 	 to browse 	 liu2lan3	5	5
+889	发抖 	 to shiver 	 fa1dou3	3	5
+890	戒烟 	 to quit smoking 	 jie4yan1	4	5
+891	嘉宾 	 honored guest 	 jia1bin1	3	5
+892	治疗 	 to treat 	 zhi4liao2	5	5
+893	拿 	 to fetch 	 na2	5	5
+894	蜡烛 	 candle 	 la4zhu2	5	5
+895	特殊 	 special 	 te4shu1	3	5
+896	称 	 to claim 	 cheng1	5	5
+897	传递 	 to deliver 	 chuan2di4	4	5
+898	描写 	 to describe 	 miao2xie3	1	5
+899	咬 	 to bite 	 yao3	5	5
+900	遵守 	 to observe 	 zun1shou3	5	5
+901	信封 	 envelope 	 xin4feng1	3	5
+902	凭 	 in the name of 	 ping2	5	5
+903	舌头 	 tongue 	 she2tou5	3	5
+904	搞 	 to carry on 	 gao3	5	5
+905	唯一 	 only 	 wei2yi1	1	5
+906	威胁 	 to threaten  	 wei1xie2	5	5
+907	贷款 	 to grant 	 dai4kuan3	5	5
+908	晒 	 to sun 	 shai4	5	5
+909	抓紧 	 to firmly grasp 	 zhua1jin3	4	5
+910	坚强 	 strong 	 jian1qiang2	4	5
+911	诗 	 poem 	 shi1	5	5
+912	大型 	 large-scale 	 da4xing2	1	5
+913	幼儿园 	 kindergarden 	 you4er2yuan2	1	5
+914	液体 	 liquid 	 ye4ti3	2	5
+915	趋势 	 trend 	 qu1shi4	5	5
+916	缘故 	 cause 	 yuan2gu4	3	5
+917	宇宙 	 universe 	 yu3zhou4	5	5
+918	闪电 	 lightning 	 shan3dian4	1	5
+919	腰 	 waist 	 yao1	5	5
+920	皇帝 	 emperor 	 huang2di4	5	5
+921	池子 	 pool 	 chi2zi5	1	5
+922	聚会 	 party 	 ju4hui4	1	5
+923	炒 	 to stir-fry 	 chao3	5	5
+924	馒头 	 steamed bread 	 man2tou5	3	5
+925	高档 	 top grade 	 gao1dang4	1	5
+926	匆忙 	 hastily 	 cong1mang2	2	5
+927	辞职 	 to resign 	 ci2zhi2	4	5
+928	狡猾 	 cunning 	 jiao3hua2	5	5
+929	鞭炮 	 cracker 	 bian1pao4	5	5
+930	磁带 	 magnetic tape 	 ci2dai4	3	5
+931	傻 	 stupid 	 sha3	5	5
+932	升 	 to rise 	 sheng1	5	5
+933	尾巴 	 tail 	 wei3ba5	5	5
+934	舍不得 	 to hate to part with or use 	 she3bu5de2	1	5
+935	刺激 	 to stimulate 	 ci4ji5	4	5
+936	特征 	 tincture 	 te4zheng1	3	5
+937	勺子 	 spoon 	 shao2zi5	1	5
+938	劳动 	 to labour 	 lao2dong4	2	5
+939	傍晚 	 evening 	 bang4wan3	2	5
+940	建筑 	 building 	 jian4zhu4	5	5
+941	沙漠 	 desert 	 sha1mo4	4	5
+942	建设 	 to build 	 jian4she4	5	5
+943	损失 	 loss 	 sun3shi1	4	5
+944	称赞 	 to praise 	 cheng1zan4	5	5
+945	横 	 horizontal 	 heng2	5	5
+946	兄弟 	 brothers 	 xiong1di4	2	5
+947	嫩 	 delicate 	 nen4	5	5
+948	喊 	 to shout 	 han3	5	5
+949	仿佛 	 as though 	 fang3fu2	5	5
+950	坦率 	 candid 	 tan3shuai4	5	5
+951	频道 	 channel 	 pin2dao4	2	5
+952	劝 	 to advise 	 quan4	5	5
+953	结账 	 to settle accounts 	 jie2zhang4	3	5
+954	丝绸 	 silk 	 si1chou2	5	5
+955	雇佣 	 to hire 	 gu4yong1	5	5
+956	橡皮 	 eraser 	 xiang4pi2	4	5
+957	夜 	 night 	 ye4	5	5
+958	老鼠 	 mouse 	 lao3shu3	1	5
+959	概念 	 concept 	 gai4nian4	4	5
+960	维护 	 to maintain 	 wei2hu4	3	5
+961	歇 	 to rest 	 xie1	5	5
+962	扇子 	 fan 	 shan4zi5	1	5
+963	胶水 	 glue 	 jiao1shui3	1	5
+964	朝 	 to face 	 chao2	5	5
+965	体贴 	 to show consideration for 	 ti3tie1	2	5
+966	胆小鬼 	 coward 	 dan3xiao3gui3	1	5
+967	梳子 	 comb 	 shu1zi5	1	5
+968	胸 	 chest 	 xiong1	5	5
+969	枪 	 gun 	 qiang1	5	5
+970	义务 	 duty 	 yi4wu4	2	5
+971	闯 	 to rush 	 chuang3	5	5
+972	所谓 	 so called 	 suo3wei4	2	5
+973	趁 	 to take advantage of 	 chen4	5	5
+974	诚恳 	 pure-hearted 	 cheng2ken3	4	5
+975	国庆节 	 National Day 	 guo2qing4jie2	1	5
+976	呆 	 stupid 	 dai1	5	5
+977	步骤 	 step 	 bu4zhou4	2	5
+978	胃 	 stomach 	 wei4	5	5
+979	空闲 	 idle 	 kong4xian2	3	5
+980	吐 	 to spit 	 tu4	5	5
+981	贡献 	 to contribute 	 gong4xian4	5	5
+982	歪 	 slanting 	 wai1	5	5
+983	依然 	 still 	 yi1ran2	3	5
+984	寿命 	 life span 	 shou4ming4	4	5
+985	挡 	 to keep off 	 dang3	5	5
+986	弱 	 weak 	 ruo4	5	5
+987	壶 	 pot 	 hu2	5	5
+988	吨 	 ton 	 dun1	5	5
+989	痒 	 itch 	 yang3	5	5
+990	顶 	 top 	 ding3	5	5
+991	中旬 	 the middle ten days of a month 	 zhong1xun2	1	5
+992	华裔 	 foreign citizen of Chinese origin 	 hua2yi4	5	5
+993	欠 	 to owe 	 qian4	5	5
+994	丁 	 fourth 	 ding1	5	5
+995	股票 	 stock 	 gu3piao4	2	5
+996	佩服 	 to admire 	 pei4fu5	1	5
+997	曾经 	 once 	 ceng2jing1	2	5
+998	醋 	 vinegar 	 cu4	5	5
+999	麦克风 	 microphone 	 mai4ke5feng1	3	5
+1000	绕 	 to reel 	 rao4	5	5
+1001	位置 	 location 	 wei4zhi5	3	5
+1002	吹 	 to puff 	 chui1	5	5
+1003	铃 	 bell 	 ling2	5	5
+1004	彼此 	 each other 	 bi3ci3	4	5
+1005	堆 	 to pile up 	 dui1	5	5
+1006	匹 	 measure word 	 pi3	5	5
+1007	疯狂 	 insane 	 feng1kuang2	5	5
+1008	鸽子 	 pigeon 	 ge1zi5	1	5
+1009	阶段 	 phase 	 jie1duan4	3	5
+1010	拆 	 to excrete 	 chai1	5	5
+1011	粘贴 	 to stick 	 zhan1tie1	5	5
+1012	叙述 	 to recount 	 xu4shu4	5	5
+1013	规矩 	 rule 	 gui1ju5	4	5
+1014	透明 	 transparent 	 tou4ming2	1	5
+1015	耽误 	 to delay 	 dan1wu4	4	5
+1016	胡说 	 to talk nonsense 	 hu2shuo1	1	5
+1017	发挥 	 to express 	 fa1hui1	3	5
+1018	一辈子 	 a lifetime 	 yi1bei4zi5	1	5
+1019	奇迹 	 miracle 	 qi2ji4	3	5
+1020	无奈 	 cannot help but 	 wu2nai4	4	5
+1021	套 	 measure word 	 tao4	5	5
+1022	构成 	 to constitute 	 gou2cheng2	3	5
+1023	形状 	 form 	 xing2zhuang4	5	5
+1024	瞎 	 blind 	 xia1	5	5
+1025	抗议 	 to protest 	 kang4yi4	3	5
+1026	塔 	 tower 	 ta3	5	5
+1027	教训 	 to teach somebody a lesson 	 jiao4xun5	2	5
+1028	陆地 	 land 	 lu4di4	2	5
+1029	浅 	 shallow 	 qian3	5	5
+1030	逃 	 to flee 	 tao2	5	5
+1031	公寓 	 apartment 	 gong1yu4	2	5
+1032	均匀 	 equality 	 jun1yun2	5	5
+1033	艰巨 	 arduous 	 jian1ju4	5	5
+1034	踩 	 to step on 	 cai3	5	5
+1035	锁 	 lock 	 suo3	5	5
+1036	罐头 	 tin 	 guan4tou5	3	5
+1037	肺 	 lungs 	 fei4	5	5
+1038	缓解 	 to ease 	 huan3jie3	3	5
+1039	眉毛 	 eyebrow 	 mei2mao5	4	5
+1040	促进 	 to promote 	 cu4jin4	2	5
+1041	降落 	 to land 	 jiang4luo4	4	5
+1042	雾 	 fog 	 wu4	5	5
+1043	消灭 	 to perish 	 xiao1mie4	4	5
+1044	忧郁 	 mopish 	 you1yu4	5	5
+1045	良好 	 favorable 	 liang2hao3	1	5
+1046	姑姑 	 aunt 	 gu1gu5	5	5
+1047	寺庙 	 temple 	 si4miao4	5	5
+1048	宿舍 	 roommate 	 su4she3	5	5
+1049	一旦 	 once 	 yi1dan4	1	5
+1050	多余 	 unnecessary 	 duo1yu2	1	5
+1051	甲 	 first 	 jia3	5	5
+1052	婚姻 	 marriage 	 hun1yin1	3	5
+1053	发愁 	 to be anxious 	 fa1chou2	3	5
+1054	碰见 	 to come across 	 peng4jian4	1	5
+1055	毒素 	 poison 	 du2su4	5	5
+1056	阵 	 measure word 	 zhen4	5	5
+1057	秩序 	 order 	 zhi4xu4	4	5
+1058	蹲 	 to squat 	 dun1	5	5
+1059	建立 	 to set up 	 jian4li4	5	5
+1060	召开 	 to convene 	 zhao4kai1	1	5
+1061	委托 	 to entrust  	 wei3tuo1	5	5
+1062	惭愧 	 ashamed 	 can2kui4	5	5
+1063	册 	 booklet 	 ce4	5	5
+1064	木头 	 wood 	 mu4tou5	3	5
+1065	执行 	 to execute 	 zhi2xing2	2	5
+1066	广泛 	 abroad 	 guang3fan4	4	5
+1067	成立 	 to establish 	 cheng2li4	3	5
+1068	采访 	 to interview 	 cai3fang3	4	5
+1069	涨 	 to rise 	 zhang3	5	5
+1070	侵略 	 to invade 	 qin1lve4	5	5
+1071	形容 	 to describe 	 xing2rong2	3	5
+1072	飘 	 to flutter 	 piao1	5	5
+1073	祖国 	 motherland 	 zu3guo2	1	5
+1074	嫁 	 to marry (a husband) 	 jia4	5	5
+1075	悠久 	 long-standing  	 you1jiu3	3	5
+1076	武器 	 weapon 	 wu3qi4	5	5
+1077	改革 	 reform 	 gai3ge2	4	5
+1078	振动 	 to shake 	 zhen4dong4	2	5
+1079	激烈 	 intense 	 ji1lie4	4	5
+1080	蝴蝶 	 butterfly 	 hu2die2	5	5
+1081	慌张 	 flurried 	 huang1zhang1	2	5
+1082	领域 	 territory 	 ling3yu4	5	5
+1083	失眠 	 insomnia 	 shi1mian2	4	5
+1084	煤炭 	 coal 	 mei2tan4	5	5
+1085	露 	 to reveal 	 lu4	5	5
+1086	贸易 	 trade 	 mao4yi4	3	5
+1087	本领 	 ability 	 ben3ling3	1	5
+1088	伸 	 to stretch 	 shen1	5	5
+1089	冻 	 freeze 	 dong4	5	5
+1090	哈 	 ah 	 ha1	5	5
+1091	唉 	 alas 	 ai5	5	5
+1092	梨 	 pear 	 li2	5	5
+1093	轮流 	 take turns 	 lun2liu2	4	5
+1094	屋子 	 house 	 wu1zi5	1	5
+1095	邮局 	 post office 	 you2ju2	3	5
+1096	辅导 	 to coach 	 fu3dao3	4	5
+1097	车厢 	 carriage 	 che1xiang1	1	5
+1098	干脆 	 clear-cut 	 gan1cui4	3	5
+1099	光临 	 presence 	 guang1lin2	4	5
+1100	测验 	 test 	 ce4yan4	4	5
+1101	柜台 	 counter 	 gui4tai2	4	5
+1102	启发 	 to arouse 	 qi3fa1	3	5
+1103	奋斗 	 to struggle 	 fen4dou4	4	5
+1104	滚 	 to roll 	 gun3	5	5
+1105	盼望 	 hope for 	 pan4wang4	2	5
+1106	剪刀 	 scissors 	 jian3dao1	4	5
+1107	地毯 	 carpet 	 di4tan3	2	5
+1108	通讯 	 communication  	 tong1xun4	3	5
+1109	接触 	 to contact 	 jie1chu4	3	5
+1110	灰尘 	 dust 	 hui1chen2	5	5
+1111	措施 	 measure 	 cuo4shi1	5	5
+1112	桃 	 peach 	 tao2	5	5
+1113	乙 	 second person 	 yi3	5	5
+1114	瞧 	 to look 	 qiao2	5	5
+1115	操场 	 playground 	 cao1chang3	2	5
+1116	分析 	 to analyze 	 fen1xi1	2	5
+1117	关闭 	 to shut 	 guan1bi4	1	5
+1118	岛 	 island 	 dao3	5	5
+1119	石头 	 stone 	 shi2tou5	3	5
+1120	装饰 	 to decorate 	 zhuang1shi4	5	5
+1121	吓 	 to threaten  	 xia4	5	5
+1122	协调 	 to harmonize 	 xie2tiao2	3	5
+1123	丑 	 ugly 	 chou3	5	5
+1124	魅力 	 glamour 	 mei4li4	3	5
+1125	卷 	 measure word 	 juan3	5	5
+1126	谦虚 	 modest 	 qian1xu1	5	5
+1127	吻 	 to kiss 	 wen3	5	5
+1128	提纲 	 outline 	 ti2gang1	3	5
+1129	粮食 	 grain 	 liang2shi5	4	5
+1130	诊断 	 to diagnose 	 zhen3duan4	4	5
+1131	可靠 	 reliable 	 ke3kao4	2	5
+1132	洒 	 to sprinkle 	 sa3	5	5
+1133	统治 	 to control 	 tong3zhi4	5	5
+1134	使劲儿 	 to exert all one's strength 	 shi3jin4r5	1	5
+1135	询问 	 to enquire 	 xun2wen4	2	5
+1136	蜜蜂 	 honeybee 	 mi4feng1	5	5
+1137	油炸 	 to fry 	 you2zha2	4	5
+1138	肩膀 	 shoulder 	 jian1bang3	5	5
+1139	冠军 	 champion 	 guan4jun1	5	5
+1140	滴 	 to drip 	 di1	5	5
+1141	车库 	 garage 	 che1ku4	1	5
+1142	退 	 to recede 	 tui4	5	5
+1143	浓 	 dense 	 nong2	5	5
+1144	地震 	 earthquake 	 di4zhen4	2	5
+1145	权利 	 right 	 quan2li4	4	5
+1146	稳定 	 stable 	 wen3ding4	3	5
+1147	玻璃 	 glass 	 bo1li5	5	5
+1148	恢复 	 to recover 	 hui1fu4	3	5
+1149	培养 	 to foster 	 pei2yang3	4	5
+1150	牵 	 to pull 	 qian1	5	5
+1151	餐厅 	 restaurant 	 can1ting1	5	5
+1152	娱乐 	 amusement 	 yu2le4	2	5
+1153	拥抱 	 hug 	 yong1bao4	4	5
+1154	灵活 	 nimble 	 ling2huo2	4	5
+1155	缺乏 	 to be short of 	 que1fa2	4	5
+1156	摘 	 to pick 	 zhai1	5	5
+1157	捡 	 to pick up 	 jian3	5	5
+1158	胜利 	 victory 	 sheng4li4	4	5
+1159	届 	 measure word of conferences 	 jie4	5	5
+1160	除夕 	 New Year's Eve 	 chu2xi1	3	5
+1161	恐怖 	 terrifying 	 kong3bu2	4	5
+1162	恶劣 	 vile 	 e4lie3	5	5
+1163	礼拜天 	 Sunday 	 li3bai4tian1	1	5
+1164	颗 	 measure word 	 ke1	5	5
+1165	付款 	 to pay 	 fu4kuan3	5	5
+1166	出版 	 to publish 	 chu1ban3	1	5
+1167	士兵 	 soldier 	 shi4bing1	4	5
+1168	棉花 	 cotton 	 mian2hua1	3	5
+1169	能源 	 energy 	 neng2yuan2	1	5
+1170	捐 	 to donate 	 juan1	5	5
+1171	灾害 	 damage 	 zai1hai4	3	5
+1172	砍 	 to chop 	 kan3	5	5
+1173	嘱咐 	 to instruct 	 zhu3fu5	5	5
+1174	移动 	 to move 	 yi2dong4	2	5
+1175	讽刺 	 to satire 	 feng3ci4	5	5
+1176	安装 	 to install 	 an1zhuang1	3	5
+1177	风俗 	 custom 	 feng1su2	3	5
+1178	政策 	 policy 	 zheng4ce4	5	5
+1179	温柔 	 gentle 	 wen1rou2	4	5
+1180	铜 	 copper 	 tong2	5	5
+1181	古代 	 ancient time 	 gu3dai4	4	5
+1182	倒霉 	 to fall on evil days 	 dao3mei2	5	5
+1183	家庭 	 family 	 jia1ting2	1	5
+1184	长途 	 long-distance 	 chang2tu2	2	5
+1185	待遇 	 treatment 	 dai4yu4	3	5
+1186	敌人 	 enemy 	 di2ren2	1	5
+1187	棒 	 stick 	 bang4	5	5
+1188	甩 	 to swing 	 shuai3	5	5
+1189	嚷 	 to shout 	 rang3	5	5
+1190	记录 	 to take notes 	 ji4lu4	3	5
+1191	实践 	 practice 	 shi2jian4	3	5
+1192	秒 	 second 	 miao3	5	5
+1193	蔬菜 	 vegetables 	 shu1cai4	1	5
+1194	称呼 	 call 	 cheng1hu1	5	5
+1195	宴会 	 banquet 	 yan4hui4	1	5
+1196	凡是 	 all 	 fan2shi4	1	5
+1197	平衡 	 balance 	 ping2heng2	3	5
+1198	规模 	 scale 	 gui1mo2	4	5
+1199	辣椒 	 cayenne pepper 	 la4jiao1	4	5
+1200	工厂 	 factory 	 gong1chang3	1	5
+1201	斜 	 inclined  	 xie2	5	5
+1202	秘密 	 secret 	 mi4mi5	4	5
+1203	下载 	 to download 	 xia4zai3	1	5
+1204	隔壁 	 next door 	 ge2bi4	5	5
+1205	谨慎 	 prudent 	 jin3shen4	5	5
+1206	灰 	 dust 	 hui1	5	5
+1207	打喷嚏 	 to sneeze 	 da3pen1ti4	1	5
+1208	躲藏 	 to hide 	 duo3cang2	5	5
+1209	厘米 	 centimeter 	 li2mi3	1	5
+1210	税 	 tax 	 shui4	5	5
+1211	象棋 	 chess 	 xiang4qi2	4	5
+1212	乖 	 clever 	 guai1	5	5
+1213	杀 	 to kill 	 sha1	5	5
+1214	碎 	 to break down 	 sui4	5	5
+1215	缩小 	 to reduce 	 suo1xiao3	1	5
+1216	挑战 	 challenge 	 tiao3zhan4	5	5
+1217	圈 	 circle 	 quan1	5	5
+1218	纷纷 	 one after another 	 fen1fen1	5	5
+1219	政府 	 government 	 zheng4fu3	5	5
+1220	提倡 	 to advocate 	 ti2chang4	3	5
+1221	私人 	 private 	 si1ren2	1	5
+1222	道德 	 virtue 	 dao4de2	2	5
+1223	废话 	 superfluous words 	 fei4hua4	1	5
+1224	摆 	 to put 	 bai3	5	5
+1225	忍不住 	 unable to bear 	 ren3bu5zhu4	1	5
+1226	宁可 	 would rather 	 ning4ke3	2	5
+1227	粒 	 grain 	 li4	5	5
+1228	延长 	 to extend 	 yan2chang2	2	5
+1229	固定 	 fixed 	 gu4ding4	3	5
+1230	煎 	 to fry in shallow oil 	 jian1	5	5
+1231	糟糕 	 bad 	 zao1gao1	3	5
+1232	拥挤 	 crowded 	 yong1ji3	5	5
+1233	核心 	 core 	 he2xin1	3	5
+1234	吵架 	 to quarrel 	 chao3jia4	4	5
+1235	桔子 	 orange 	 ju2zi5	1	5
+1236	拍 	 to pat 	 pai1	5	5
+1237	开幕式 	 opening ceremony 	 kai1mu4shi4	1	5
+1238	烤鸭 	 roast duck 	 kao3ya1	5	5
+1239	幅 	 measure word of drawing 	 fu2	5	5
+1240	显得 	 to appear 	 xian3de5	2	5
+1241	罪犯 	 criminal 	 zui4fan4	5	5
+1242	救 	 to rescue 	 jiu4	5	5
+1243	醉 	 to get drunk 	 zui4	5	5
+1244	充电器 	 charger 	 chong1dian4qi4	1	5
+1245	包含 	 to include 	 bao1han2	3	5
+1246	赶紧 	 with all hast 	 gan3jin3	4	5
+1247	土地 	 land 	 tu3d1	2	5
+1248	愤怒 	 indignation 	 fen4nu4	5	5
+1249	情绪 	 mood 	 qing2xu4	2	5
+1250	烂 	 to rot 	 lan4	5	5
+1251	编辑 	 to edit 	 bian1ji2	5	5
+1252	家乡 	 hometown 	 jia1xiang1	1	5
+1253	燃烧 	 to burn 	 ran2shao1	3	5
+1254	青 	 blueness 	 qing1	5	5
+1255	挣钱 	 to make money 	 zheng4qian2	1	5
+1256	蛇 	 snake 	 she2	5	5
+1257	吃亏 	 to suffer losses 	 chi1kui1	1	5
+1258	薄 	 thin 	 bao2	5	5
+1259	伙伴 	 partner 	 huo3ban4	5	5
+1260	叉子 	 fork 	 cha1zi5	1	5
+1261	恨 	 to hate 	 hen4	5	5
+1262	迷路 	 to miss one's way 	 mi2lu4	2	5
+1263	迅速 	 rapid 	 xun4su4	4	5
+1264	雷 	 thunder 	 lei2	5	5
+1265	辩论 	 to argue 	 bian4lun4	4	5
+1266	分配 	 to distribute 	 fen1pei4	2	5
+1267	宠物 	 pet 	 chong3wu4	3	5
+1268	丙 	 third 	 bing3	5	5
+1269	插 	 to stick  	 cha1	5	5
+1270	撕 	 to tear 	 si1	5	5
+1271	盆 	 pot 	 pen2	5	5
+1272	摄影 	 to take a photograph 	 she4ying3	1	5
+1273	抢 	 to rob 	 qiang3	5	5
+1274	勤奋 	 diligent 	 qin2fen4	4	5
+1275	遗憾 	 pity 	 yi2han4	5	5
+1276	雄伟 	 grand 	 xiong2wei3	5	5
+1277	出席 	 to attend 	 chu1xi2	1	5
+1278	妨碍 	 to obstruct 	 fang2ai4	5	5
+1279	追求 	 to pursue 	 zhui1qiu2	3	5
+1280	王子 	 prince 	 wang2zi3	1	5
+1281	改善 	 to improve 	 gai3shan4	4	5
+1282	妇女 	 woman 	 fu4nv3	1	5
+1283	安慰 	 to comfort 	 an1wei4	3	5
+1284	绳子 	 string 	 sheng2zi5	1	5
+1285	经营 	 to manage 	 jing1ying2	2	5
+1286	繁荣 	 flourishing 	 fan2rong2	5	5
+1287	类 	 class 	 lei4	5	5
+1288	豪华 	 luxury 	 hao2hua2	5	5
+1289	光滑 	 smooth 	 guang1hua2	4	5
+1290	汇率 	 exchange rate 	 hui4lv4	5	5
+1291	国籍 	 nationality 	 guo2ji2	1	5
+1292	控制 	 to control 	 kong4zhi4	4	5
+1293	竹子 	 bamboo 	 zhu2zi5	1	5
+1294	煮 	 to boil 	 zhu3	5	5
+1295	逻辑 	 logic 	 luo2ji4	5	5
+1296	宣布 	 to declare 	 xuan1bu4	5	5
+1297	违反 	 to violate 	 wei2fan3	4	5
+1298	谜语 	 riddle 	 mi2yu3	1	5
+1299	酱油 	 soy sauce 	 jiang4you2	4	5
+1300	创造 	 to create 	 chuang4zao4	4	5
+1301	钓 	 to fish 	 diao4	5	5
+1302	项 	 term 	 xiang4	5	5
+1303	臭 	 stink 	 chou4	5	5
+1304	委屈 	 to feel wronged 	 wei3qu5	5	5
+1305	导致 	 to result in 	 dao3zhi4	4	5
+1306	俱乐部 	 club 	 ju4le4bu4	2	5
+1307	朴素 	 frugal 	 pu3su4	5	5
+1308	删除 	 to delete 	 shan1chu2	3	5
+1309	残疾 	 physical disability 	 can2ji2	5	5
+1310	补充 	 to replenish 	 bu3chong1	5	5
+1311	岸 	 bank 	 an4	5	5
+1312	寻找 	 to seek 	 xun2zhao3	2	5
+1313	阻止 	 to prevent 	 zu3zhi3	4	5
+1314	沉默 	 reticent 	 chen2mo4	4	5
+1315	巧妙 	 ingenious 	 qiao3miao4	4	5
+1316	姥姥 	 grandmother 	 lao3lao5	5	5
+1317	尺子 	 rule 	 chi3zi5	1	5
+1318	淡 	 tasteless 	 dan4	5	5
+1319	推荐 	 to recommend 	 tui1jian4	4	5
+1320	团 	 round 	 tuan2	5	5
+1321	抄 	 to copy 	 chao1	5	5
+1322	洞 	 hole 	 dong4	5	5
+1323	疲劳 	 tired 	 pi2lao2	5	5
+1324	赔偿 	 to compensate for 	 pei2chang2	5	5
+1325	往返 	 to go back and forth 	 wang3fan3	4	5
+1326	摔 	 to fall 	 shuai1	5	5
+1327	时尚 	 fashion 	 shi2shang4	1	5
+1328	姑娘 	 girl 	 gu1niang5	5	5
+1329	单纯 	 pure 	 dan1chun2	3	5
+1330	郊区 	 suburbs 	 jiao1qu1	4	5
+1331	扶 	 to support with hand 	 fu2	5	5
+1332	小偷 	 thief 	 xiao3tou1	1	5
+1333	企图 	 to attempt 	 qi3tu2	3	5
+1334	骂 	 to abuse 	 ma4	5	5
+1335	夸 	 to boast 	 kua1	5	5
+1336	娶 	 to marry (a wife) 	 qu3	5	5
+1337	漏 	 to leak 	 lou4	5	5
+1338	沙滩 	 beach 	 sha1tan1	4	5
+1339	肥皂 	 soap 	 fei2zao4	4	5
+1340	未必 	 may not 	 wei4bi4	3	5
+1341	姿势 	 gesture 	 zi1shi5	5	5
+1342	迫切 	 urgent 	 po4qie4	4	5
+1343	包裹 	 pack 	 bao1guo3	3	5
+1344	拦 	 to block 	 lan2	5	5
+1345	孝顺 	 filial  	 xiao4shun5	4	5
+1346	肌肉 	 muscle 	 ji1rou4	2	5
+1347	总裁 	 supremo 	 zong3cai2	3	5
+1348	矛盾 	 contradiction 	 mao2dun4	5	5
+1349	伟大 	 great 	 wei3da4	1	5
+1350	财产 	 property 	 cai2chan3	5	5
+1351	哲学 	 philosophy  	 zhe2xue2	1	5
+1352	投资 	 to invest 	 tou2zi1	4	5
+1353	英俊 	 handsome 	 ying1jun4	5	5
+1354	占线 	 busy 	 zhan4xian4	5	5
+1355	珍惜 	 to value 	 zhen1xi1	4	5
+1356	狼 	 wolf 	 lang2	5	5
+1357	登机牌 	 boarding check 	 deng1ji1pai2	1	5
+1358	沟通 	 to communicate 	 gou1tong1	3	5
+1359	单独 	 alone 	 dan1du2	3	5
+1360	胡涂 	 muddled 	 hu2tu5	5	5
+1361	转变 	 to change 	 zhuan3bian4	3	5
+1362	初级 	 primary 	 chu1ji2	3	5
+1363	宗教 	 religion 	 zong1jiao4	2	5
+1364	摇 	 to shake 	 yao2	5	5
+1365	咨询 	 to consult 	 zi1xun2	5	5
+1366	背 	 back 	 bei4	5	5
+1367	浇 	 to irrigate 	 jiao1	5	5
+1368	悄悄 	 quietly 	 qiao1qiao1	5	5
+1369	敬爱 	 to respect and love 	 jing4ai4	1	5
+1370	智慧 	 wisdom 	 zhi4hui4	5	5
+1371	项链 	 necklace 	 xiang4lian4	5	5
+1372	太极拳 	 tai chi 	 tai4ji2quan2	1	5
+1373	紫 	 purple 	 zi3	5	5
+1374	金属 	 metal 	 jin1shu3	4	5
+1375	烫 	 to burn 	 tang4	5	5
+1376	嗓子 	 voice, throat 	 sang3zi5	1	5
+1377	逗 	 to amuse 	 dou4	5	5
+1378	卧室 	 bedroom 	 wo4shi4	2	5
+1379	宝贝 	 treasure 	 bao3bei4	5	5
+1380	优惠 	 favorable 	 you1hui4	4	5
+1381	似的 	 seem as if 	 shi4de5	1	5
+1382	传统 	 tradition 	 chuan2tong3	4	5
+1383	销售 	 to sell 	 xiao1shou4	4	5
+1384	过敏 	 to be allergic 	 guo4min3	2	5
+1385	兔子 	 rabbit 	 tu4zi5	1	5
+1386	锅 	 pan 	 guo1	5	5
+1387	鲜艳 	 Bright-colored 	 xian1yan4	3	5
+1388	胳膊 	 arm 	 ge1bo5	5	5
+1389	枕头 	 pillow 	 zhen3tou5	3	5
+1390	悲观 	 pessimistic 	 bei1guan1	4	5
+1391	时髦 	 fashionable 	 shi2mao2	1	5
+1392	预防 	 to prevent 	 yu4fang2	4	5
+1393	综合 	 multiple 	 zong1he2	4	5
+1394	田野 	 field 	 tian2ye3	5	5
+1395	冲 	 to rush 	 chong1	5	5
+1396	卫生间 	 washroom 	 wei4sheng1jian1	1	5
+1397	披 	 to wrap around 	 pi1	5	5
+1398	豆腐 	 bean curd 	 dou4fu3	5	5
+1399	抽屉 	 drawer 	 chou1ti4	4	5
+1400	盖 	 to cover 	 gai4	5	5
+1401	夹子 	 clamp 	 jia2zi5	1	5
+1402	寂寞 	 loneliness 	 ji4mo4	5	5
+1403	尖锐 	 sharp 	 jian1rui4	5	5
+1404	拐弯 	 to turn off 	 guai3wan1	5	5
+1405	翅膀 	 wing 	 chi4bang3	5	5
+1406	避免 	 to avoid 	 bi4mian3	4	5
+1407	气氛 	 atmosphere 	 qi4fen1	1	5
+1408	脖子 	 neck 	 bo2zi5	1	5
+1409	睁 	 to open 	 zheng1	5	5
+1410	严肃 	 serious 	 yan2su4	4	5
+1411	恋爱 	 love 	 lian4ai4	1	5
+1412	骨头 	 bone 	 gu3tou5	3	5
+1413	彩虹 	 rainbow 	 cai3hong2	4	5
+1414	舅舅 	 uncle 	 jiu4jiu5	5	5
+1415	荣誉 	 honor 	 rong2yu4	5	5
+1416	丝毫 	 a bit 	 si1hao2	5	5
+1417	矿泉水 	 mineral water 	 kuang4quan2shui3	1	5
+1418	火柴 	 match 	 huo3chai2	1	5
+1419	驾驶 	 to drive 	 jia4shi3	5	5
+1420	融化 	 to melt 	 rong2hua4	3	5
+1421	射击 	 to shoot 	 she4ji1	5	5
+1422	幻想 	 delusion 	 huan4xiang3	1	5
+1423	催 	 to urge 	 cui4	5	5
+1424	享受 	 to enjoy 	 xiang3shou4	4	5
+1425	龙 	 dragon 	 long2	5	5
+1426	布 	 cloth 	 bu4	5	5
+1427	保存 	 to save 	 bao3cun2	4	5
+1428	厕所 	 toilet 	 ce4suo3	2	5
+1429	承担 	 to undertake 	 cheng2dan1	3	5
+1430	玉米 	 corn 	 yu4mi3	1	5
+1431	跨 	 to step across 	 kua4	6	6
+1432	犹如 	 like 	 you2ru2	3	6
+1433	潜力 	 potential 	 qian2li4	3	6
+1434	别墅 	 villa 	 bie2shu4	2	6
+1435	卓越 	 outstanding 	 zhuo2yue4	3	6
+1436	扑 	 to pounce on 	 pu1	6	6
+1437	粗鲁 	 rude 	 cu1lu3	4	6
+1438	碧玉 	 jasper 	 bi4yu4	5	6
+1439	捣乱 	 to make trouble 	 dao3luan4	4	6
+1440	中央 	 center 	 zhong1yang1	1	6
+1441	螺丝钉 	 screw 	 luo2si1ding1	5	6
+1442	根深蒂固 	 inveterate 	 gen1shen1di4gu4	3	6
+1443	无动于衷 	 to be unmoved 	 wu2dong4yu2zhong1	2	6
+1444	过渡 	 transition 	 guo4du4	2	6
+1445	蹬 	 to pedal 	 deng1	6	6
+1446	流氓 	 blackguard 	 liu2mang2	4	6
+1447	揭发 	 exposure 	 jie1fa1	3	6
+1448	报仇 	 to revenge 	 bao4chou2	3	6
+1449	诽谤 	 to slander 	 fei3bang4	6	6
+1450	窜 	 to flee 	 cuan4	6	6
+1451	腮 	 cheek 	 sai1	6	6
+1452	嘛 	 well 	 ma5	6	6
+1453	秃 	 bald 	 tu1	6	6
+1454	范畴 	 category 	 fan4chou2	4	6
+1455	支援 	 to provide assistance 	 zhi1yuan2	4	6
+1456	叮嘱 	 to exhort 	 ding1zhu3	5	6
+1457	搜索 	 to hunt 	 sou1suo3	6	6
+1458	混合 	 to mixture 	 hun4he2	4	6
+1459	巡逻 	 to patrol 	 xun2luo2	5	6
+1460	晋升 	 to promote 	 jin4sheng1	5	6
+1461	呵 	 oh 	 he5	6	6
+1462	重迭 	 overlapping 	 chong2die2	3	6
+1463	弊端 	 malpractice 	 bi4duan1	6	6
+1464	背诵 	 to recite 	 bei4song4	5	6
+1465	恐惧 	 to dread 	 kong3ju4	4	6
+1466	哼 	 hum 	 heng5	6	6
+1467	伪造 	 to fabricate 	 wei3zao4	4	6
+1468	脂肪 	 fat 	 zhi1fang2	6	6
+1469	擅长 	 to be accomplished in 	 shan4chang2	2	6
+1470	毅力 	 perseverance 	 yi4li4	3	6
+1471	惹祸 	 to ask for trouble 	 re3huo4	6	6
+1472	奔驰 	 to run quickly 	 ben1chi2	6	6
+1473	狠心 	 heartless 	 hen3xin1	3	6
+1474	内涵 	 connotation 	 nei4han2	4	6
+1475	枝 	 measure word 	 zhi1	6	6
+1476	株 	 measure word 	 zhu1	6	6
+1477	凹凸 	 concave-convex 	 ao1tu1	6	6
+1478	噪音 	 noise 	 zao4yin1	3	6
+1479	奥秘 	 mystery 	 ao4mi4	5	6
+1480	循环 	 to circulate 	 xun2huan2	3	6
+1481	眨 	 to blink 	 zha3	6	6
+1482	亭子 	 pavilion 	 ting2zi5	1	6
+1483	辐射 	 radiation 	 fu2she4	5	6
+1484	战役 	 battle 	 zhan4yi4	5	6
+1485	萌芽 	 bud 	 meng2ya2	6	6
+1486	支柱 	 pillar 	 zhi1zhu4	4	6
+1487	搓 	 to rub 	 cuo1	6	6
+1488	新颖 	 new 	 xin1ying3	2	6
+1489	歹徒 	 evil person who commits crimes 	 dai3tu2	6	6
+1490	犬 	 canine 	 quan3	6	6
+1491	鉴别 	 to distinguish 	 jian4bie2	2	6
+1492	监督 	 to oversee 	 jian1du1	6	6
+1493	贬低 	 to depreciate 	 bian3di1	3	6
+1494	捎 	 to bring along 	 shao1	6	6
+1495	走廊 	 corridor 	 zou3lang2	2	6
+1496	阐述 	 to expatiate 	 chan3shu4	5	6
+1497	络绎不绝 	 in an endless stream 	 luo4yi4bu4jue2	1	6
+1498	黄昏 	 dusk 	 huang2hun1	3	6
+1499	鞠躬 	 to bow 	 ju1gong1	6	6
+1500	排斥 	 to blackball 	 pai2chi4	4	6
+1501	顽固 	 stubborn 	 wan2gu4	5	6
+1502	凶恶 	 fierce 	 xiong1e4	5	6
+1503	州 	 state 	 zhou1	6	6
+1504	疤 	 scar 	 ba1	6	6
+1505	跟踪 	 to tail 	 gen1zong1	3	6
+1506	掩盖 	 to cover up 	 yan3gai4	5	6
+1507	刑事 	 criminal 	 xing2shi4	2	6
+1508	兼职 	 part-time job 	 jian1zhi2	4	6
+1509	攻击 	 to attack 	 gong1ji1	5	6
+1510	幼稚 	 childish 	 you4zhi5	5	6
+1511	辫子 	 pigtail 	 bian4zi5	1	6
+1512	谦逊 	 modest 	 qian1xun4	5	6
+1513	哄 	 hubbub 	 hong3	6	6
+1514	溜 	 to steal 	 liu1	6	6
+1515	贼 	 thief 	 zei2	6	6
+1516	开辟 	 to open up 	 kai1pi4	1	6
+1517	细菌 	 bacilli 	 xi4jun1	4	6
+1518	严峻 	 grim 	 yan2jun4	4	6
+1519	逢 	 to meet 	 feng2	6	6
+1520	神圣 	 holy 	 shen2sheng4	4	6
+1521	宏观 	 macroscopic 	 hong2guan1	4	6
+1522	缠绕 	 to enlace 	 chan2rao4	5	6
+1523	花瓣 	 petal 	 hua1ban4	3	6
+1524	洪水 	 flood 	 hong2shui3	1	6
+1525	番 	 measure word 	 fan1	6	6
+1526	蒙 	 to cheat 	 meng2	6	6
+1527	恰当 	 felicitous 	 qia4dang4	3	6
+1528	烘 	 to bake 	 hong1	6	6
+1529	挑衅 	 provocation 	 tiao3xin4	5	6
+1530	纯粹 	 pure 	 chun2cui4	5	6
+1531	霞 	 afterglow 	 xia2	6	6
+1532	渔民 	 fisherfolk 	 yu2min2	4	6
+1533	追悼 	 to mourn for 	 zhui1dao4	5	6
+1534	怠慢 	 remissness 	 dai4man4	2	6
+1535	俘虏 	 to captive 	 fu2lu3	6	6
+1536	巷 	 alley 	 xiang4	6	6
+1537	目睹 	 to discern 	 mu4du3	3	6
+1538	轮廓 	 contour 	 lun2kuo4	5	6
+1539	筛选 	 to filter 	 shai1xuan1	3	6
+1540	灵魂 	 soul 	 ling2hun2	5	6
+1541	田径 	 track and field 	 tian2jing4	5	6
+1542	蕴藏 	 to contain 	 yun4cang2	5	6
+1543	轨道 	 orbit 	 gui3dao4	2	6
+1544	饥饿 	 hunger 	 ji1e4	3	6
+1545	滋味 	 taste 	 zi1wei4	4	6
+1546	杜绝 	 to put an end to 	 du4jue2	4	6
+1547	仪器 	 apparatus 	 yi2qi4	5	6
+1548	倾听 	 to give audience to 	 qing1ting1	1	6
+1549	空隙 	 interspace 	 kong4xi4	3	6
+1550	钦佩 	 to admire 	 qin1pei4	5	6
+1551	包袱 	 burden 	 bao1fu5	3	6
+1552	肥沃 	 fertile 	 fei2wu4	4	6
+1553	装卸 	 to load and unload 	 zhuang1xie4	5	6
+1554	解剖 	 to anatomize 	 jie3pou1	3	6
+1555	慷慨 	 generosity 	 kang1kai3	6	6
+1556	经纬 	 longitude and latitude 	 jing1wei3	2	6
+1557	沾光 	 to benefit from 	 zhan1guang1	4	6
+1558	捕捉 	 to catch 	 bu3zhuo1	6	6
+1559	妥当 	 appropriate 	 tuo3dang4	3	6
+1560	参谋 	 to give advice 	 can1mou5	3	6
+1561	譬如 	 for example 	 pi4ru2	3	6
+1562	搏斗 	 to fight 	 bo2dou4	5	6
+1563	陡峭 	 steep 	 dou3qiao4	6	6
+1564	高峰 	 peak 	 gao1feng1	1	6
+1565	凄凉 	 dreariness 	 qi1liang2	4	6
+1566	富裕 	 rich 	 fu4yu4	4	6
+1567	剥削 	 to exploit 	 bo1xue1	6	6
+1568	仁慈 	 beneficence 	 ren2ci2	6	6
+1569	沉淀 	 deposit 	 chen2dian4	5	6
+1570	荧屏 	 screen 	 ying2ping2	6	6
+1571	粉末 	 powder 	 fen3mo4	3	6
+1572	罕见 	 rarely 	 han3jian4	1	6
+1573	川流不息 	 the stream never stops flowing 	 chuan1liu2bu4xi1	1	6
+1574	惊讶 	 surprise 	 jing1ya4	4	6
+1575	笨拙 	 clumsy 	 ben4zhuo1	4	6
+1576	贿赂 	 to bribe 	 hui4lu4	6	6
+1577	遭受 	 suffer from 	 zao1shou4	4	6
+1578	溶解 	 to melt 	 rong2jie3	3	6
+1579	豪迈 	 heroic 	 hao2mai4	5	6
+1580	僵硬 	 ankylosis 	 jiang1ying4	4	6
+1581	混淆 	 confusion 	 hun4xiao2	6	6
+1582	浸泡 	 to soak 	 jin4pao4	6	6
+1583	含糊 	 ambiguous 	 han2hu5	5	6
+1584	棕色 	 brown 	 zong1se4	2	6
+1585	屁股 	 butt 	 pi4gu5	5	6
+1586	背叛 	 to betray 	 bei4pan4	5	6
+1587	泰斗 	 leading authority 	 tai4dou3	5	6
+1588	嗯 	 er 	 n5	6	6
+1589	袭击 	 to attack 	 xi2ji1	5	6
+1590	饲养 	 to breed 	 si4yang3	4	6
+1591	斟酌 	 to think carefully 	 zhen1zhuo2	6	6
+1592	旷课 	 absenteeism 	 kuang4ke4	2	6
+1593	踌躇 	 to hesitate 	 chou2chu2	6	6
+1594	霸道 	 overbearing 	 ba4dao4	2	6
+1595	岩石 	 rock 	 yan2shi2	5	6
+1596	精益求精 	 to seek for greater perfection/ constantly improve sth 	 jing1yi4qiu2jing1	3	6
+1597	衰老 	 to become old 	 shuai1lao3	1	6
+1598	昌盛 	 prosperous 	 chang1sheng4	6	6
+1599	过瘾 	 enjoyable 	 guo4yin3	2	6
+1600	栏目 	 column 	 lan2mu4	3	6
+1601	洽谈 	 to discuss 	 qia4tan2	4	6
+1602	伯母 	 auntie 	 bo2mu3	4	6
+1603	肿瘤 	 tumor 	 zhong3liu2	6	6
+1604	分寸 	 sense of propriety 	 fen1cun4	2	6
+1605	赠送 	 to give 	 zeng4song4	2	6
+1606	莫名其妙 	 without rhyme or reason 	 mo4ming2qi2miao4	1	6
+1607	瞪 	 to glare 	 deng4	6	6
+1608	吹捧 	 to puffery 	 chui1peng3	5	6
+1609	贫乏 	 lacking 	 pin2fa2	5	6
+1610	垫 	 mat 	 dian4	6	6
+1611	储备 	 to store 	 chu3bei4	2	6
+1612	昼夜 	 day and night 	 zhou4ye4	5	6
+1613	焦点 	 focus 	 jiao1dian3	1	6
+1614	颈椎 	 cervical vertebra 	 jing3zhui1	6	6
+1615	舱 	 cabin 	 cang1	6	6
+1616	隆重 	 solemn 	 long2zhong4	3	6
+1617	凑合 	 to scare up 	 cou4he5	4	6
+1618	宫殿 	 palace 	 gong1dian4	6	6
+1619	急躁 	 precipitancy 	 ji2zao4	3	6
+1620	劈 	 to hag 	 pi1	6	6
+1621	患者 	 sufferer 	 huan4zhe3	3	6
+1622	伤脑筋 	 bothersome 	 shang1nao3jin1	1	6
+1623	澄清 	 to clarify 	 cheng2qing1	3	6
+1624	扎 	 to prick 	 zha1	6	6
+1625	生疏 	 rusty 	 sheng1shu1	1	6
+1626	岛屿 	 island 	 dao3yu3	5	6
+1627	裁缝 	 dressmaker 	 cai2feng5	5	6
+1628	淘汰 	 to wash out 	 tao2tai4	6	6
+1629	悲哀 	 sorrow 	 bei1ai1	5	6
+1630	间谍 	 spy 	 jian4die2	2	6
+1631	清晰 	 in focus 	 qing1xi1	3	6
+1632	承诺 	 to promise 	 cheng2nuo4	5	6
+1633	灌溉 	 irrigation 	 guan4gai4	6	6
+1634	步伐 	 step 	 bu4fa2	2	6
+1635	火箭 	 rocket 	 huo3jian4	1	6
+1636	拣 	 to pick 	 jian3	6	6
+1637	纽扣儿 	 fastener 	 niu3kou4r5	1	6
+1638	颇 	 considerably 	 po1	6	6
+1639	爆发 	 to outbreak 	 bao4fa1	3	6
+1640	比喻 	 analogy 	 bi3yu4	2	6
+1641	和蔼 	 amiable 	 he2ai3	1	6
+1642	奢侈 	 luxury 	 she1chi3	6	6
+1643	乡镇 	 villages and towns 	 xiang1zhen4	5	6
+1644	尴尬 	 embarrassed 	 gan1ga4	6	6
+1645	岂有此理 	 darned 	 qi3you3ci3li3	1	6
+1646	兜 	 pocket 	 dou1	6	6
+1647	扒 	 to dig up, to cling to 	 ba1	6	6
+1648	偏僻 	 remote 	 pian1pi4	6	6
+1649	岗位 	 post 	 gang3wei4	3	6
+1650	蔓延 	 to overspread 	 man4yan2	5	6
+1651	波涛汹涌 	 waves running high 	 bo1tao1xiong1yong4	6	6
+1652	嗅觉 	 olfaction 	 xiu4jue2	2	6
+1653	谴责 	 accusal 	 qian3ze2	4	6
+1654	保姆 	 nanny 	 bao3mu3	4	6
+1655	冰雹 	 hail 	 bing1bao2	3	6
+1656	边疆 	 frontier 	 bian1jiang1	2	6
+1657	侮辱 	 to affront 	 wu3ru3	6	6
+1658	茫茫 	 boundless 	 mang2mang2	6	6
+1659	悬崖峭壁 	 cliff 	 xuan2ya2qiao4bi4	5	6
+1660	废墟 	 ruin 	 fei4xu1	5	6
+1661	督促 	 to supervise and urge 	 du1cu4	5	6
+1662	和谐 	 harmonious 	 he2xie2	1	6
+1663	城堡 	 castle 	 cheng2bao3	3	6
+1664	孔 	 hole 	 kong3	6	6
+1665	痕迹 	 trace 	 hen2ji4	5	6
+1666	苏醒 	 vivification 	 su1xing3	4	6
+1667	挥霍 	 to devour 	 hui1huo4	5	6
+1668	诈骗 	 to bluff 	 zha4pian4	4	6
+1669	椭圆 	 ellipse 	 tuo3yuan2	4	6
+1670	开朗 	 outgoing 	 kai1lang3	1	6
+1671	熄灭 	 to crush out 	 xi1mie4	5	6
+1672	轮胎 	 tyre 	 lun2tai1	5	6
+1673	井 	 well 	 jing3	6	6
+1674	浑身 	 all over the body 	 hun2shen1	2	6
+1675	惩罚 	 to punish 	 cheng2fa2	6	6
+1676	辜负 	 to let down 	 gu1fu4	4	6
+1677	泛滥 	 to overflow 	 fan4lan4	5	6
+1678	伶俐 	 clever 	 ling2li4	6	6
+1679	部署 	 to deploy 	 bu4shu3	4	6
+1680	刊登 	 to publish 	 kan1deng1	5	6
+1681	咀嚼 	 to chaw 	 ju3jue2	6	6
+1682	携带 	 to schlep 	 xie2dai4	3	6
+1683	和睦 	 concord 	 he2mu4	1	6
+1684	蒸发 	 evaporation 	 zheng1fa1	3	6
+1685	甘心 	 willing 	 gan1xin1	3	6
+1686	亦 	 also 	 yi4	6	6
+1687	履行 	 to carry out 	 lv3xing2	2	6
+1688	纯洁 	 pure 	 chun2jie2	5	6
+1689	全力以赴 	 to do one's level best 	 quan2li4yi3fu4	2	6
+1690	刹车 	 to brake 	 cha1che1	1	6
+1691	清澈 	 limpidity 	 qing1che4	3	6
+1692	分歧 	 bifurcation 	 fen1qi2	2	6
+1693	诸位 	 you 	 zhu1wei4	3	6
+1694	山脉 	 cordillera 	 shan1mai4	6	6
+1695	笼罩 	 to fold 	 long3zhao4	6	6
+1696	榜样 	 model 	 bang3yang4	1	6
+1697	隐瞒 	 to hold back 	 yin3man2	6	6
+1698	鼻涕 	 snivel 	 bi2ti4	3	6
+1699	掏 	 to draw out 	 tao1	6	6
+1700	机械 	 machine 	 ji1xie4	1	6
+1701	粥 	 gruel 	 zhou1	6	6
+1702	归根结底 	 in the final analysis 	 gui1gen1jie2di3	3	6
+1703	隧道 	 tunnel 	 sui4dao4	2	6
+1704	预兆 	 omen 	 yu4zhao4	4	6
+1705	绑架 	 to kidnap 	 bang3jia4	5	6
+1706	沿海 	 coastal 	 yan2hai3	4	6
+1707	监狱 	 jail 	 jian1yu4	6	6
+1708	铺 	 to spread 	 pu1	6	6
+1709	讥笑 	 to fleer 	 ji1xiao4	2	6
+1710	耀眼 	 dazzling 	 yao4yan3	2	6
+1711	通货膨胀 	 inflation 	 tong1huo4peng2zhang4	3	6
+1712	领袖 	 cacique 	 ling3xiu4	5	6
+1713	打猎 	 to hunt 	 da3lie4	1	6
+1714	共鸣 	 resonance 	 gong4ming2	2	6
+1715	颠簸 	 to bump 	 dian1bu3	6	6
+1716	坟墓 	 grave 	 fen2mu4	6	6
+1717	淘气 	 naughty 	 tao2qi4	1	6
+1718	庄严 	 stately 	 zhuang1yan2	4	6
+1719	枯竭 	 to dry up 	 ku1jie2	6	6
+1720	四肢 	 extremity 	 si4zhi1	1	6
+1721	仓促 	 hasty 	 cang1cu4	5	6
+1722	黎明 	 dawn 	 li2ming2	1	6
+1723	神仙 	 immortal 	 shen2xian1	4	6
+1724	盘旋 	 to circle 	 pan2xuan2	3	6
+1725	轰动 	 sensation 	 hong1dong4	2	6
+1726	逮捕 	 to arrest 	 dai4bu3	6	6
+1727	筹备 	 to prepare 	 chou1bei4	2	6
+1728	梢 	 tip of branch 	 shao1	6	6
+1729	靠拢 	 to close 	 kao4long3	5	6
+1730	奉献 	 dedication 	 feng4xian4	5	6
+1731	羽绒服 	 down jackets 	 yu3rong2fu2	1	6
+1732	茎 	 stem 	 jing4	6	6
+1733	拼搏 	 to struggle 	 pin1bo2	6	6
+1734	稠密 	 dense 	 chou2mi4	4	6
+1735	拘留 	 custody 	 ju1liu2	4	6
+1736	敏捷 	 agility 	 min3jie2	5	6
+1737	呼啸 	 to scream 	 hu1xiao4	5	6
+1738	溪 	 brook 	 xi1	6	6
+1739	辽阔 	 vast 	 liao2kuo4	6	6
+1740	徘徊 	 to hesitate 	 pai2huai2	6	6
+1741	镶嵌 	 to beset 	 xiang1qian4	6	6
+1742	管辖 	 to have jurisdiction over sth. 	 guan3xia2	4	6
+1743	赌博 	 gambling 	 du3bo2	4	6
+1744	恭敬 	 deferential 	 gong1jing4	5	6
+1745	飞禽走兽 	 birds and beats 	 fei1qin2zou3shou4	1	6
+1746	发誓 	 to take an oath 	 fa2shi4	3	6
+1747	混浊 	 turbidity 	 hun2zhuo2	6	6
+1748	操纵 	 to control 	 cao1zong4	5	6
+1749	暧昧 	 ambiguous 	 ai4mei4	6	6
+1750	弥补 	 to make up for 	 mi2bu3	5	6
+1751	腥 	 fishy smell 	 xing1	6	6
+1752	司令 	 chief of staff 	 si1ling4	2	6
+1753	拐杖 	 crutch 	 guai3zhang4	5	6
+1754	雌雄 	 male and female 	 ci2xiong2	5	6
+1755	咬牙切齿 	 to grind one's teeth 	 yao3ya2qie4chi3	3	6
+1756	陶瓷 	 ceramics 	 tao2ci2	6	6
+1757	摄氏度 	 Celsius 	 she4shi4du4	4	6
+1758	勾结 	 collusion 	 gou1jie2	3	6
+1759	杰出 	 outstanding 	 jie2chu1	1	6
+1760	斑纹 	 stripe 	 ban1wen3	6	6
+1761	过滤 	 to filtrate 	 guo4lv4	2	6
+1762	氢 	 hydrogen 	 qing1	6	6
+1763	赋予 	 to endow 	 fu4yu3	6	6
+1764	喇叭 	 horn 	 la3ba5	6	6
+1765	辉煌 	 resplendence 	 hui1huang2	6	6
+1766	峡谷 	 canyon 	 xia2gu3	6	6
+1767	愈 	 more 	 yu4	6	6
+1768	欺负 	 to bait 	 qi1fu5	4	6
+1769	截至 	 up to 	 jie2zhi4	4	6
+1770	侦探 	 detective 	 zhen1tan4	6	6
+1771	沉闷 	 tediousness 	 chen2men4	5	6
+1772	棍棒 	 billy 	 gun4bang4	5	6
+1773	耗费 	 to cost 	 hao4fei4	4	6
+1774	嘈杂 	 noisy 	 cao1za2	4	6
+1775	屏障 	 barrier 	 ping2zhang4	6	6
+1776	拽 	 to drag 	 zhuai4	6	6
+1777	怀孕 	 pregnancy 	 huai2yun4	4	6
+1778	请柬 	 invitation 	 qing3jian3	1	6
+1779	盗窃 	 to rap and rend 	 dao4qie4	6	6
+1780	肖像 	 portrait 	 xiao4xiang4	3	6
+1781	支撑 	 support 	 zhi1cheng1	4	6
+1782	勉励 	 to encourage 	 mian3li4	4	6
+1783	叹气 	 sigh 	 tan4qi4	1	6
+1784	虐待 	 to abuse 	 nve4dai4	5	6
+1785	飞翔 	 to fly 	 fei1xiang2	1	6
+1786	朝气蓬勃 	 vibrant 	 zhao1qi4peng2bo2	1	6
+1787	宗旨 	 purpose 	 zong1zhi3	5	6
+1788	啃 	 to nibble 	 ken3	6	6
+1789	蔑视 	 to contemn 	 mie4shi4	1	6
+1790	兴致勃勃 	 in spirits 	 xing4zhi4bo2bo2	1	6
+1791	揠苗助长 	 too much zeal spoil all 	 ya4miao2zhu4zhang3	2	6
+1792	沮丧 	 depression 	 ju3sang4	6	6
+1793	掠夺 	 to depredate 	 lve4duo2	6	6
+1794	油漆 	 oil paint 	 you2qi1	4	6
+1795	墨水儿 	 ink 	 mo4shui3r5	1	6
+1796	聋哑 	 surdimutism 	 long3ya3	6	6
+1797	攀登 	 to climb 	 pan1deng1	5	6
+1798	窝 	 cote 	 wo1	6	6
+1799	元宵节 	 festival of lanterns 	 yuan2xiao1jie2	2	6
+1800	灿烂 	 effulgent 	 can4lan4	5	6
+1801	喉咙 	 throat 	 hou1long5	6	6
+1802	艘 	 measure word for warships 	 sou1	6	6
+1803	奠定 	 to establish 	 dian4ding4	3	6
+1804	储蓄 	 savings 	 chu3xu4	6	6
+1805	化妆 	 makeup 	 hua4zhuang1	3	6
+1806	大臣 	 minister 	 da4chen2	1	6
+1807	敷衍 	 perfunctory 	 fu1yan3	6	6
+1808	签订 	 to sign 	 qian1ding4	4	6
+1809	割 	 to cut 	 ge1	6	6
+1810	节奏 	 rhythm 	 jie2zou4	3	6
+1811	洞穴 	 cave 	 dong4xue2	5	6
+1812	眯 	 to narrow 	 mi1	6	6
+1813	嫂子 	 sister in law 	 sao3zi5	1	6
+1814	哆嗦 	 to shiver 	 duo1suo5	6	6
+1815	砖瓦 	 tile 	 zhuan1wa3	6	6
+1816	干旱 	 drought 	 gan1han4	3	6
+1817	慈祥 	 kindly 	 ci2xiang2	6	6
+1818	渣 	 dregs 	 zha1	6	6
+1819	瘫痪 	 paralysis 	 tan1huan4	6	6
+1820	筐 	 basket 	 kuang4	6	6
+1821	吊 	 to suspend 	 diao4	6	6
+1822	串 	 measure word 	 chuan4	6	6
+1823	一丝不苟 	 meticulosity 	 yi1si1bu4gou3	1	6
+1824	膜 	 membrane 	 mo2	6	6
+1825	捍卫 	 to safeguard 	 han4wei4	5	6
+1826	妄想 	 to attempt vainly 	 wang4xiang3	1	6
+1827	茂盛 	 flourish 	 mao4sheng4	6	6
+1828	惋惜 	 to bemoan 	 wan3xi1	4	6
+1829	家喻户晓 	 widely known 	 jia1yu4hu4xiao3	1	6
+1830	住宅 	 house 	 zhu4zhai2	1	6
+1831	董事长 	 board chairman 	 dong3shi4zhang3	2	6
+1832	炉灶 	 cooker 	 lu2zhao4	6	6
+1833	缺陷 	 disfigurement 	 que1xian4	4	6
+1834	审查 	 checkup 	 shen3cha2	3	6
+1835	畅通 	 unblocked 	 chang4tong1	3	6
+1836	斯文 	 gentle 	 si1wen2	3	6
+1837	遥控 	 remote control 	 yao2kong4	5	6
+1838	取缔 	 to ban 	 qu3di4	4	6
+1839	沼泽 	 bog 	 zhao3ze2	6	6
+1840	谣言 	 canard 	 yao2yan2	4	6
+1841	捆绑 	 seizing 	 kun3bang3	6	6
+1842	雕塑 	 sculpture 	 diao1su4	4	6
+1843	酗酒 	 to binge drink 	 xu4jiu3	3	6
+1844	耸 	 to shrug 	 song3	6	6
+1845	兑换 	 to cash in 	 dui4huan4	3	6
+1846	晾 	 to dry in the air 	 liang4	6	6
+1847	钩子 	 hook 	 gou1zi5	1	6
+1848	不堪 	 can't bear 	 bu4kan1	1	6
+1849	砸 	 to smash 	 za2	6	6
+1850	稻谷 	 paddy 	 dao4gu3	6	6
+1851	皆 	 all 	 jie1	6	6
+1852	纤维 	 fibre 	 xian1wei2	5	6
+1853	馅儿 	 stuffing 	 xian4r5	1	6
+1854	贩卖 	 to peddle 	 fan4mai4	3	6
+1855	苍白 	 pale 	 cang1bai2	2	6
+1856	乞丐 	 beggar 	 qi3gai4	6	6
+1857	挽回 	 to retrieve 	 wan3hui2	1	6
+1858	哺乳 	 to suckle 	 bu3ru3	6	6
+1859	坑 	 hole 	 keng1	6	6
+1860	滔滔不绝 	 to dash along 	 tao1tao1bu4jue2	1	6
+1861	臂 	 arm 	 bi4	6	6
+1862	冤枉 	 to be wronged 	 yuan1wang5	6	6
+1863	竭尽全力 	 to lay oneself out 	 jie2jin4quan2li4	3	6
+1864	牲畜 	 livestock 	 sheng1chu4	6	6
+1865	灯笼 	 lantern 	 deng1long5	3	6
+1866	尸体 	 ashes 	 shi1ti3	2	6
+1867	泄露 	 to divulge 	 xie4lou4	5	6
+1868	搅拌 	 to stir 	 jiao3ban4	6	6
+1869	啰嗦 	 long-winded 	 luo1suo5	6	6
+1870	武侠 	 martial arts 	 wu3xia2	5	6
+1871	跌 	 to tumble 	 die1	6	6
+1872	崭新 	 new 	 zhan3xin1	2	6
+1873	磕 	 to knock 	 ke1	6	6
+1874	酝酿 	 to brew 	 yun4niang4	6	6
+1875	腐朽 	 to molder 	 fu3xiu3	5	6
+1876	磨合 	 to grind in 	 mo2he2	4	6
+1877	掀起 	 to lift 	 xian1qi3	1	6
+1878	娃娃 	 dull 	 wa2wa5	6	6
+1879	衣裳 	 clothes 	 yi1shang5	1	6
+1880	耍 	 to play 	 shua3	6	6
+1881	熨 	 to iron 	 yun4	6	6
+1882	二氧化碳 	 carbon dioxide 	 er4yang2hua4tan4	1	6
+1883	打仗 	 to fight (in the war) 	 da3zhang4	1	6
+1884	举世瞩目 	 to draw worldwide attention 	 ju3shi4zhu3mu4	3	6
+1885	嘿 	 hey 	 hei5	6	6
+1886	曲子 	 melody 	 qu3zi5	1	6
+1887	生锈 	 to rust 	 sheng1xiu4	1	6
+1888	诞辰 	 birthday 	 dan4chen2	6	6
+1889	党 	 party 	 dang3	6	6
+1890	牺牲 	 to sacrifice 	 xi1sheng1	6	6
+1891	感慨 	 feeling 	 gan3kai3	3	6
+1892	锋利 	 sharp 	 feng1li4	4	6
+1893	铸造 	 to cast metal 	 zhu4zao4	4	6
+1894	嘲笑 	 to laugh at 	 chao2xiao4	2	6
+1895	悲惨 	 tragic 	 bei1can3	5	6
+1896	抵达 	 to arrive at 	 di3da2	4	6
+1897	踊跃 	 actively 	 yong3yue4	6	6
+1898	薪水 	 salary 	 xin1shui3	1	6
+1899	发炎 	 inflammation 	 fa1yan2	3	6
+1900	叼 	 to hold in the mouth 	 diao1	6	6
+1901	奔波 	 to rush about 	 ben1bo1	6	6
+1902	沸腾 	 to boil 	 fei4teng2	6	6
+1903	衔接 	 to join 	 xian2jie1	3	6
+1904	磋商 	 consultation 	 cuo1shang1	1	6
+1905	火焰 	 flame 	 huo3yan4	1	6
+1906	媳妇 	 wife 	 xi2fu5	5	6
+1907	牢骚 	 complaint 	 lao2sao1	6	6
+1908	没辙 	 no way to go about 	 mei2zhe2	1	6
+1909	防御 	 defense 	 fang2yu4	5	6
+1910	屡次 	 frequently 	 lv3ci4	2	6
+1911	伺候 	 to serve 	 ci4hou5	1	6
+1912	岳父 	 father-in-law 	 yue4fu4	4	6
+1913	坚韧 	 tough 	 jian1ren4	4	6
+1914	逼迫 	 to force 	 bi1po4	5	6
+1915	口腔 	 oral cavity 	 kou3qiang1	3	6
+1916	论坛 	 forum 	 lun4tan2	4	6
+1917	咋 	 how 	 za3	6	6
+1918	压榨 	 to squeeze 	 ya1zha4	4	6
+1919	联络 	 to connect 	 lian2luo4	4	6
+1920	埋伏 	 ambuscade 	 mai2fu5	6	6
+1921	小心翼翼 	 carefully 	 xiao3xin1yi4yi4	1	6
+1922	乌黑 	 jet black 	 wu1hei1	2	6
+1923	婴儿 	 infant 	 ying1er2	1	6
+1924	理睬 	 to pay attention to 	 li3cai3	3	6
+1925	若干 	 some 	 ruo4gan1	3	6
+1926	陈旧 	 obsolete 	 chen2jiu4	3	6
+1927	攒 	 to assemble 	 zan3	6	6
+1928	广阔 	 widest 	 guang3kuo4	4	6
+1929	乐谱 	 music book 	 yue4pu3	2	6
+1930	防疫 	 quarantine 	 fang2yi4	5	6
+1931	绅士 	 gentleman 	 shen1shi4	4	6
+1932	飙升 	 to rise violently 	 biao1sheng1	5	6
+1933	泡沫 	 bubble 	 pao4mo4	6	6
+1934	哦 	 oh 	 o5	6	6
+1935	覆盖 	 to cover 	 fu4gai4	5	6
+1936	吞咽 	 to swallow 	 tun1yan4	6	6
+1937	诉讼 	 lawsuit 	 su4song4	2	6
+1938	灭亡 	 perdition 	 mie4wang2	5	6
+1939	瘸 	 lame 	 que2	6	6
+1940	话筒 	 mike 	 hua4tong3	1	6
+1941	畏惧 	 to fear 	 wei4ju4	6	6
+1942	警惕 	 to alert 	 jing3ti4	4	6
+1943	押金 	 deposit 	 ya1jin1	4	6
+1944	吝啬 	 cheeseparing 	 lin4se4	6	6
+1945	颁布 	 to issue 	 ban1bu4	5	6
+1946	帐篷 	 tent 	 zhang4peng5	6	6
+1947	诚挚 	 sincere 	 cheng2zhi4	4	6
+1948	飞跃 	 to overfly 	 fei1yue4	1	6
+1949	缴纳 	 to pay 	 jiao3na4	6	6
+1950	俯仰 	 pitching 	 fu3yang3	6	6
+1951	幢 	 measure word 	 zhuang4	6	6
+1952	恩怨 	 feeling of gratitude of resentment 	 en1yuan4	6	6
+1953	崩溃 	 to collapse 	 beng1kui4	6	6
+1954	钞票 	 paper money 	 chao1piao4	2	6
+1955	昆虫 	 insect 	 kun1chong2	6	6
+1956	残酷 	 cruel 	 can2ku4	5	6
+1957	奴隶 	 slave 	 nu2li4	6	6
+1958	腹泻 	 diarrhea 	 fu4xie4	6	6
+1959	舰艇 	 warship 	 jian4ting3	6	6
+1960	沐浴 	 bath 	 mu4yu4	6	6
+1961	搁 	 to put 	 ge1	6	6
+1962	塌 	 to collapse 	 ta1	6	6
+1963	锲而不舍 	 to perseverance 	 qie4er2bu4she3	1	6
+1964	贝壳 	 shell 	 bei4ke2	5	6
+1965	枚 	 measure word 	 mei2	6	6
+1966	栽培 	 to plant 	 zai1pei2	5	6
+1967	一帆风顺 	 plain sailing 	 yi1fan1feng1shun4	1	6
+1968	堕落 	 to corrupt 	 duo4luo4	5	6
+1969	回馈 	 to feedback 	 fan3kui4	1	6
+1970	呻吟 	 to groan 	 shen1yin2	6	6
+1971	啥 	 what 	 sha2	6	6
+1972	永恒 	 forever 	 yong3heng2	4	6
+1973	遭殃 	 to suffer 	 zao1yang1	6	6
+1974	驱逐 	 abjection 	 qu1zhu2	4	6
+1975	土壤 	 soil 	 tu3rang3	5	6
+1976	变迁 	 vicissitudes 	 bian4qian1	3	6
+1977	呕吐 	 to disgorge 	 ou3tu4	5	6
+1978	揍 	 to beat 	 zou4	6	6
+1979	公婆 	 parents-in-law 	 gong1po2	2	6
+1980	盯 	 to gaze at 	 ding1	6	6
+1981	盲目 	 blindness 	 mang2mu4	3	6
+1982	凝固 	 concreting 	 ning2gu4	5	6
+1983	繁殖 	 to breed 	 fan2zhi2	5	6
+1984	瞻仰 	 to pay respects 	 zhan1yang3	6	6
+1985	涮火锅 	 to eat hot pot 	 shuan4huo3guo1	1	6
+1986	赤道 	 equator 	 chi4dao4	2	6
+1987	磅 	 pounds 	 bang4	6	6
+1988	爽快 	 kindly 	 shuang3kuai4	2	6
+1989	无耻 	 shameless 	 wu2chi3	4	6
+1990	歌颂 	 to praise 	 ge1song4	2	6
+1991	掐 	 to nip 	 qia1	6	6
+1992	荒凉 	 desolation 	 huang1liang2	4	6
+1993	肆无忌惮 	 unscrupulous 	 si4wu2ji4dan4	4	6
+1994	猛烈 	 violent 	 meng3lie4	5	6
+1995	副 	 secondary 	 fu4	6	6
+1996	光辉 	 light 	 guang1hui1	4	6
+1997	匪徒 	 mobster 	 fei3tu2	6	6
+1998	海滨 	 shore 	 hai3bin1	4	6
+1999	愣 	 blank 	 leng4	6	6
+2000	停滞 	 stasis 	 ting2zhi4	4	6
+2001	结晶 	 rime 	 jie2jing1	3	6
+2002	水泥 	 cement 	 shui3ni2	1	6
+2003	蹦 	 to jump 	 beng4	6	6
+2004	无赖 	 rascal 	 wu2lai4	4	6
+2005	别扭 	 awkward 	 bie4niu5	2	6
+2006	阻挠 	 to thwart 	 zu3nao2	5	6
+2007	捏 	 to nip 	 nie1	6	6
+2008	嗨 	 hi 	 hai5	6	6
+2009	逝世 	 to die 	 shi4shi4	3	6
+2010	堤坝 	 dyke 	 di1ba4	6	6
+2011	钻研 	 to study 	 zuan1yan2	4	6
+2012	哨 	 whistle 	 shao4	6	6
+2013	抱怨 	 to complain 	 bao4yuan4	4	6
+2014	甭 	 do not 	 beng2	6	6
+2015	各抒己见 	 to air their own views 	 ge4shu1ji3jian4	1	6
+2016	告诫 	 to warn 	 gao4jie4	2	6
+2017	框架 	 frame 	 kuang4jia4	5	6
+2018	债券 	 bond 	 zhai4quan4	6	6
+2019	旗袍 	 cheong-sam 	 qi2pao2	6	6
+2020	津津有味 	 to do something with keen pleasure 	 jin1jin1you3wei4	1	6
+2021	遏制 	 to restrain 	 e4zhi4	4	6
+2022	昂贵 	 expensive 	 ang2gui4	2	6
+2023	媒介 	 medium 	 mei2jie4	2	6
+2024	猖狂 	 savage 	 chang1kuang2	5	6
+2025	橙 	 orange 	 cheng2	6	6
+2026	倘若 	 provided 	 tang3ruo4	6	6
+2027	胸膛 	 thoraces 	 xiong1tang2	5	6
+2028	牢固 	 fastness 	 lao2gu4	5	6
+2029	唾沫 	 saliva 	 tuo4mo5	6	6
+2030	勤俭 	 thrift 	 qin2jian3	5	6
+2031	诧异 	 surprise 	 cha4yi4	6	6
+2032	佳肴 	 cate 	 jia1yao2	6	6
+2033	淹没 	 to flood 	 yan1mo4	1	6
+2034	巩固 	 to consolidate 	 gong3gu4	5	6
+2035	里程碑 	 landmark 	 li3cheng2bei1	1	6
+2036	闪烁 	 to coruscate 	 shan3shuo4	5	6
+2037	辨认 	 to identify 	 bian4ren4	1	6
+2038	癌症 	 cancer 	 ai2zheng4	6	6
+2039	池塘 	 pool 	 chi2tang2	5	6
+2040	挑剔 	 to carp at 	 tiao1ti4	5	6
+2041	忙碌 	 to bustle about 	 mang2lu4	2	6
+2042	贤慧 	 virtuous 	 xian2hui4	5	6
+2043	嫉妒 	 to begrudge 	 ji2du4	6	6
+2044	诬陷 	 false charges 	 wu1xian4	6	6
+2045	糟蹋 	 to waste 	 zao1ta5	5	6
+2046	嫌 	 to dislike 	 xian2	6	6
+2047	狼狈 	 bewilderment 	 lang2bei4	5	6
+2048	憋 	 to hold 	 bie1	6	6
+2049	揉 	 to knead 	 rou2	6	6
+2050	港口 	 harbor 	 gang3kou3	3	6
+2051	舞蹈 	 dance 	 wu2dao3	2	6
+2052	熬 	 to simmer 	 ao2	6	6
+2053	新郎 	 bridegroom 	 xin1lang2	2	6
+2054	荒谬 	 ridiculous 	 huang1miu4	6	6
+2055	拖延 	 to prolong 	 tuo1yan2	5	6
+2056	挫折 	 throwback 	 cuo4zhe2	4	6
+2057	摧残 	 to wreck 	 cui1can2	5	6
+2058	动荡 	 upheaval 	 dong4dang4	2	6
+2059	耕地 	 to plough 	 geng1di4	2	6
+2060	大肆 	 wantonly 	 da4si4	1	6
+2061	濒临 	 to be on the verge of 	 bin1lin2	5	6
+2062	吼 	 to roar 	 hou3	6	6
+2063	分泌 	 to secrete 	 fen1mi4	2	6
+2064	按摩 	 to massage 	 an4mo2	4	6
+2065	欧洲 	 Europe 	 Ou1zhou1	4	6
+2066	崇拜 	 to admire 	 chong2bai4	5	6
+2067	偏差 	 windage 	 pian1cha1	3	6
+2068	保障 	 to ensure 	 bao3zhang4	4	6
+2069	喜悦 	 gladness 	 xi3yue4	1	6
+2070	大厦 	 mansion 	 da4sha4	1	6
+2071	租赁 	 to rent 	 zu1ling4	1	6
+2072	投掷 	 to cast 	 tou2zhi4	5	6
+2073	压抑 	 inhibition 	 ya1yi4	4	6
+2074	瀑布 	 waterfall 	 pu4bu4	5	6
+2075	琢磨 	 to ponder 	 zhuo2mo2	6	6
+2076	舔 	 to lap 	 tian3	6	6
+2077	抹杀 	 to erase 	 mo3sha1	5	6
+2078	旗帜 	 flag 	 qi2zhi4	6	6
+2079	熏陶 	 Influence 	 xun1tao2	6	6
+2080	抛弃 	 to abandon 	 pao1qi4	4	6
+2081	恍然大悟 	 to take a tumble 	 huang3ran2da4wu4	1	6
+2082	桨 	 oar 	 jiang3	6	6
+2083	宽敞 	 spacious 	 kuan1chuang3	4	6
+2084	点缀 	 to intersperse 	 dian3zhui4	1	6
+2085	卑鄙 	 despicable 	 bei1bi3	6	6
+2086	充沛 	 bountiful 	 chong1pei4	5	6
+2087	采纳 	 to adopt 	 cai3na4	5	6
+2088	哇 	 wow 	 wa5	6	6
+2089	悬挂 	 to swing from 	 xuan2gua4	4	6
+2090	隐蔽 	 to conceal 	 yin3bi4	6	6
+2091	迷惑 	 to puzzle 	 mi2huo4	5	6
+2092	舟 	 boat 	 zhou1	6	6
+2093	摇晃 	 rumble-tumble 	 yao2huang4	5	6
+2094	画蛇添足 	 to gild 	 hua4she2tian1zu2	2	6
+2095	抢劫 	 to dacoity 	 qiang3jie2	5	6
+2096	油腻 	 fatness 	 you2ni4	4	6
+2097	宰 	 to butcher 	 zai3	6	6
+2098	挪 	 to move 	 nuo2	6	6
+2099	华侨 	 overseas Chinese 	 hua2qiao2	5	6
+2100	纠纷 	 dispute 	 jiu1fen1	5	6
+2101	廉洁 	 probity 	 lian2jie2	6	6
+2102	稿件 	 contribution 	 gao3jian4	2	6
+2103	溅 	 to spatter 	 jian4	6	6
+2104	天堂 	 heaven 	 tian1tang2	1	6
+2105	调剂 	 to adjust 	 tiao2ji4	3	6
+2106	喘气 	 to breathe 	 chuan3qi4	1	6
+2107	诱惑 	 to entice 	 you4huo4	6	6
+2108	弦 	 bowstring 	 xian2	6	6
+2109	座右铭 	 motto 	 zuo4you4ming2	2	6
+2110	纺织 	 textile 	 fang3zhi1	4	6
+2111	束缚 	 to restrict 	 shu4fu4	3	6
+2112	描绘 	 to depict 	 miao2hui4	5	6
+2113	丛 	 measure word 	 cong2	6	6
+2114	垄断 	 to monopolize 	 long3duan4	4	6
+2115	扁 	 flat 	 bian3	6	6
+2116	拟定 	 to study out 	 ning3ding4	3	6
+2117	腐蚀 	 to canker 	 fu3shi2	5	6
+2118	颤抖 	 to quiver 	 chan4dou3	5	6
+2119	烹饪 	 to cook 	 peng1ren4	6	6
+2120	曝光 	 to exposure 	 bao4guang1	4	6
+2121	馋 	 greedy 	 chan2	6	6
+2122	伴侣 	 partner 	 ban4lv3	5	6
+2123	队伍 	 troop 	 dui4wu5	5	6
+2124	挎 	 to carry on the arm 	 kua4	6	6
+2125	暴力 	 violence 	 bao4li4	3	6
+2126	请帖 	 invitation card 	 qing3tie3	1	6
+2127	兴旺 	 boom 	 xing1wang4	1	6
+2128	侧面 	 flank 	 ce4mian4	1	6
+2129	畔 	 bank 	 pan4	6	6
+2130	拧 	 to screw 	 ning3	6	6
+2131	搂 	 cuddle 	 lou3	6	6
+2132	光芒 	 light 	 guang1mang2	4	6
+2133	打官司 	 to go to court 	 da3guan1si5	1	6
+2134	皱纹 	 wrinkle 	 zhou4wen2	6	6
+2135	忠诚 	 loyal 	 zhong1cheng2	4	6
+2136	闭塞 	 blocking 	 bi4se4	5	6
+2137	哎哟 	 ow 	 ai1yo5	6	6
+2138	有条不紊 	 systematically 	 you3tiao2bu4wen3	1	6
+2139	欲望 	 appetency 	 yu4wang4	2	6
+2140	不屑一顾 	 to be beneath one's notice 	 bu4xie4yi1gu4	1	6
+2141	动脉 	 artery 	 dong4mai4	2	6
+2142	贪婪 	 greed 	 tan1lan3	6	6
+2143	牵扯 	 to drag in 	 qian1che3	5	6
+2144	船舶 	 boat 	 chuan2bo2	2	6
+2145	疲倦 	 languor 	 pi2juan4	5	6
+2146	郑重 	 serious 	 zheng4zhong4	3	6
+2147	丘陵 	 hill 	 qiu1ling2	6	6
+2148	掰 	 to break with both hands 	 bai1	6	6
+2149	饱经沧桑 	 to have experienced many vicissitudes of life 	 bao3jing1cang1sang1	2	6
+2150	翘 	 to raise 	 qiao4	6	6
+2151	摸索 	 to grope 	 mo1suo3	6	6
+2152	垂直 	 vertical 	 chui2zhi2	3	6
+2153	娇气 	 effeminate 	 jiao1qi4	1	6
+2154	忌讳 	 taboo 	 ji4hui4	6	6
+2155	丸 	 pill 	 wan2	6	6
+2156	淋 	 to drench 	 lin2	6	6
+2157	弊病 	 drawback 	 bi4bing4	2	6
+2158	拨打 	 to call 	 bo1da3	1	6
+2159	锦绣前程 	 bright future 	 jin3xiu4qian2cheng2	1	6
+2160	开拓 	 to bring forth 	 kai1tuo4	1	6
+2161	趴 	 to grovel 	 pa1	6	6
+2162	迸发 	 to burst forth 	 beng4fa1	3	6
+2163	埋葬 	 to bury 	 mai2zang4	6	6
+2164	昔日 	 formerly 	 xi1ri4	1	6
+2165	同胞 	 brethren 	 tong2bao1	1	6
+2166	拄 	 to prop with a crutch 	 zhu3	6	6
+2167	报酬 	 remuneration 	 bao4chou5	3	6
+2168	简陋 	 simple and crude 	 jian3lou4	3	6
+2169	渗透 	 to infiltrate 	 shen4tou4	5	6
+2170	野蛮 	 brutal 	 ye3man2	5	6
+2171	珍稀 	 rare 	 zhen1xi1	5	6
+2172	疙瘩 	 lump 	 ge1da5	6	6
+2173	迁徙 	 to migrate 	 qian1xi3	6	6
+2174	狭隘 	 narrow 	 xia2ai4	6	6
+2175	庸俗 	 philistinism 	 yong1su2	5	6
+2176	摊儿 	 booth 	 tan1r5	1	6
+2177	跪 	 to kneel 	 gui4	6	6
+2178	斩钉截铁 	 categorical 	 zhan3ding1jie2tie3	3	6
+2179	勘探 	 to  reconnoitre 	 kan1tan4	6	6
+2180	寻觅 	 to seek 	 xun2mi4	5	6
+2181	杠杆 	 lever 	 gang4gan3	6	6
+2182	殴打 	 to beat up 	 ou1da3	1	6
+2183	热泪盈眶 	 eyes filled with tears 	 re4lei4ying2kuang4	1	6
+2184	渺小 	 tiny 	 miao3xiao3	1	6
+2185	吩咐 	 behest 	 fen1fu4	5	6
+2186	派遣 	 to dispatch 	 pai4qian3	5	6
+2187	魄力 	 courage 	 po4li4	3	6
+2188	理直气壮 	 be in the right and self-confident 	 li3zhi2qi4zhuang4	1	6
+2189	凌晨 	 wee hours 	 ling2chen2	6	6
+2190	桥梁 	 bridge 	 qiao2liang2	4	6
+2191	挖掘 	 to dig 	 wa1jue2	6	6
+2192	挨 	 to suffer 	 ai2	6	6
+2193	糖葫芦 	 candied fruit 	 tang2hu2lu5	3	6
+2194	惦记 	 to keep thinking about 	 dian4ji5	3	6
+2195	庞大 	 tremendous 	 pang2da4	1	6
+2196	湖泊 	 lake 	 hu2po1	6	6
+2197	寒暄 	 greetings 	 han2xuan1	4	6
+2198	遮挡 	 to block 	 zhe1dang3	5	6
+2199	宪法 	 constitution 	 xian4fa3	3	6
+2200	隔阂 	 gulf 	 ge2he2	5	6
+2201	锤 	 hammer 	 chui2	6	6
+2202	分裂 	 abruption 	 fen1lie4	2	6
+2203	勿 	 do not 	 wu4	6	6
+2204	搀 	 to mingle 	 chan1	6	6
+2205	愚蠢 	 silly 	 yu2chun3	6	6
+2206	文雅 	 elegant 	 wen2ya3	3	6
+2207	胆怯 	 timidity 	 dan3qie4	5	6
+2208	坡 	 slope 	 po1	6	6
+2209	扛 	 to shoulder 	 kang2	6	6
+2210	搭 	 to build 	 da1	6	6
+2211	唠叨 	 to chatter 	 lao2dao5	6	6
+2212	疲惫 	 tired 	 pi2bei4	5	6
+2213	麻痹 	 anaesthetization 	 ma2bi4	4	6
+2214	嘴唇 	 lip 	 zui3chun2	4	6
+2215	额外 	 extra 	 e2wai4	2	6
+2216	会晤 	 to contact 	 hui4wu4	1	6
+2217	撒谎 	 to lie 	 sa1huang3	6	6
+2218	兢兢业业 	 cautious and conscientious 	 jing1jing1ye4ye4	3	6
+2219	膝盖 	 knee 	 xi1gai4	5	6
+2220	毁灭 	 to destroy 	 hui3mie4	5	6
+2221	罢工 	 strike 	 ba4gong1	1	6
+2222	港湾 	 harbor 	 gang3wan1	6	6
+2223	驻扎 	 to garrison 	 zhu4zha1	6	6
+2224	包庇 	 to harbor 	 bao1bi4	3	6
+2225	岔 	 to branch in a road 	 cha4	6	6
+2226	干涉 	 to interfere 	 gan1she4	3	6
+2227	撤退 	 to beat a retreat 	 che4tui4	5	6
+2228	雪上加霜 	 worse 	 xue3shang4jia1shuang1	1	6
+2229	舆论 	 public opinion 	 yu2lun4	4	6
+2230	海拔 	 altitude 	 hai3ba2	4	6
+2231	迄今为止 	 so far 	 qi4jin1wei2zhi3	1	6
+2232	竖 	 to erect 	 shu4	6	6
+2233	天伦之乐 	 happiness of family life 	 tian1lun2zhi1le4	1	6
+2234	秤 	 steelyard 	 cheng4	6	6
+2235	表彰 	 to commend 	 biao3zhang1	2	6
+2236	瓦解 	 to collapse 	 wa3jie3	3	6
+2237	贯彻 	 to implement 	 guan4che4	5	6
+2238	抚养 	 to bring up 	 fu3yang3	4	6
+2239	饶恕 	 to excuse 	 rao2shu4	6	6
+2240	珍珠 	 genuine pearl 	 zhen1zhu1	5	6
+2241	践踏 	 to stomp 	 jian4ta4	5	6
+2242	潮流 	 tide 	 chao2liu2	4	6
+2243	啦 	 la 	 la5	6	6
+2244	引擎 	 engine 	 yin3qing2	4	6
+2245	捞 	 to gain 	 lao1	6	6
+2246	魔鬼 	 devil 	 mo2gui3	5	6
+2247	荒唐 	 ridiculous 	 huang1tang2	6	6
+2248	畜牧 	 farming 	 xu4mu4	6	6
+2249	懒惰 	 indolence 	 lan3duo4	4	6
+2250	呼吁 	 to appeal to 	 hu1yu4	5	6
+2251	漂浮 	 to float 	 piao1fu2	2	6
+2252	呈现 	 to present 	 cheng2xian4	1	6
