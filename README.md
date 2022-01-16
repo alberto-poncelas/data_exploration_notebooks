@@ -6,6 +6,7 @@ Collection of notebooks analyzing datasets.
 * Languages:
   * Japanese:
     * [Kanji_readings](https://github.com/alberto-poncelas/data_exploration_notebooks/blob/master/Kanji_readings/kanji_readings.ipynb)
+    * [Kanji JLPT](https://github.com/alberto-poncelas/data_exploration_notebooks/blob/master/Kanji_JLPT/kanji_JLPT.ipynb)
     * [Japanese_sentence_JLPT_level](https://github.com/alberto-poncelas/data_exploration_notebooks/blob/master/Japanese_sentence_JLPT_level/Japanese_sentence_JLPT_level.ipynb)
   * Chinese:
     * [frequent_words_chinese](https://github.com/alberto-poncelas/data_exploration_notebooks/blob/master/frequent_words_chinese/frequent_words_chinese.ipynb)
